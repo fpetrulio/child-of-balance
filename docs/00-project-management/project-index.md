@@ -30,6 +30,8 @@ Le fasi della progressione di livelli sono SOLO ipotesi.
 
 **AGGIORNAMENTO 12 OTTOBRE 2026 — Dopo revisione completa del progetto: (1) Bene Assoluto riconosciuto come dottrina imposta da Eos, non verità cosmica, simmetrica alla Legge del Prezzo (DEC-0021) — risolve la tensione fra Bene deontologico e Bene preventivo; (2) binario "romanzo fantasy" rimandato fino al Gate F (DEC-0023); (3) prossimo passo di progettazione: Gate A (regole del potere di Eos), poi Gate B (limiti all'intervento divino — candidato: il Patto degli Avatar di Ao, lore reale verificata), uno alla volta.**
 
+**AGGIORNAMENTO 12 OTTOBRE 2026 (sessione Gate A) — Gate A RISOLTO IN GRAN PARTE. Il vero destino di Eos è la Neutralità druidica (DEC-0027), non il Bene o il Male Assoluto — spiega perché il primo Eos era druido e la profezia affidata ai druidi, e identifica l'errore filosofico comune ai due Assoluti (DEC-0028). Censite 6 reliquie-Impronte (una per coppia di domini da Chierico canonici: Vita/Morte, Luce/Ombra, Conoscenza/Inganno, Creazione/Distruzione, Guerra/Pace, Natura/Arcano), ciascuna con due poteri assoluti contrapposti pensati per generare avventure di recupero (DEC-0029/0030). Costo del potere: Registro dell'Equilibrio (DEC-0031) — ogni squilibrio creato con le reliquie si inverte se Eos trova la Neutralità; dettaglio se diventerà un oggetto concreto ("La Bilancia di Eos") rimandato al Gate D/finale. Tema per i giocatori: accettare la mortalità come capacità, non solo limite (DEC-0032). Livello iniziale confermato a 1, range ampio (vicino a 1–20) proposto come nota di lavoro per il Gate E (DEC-0033). Dettagli completi in [Potere di Eos §16](../01-campaign-design/potere-di-eos-workshop.md#16-risoluzione-del-gate-a--12-ottobre-2026). Prossimo passo: Gate B, in una sessione separata.**
+
 ## 3. Documenti e link (Drive, sorgenti)
 
 - [Campaign Bible](https://docs.google.com/document/d/1xUVAhAQp7HrlX3xcHgM16IGR0lX8wVj_WGPk4r6CaaA/edit) — fonte primaria del canone
@@ -97,6 +99,7 @@ H) Un decision gate alla volta (vedi nota di processo in §1); fine sessione →
 - **2026-10-12 · Repository pubblico GitHub creato e collegato: https://github.com/fpetrulio/child-of-balance.**
 - **2026-10-12 · Revisione completa del progetto: ChatGPT sostituito da Claude Code (DEC-0022), ruolo di Drive ridotto, versioni tecniche verificate, Bene Assoluto risolto come dottrina di Eos (DEC-0021), romanzo rimandato (DEC-0023), routine `/wrapup` e `CLAUDE.md` introdotte.**
 - **2026-10-12 · Cleanup del motore LaTeX (rimosso workflow multi-collaboratore e tooling di manutenzione del template) e creazione dello scheletro completo dell'avventura (`main.tex` + Introduzione + 4 capitoli + 3 interludi + 4 appendici), struttura standard di un'avventura D&D pubblicata. Aggiunte direttive di tono (morale/investigativo, DEC-0024) e di ambientazione (ancoraggio ai Forgotten Realms reali, DEC-0025).**
+- **2026-10-12 · Gate A risolto in gran parte (sessione dedicata): destino di Neutralità druidica di Eos (DEC-0027/0028), 6 reliquie-Impronte per coppie di domini canonici con poteri assoluti contrapposti (DEC-0029/0030), Registro dell'Equilibrio come costo del potere (DEC-0031), tema della mortalità come capacità (DEC-0032), livello iniziale 1 confermato (DEC-0033).**
 
 ## 9. Documenti in questo archivio locale
 

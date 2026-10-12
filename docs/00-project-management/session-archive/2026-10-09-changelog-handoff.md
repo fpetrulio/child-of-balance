@@ -113,3 +113,31 @@ CL-32 | STRUTTURA | Creato `main.tex` e lo scheletro completo dell'avventura in 
 CL-33 | CONFERMATO (DEC-0024) | Taglio dell'avventura morale e investigativo, non puramente epico-militare; le varianti creative di de-escalation di uno scontro restano soggette a costo/rischio reale ("semplificare" ≠ "risolvere facilmente"). Richiesta esplicita dell'autore, non preservata altrove nell'archivio prima di oggi.
 
 CL-34 | CONFERMATO (DEC-0025) | L'avventura deve ancorarsi quanto più possibile alla Forgotten Realms reale (luoghi, fazioni, eventuali PNG storici) oltre al mito homebrew di Eos. Richiesta esplicita dell'autore, non preservata altrove nell'archivio prima di oggi.
+
+## Gate A — risoluzione completa — 12 ottobre 2026 (continua)
+
+Sessione di design diretta con l'autore sul Gate A della Narrative Roadmap (regole del potere di Eos). Dettagli completi in [`potere-di-eos-workshop.md` §16](../../01-campaign-design/potere-di-eos-workshop.md#16-risoluzione-del-gate-a--12-ottobre-2026).
+
+CL-35 | CONFERMATO (DEC-0026) | Il potere di Eos unisce TUTTE le antitesi (non solo luce/ombra): influenza potenziale su ogni dominio divino e scuola di magia, sblocco progressivo con l'età.
+
+CL-36 | CONFERMATO (DEC-0027) | Il vero destino di Eos è la Neutralità druidica — non interviene per bene o male ma secondo l'ordine naturale, non prevarica vita/morte, non decide per altri cosa sia giusto, lascia ai mortali la scelta del proprio destino. Spiega retroattivamente perché il primo Eos fosse druido e la profezia affidata ai druidi. Rivelazione dell'autore, non preservata altrove nell'archivio prima di oggi.
+
+CL-37 | CONFERMATO (DEC-0028) | "Equilibrio non significa neutralità morale" (Campaign Bible §1) riguarda il messaggio generale del mondo; il destino di Eos verso la Neutralità druidica riguarda solo il suo ruolo cosmico — affermazioni diverse e compatibili. Identifica l'errore filosofico comune a Bene e Male Assoluto (apertura di DEC-0021): entrambi violano gli stessi due precetti neutrali.
+
+CL-38 | ITERAZIONE DI DESIGN | Le Impronte sono passate per tre modelli prima di quello finale: (1) "reconciliatore generico di incompatibilità in scena" — scartato, troppo improvvisativo per il master; (2) un effetto fisso con un costo automatico incorporato (es. vita in cambio di un'altra vita nelle vicinanze) — scartato, non dava conflitto reale né uso pratico ricorrente (caso dello Scisma dell'Altare come giudizio di colpa/innocenza); (3) coppie di domini da Chierico canonici, due poteri assoluti contrapposti ciascuna — adottato. Razionale: l'autore ha definito il criterio esplicito "la priorità non è la prevedibilità ma la coerenza" e "i due poteri devono essere entrambi assoluti, non uno buono e uno cattivo".
+
+CL-39 | CONFERMATO (DEC-0029, DEC-0030) | Censimento di 6 reliquie-Impronte, una per coppia di domini canonici (Vita/Morte, Luce/Ombra, Conoscenza/Inganno, Creazione/Distruzione, Guerra/Pace, Natura/Arcano): Cuore Bicolore, Velo Strappato, Specchio Fesso, Seme di Tempesta, Tamburo Silenzioso, Radice Incantata. Pensate esplicitamente per generare un'avventura di recupero ciascuna (richiesta dell'autore).
+
+CL-40 | CONFERMATO (DEC-0031) | Registro dell'Equilibrio: ogni squilibrio creato con le reliquie si inverte se/quando Eos trova la Neutralità. Si applica uniformemente a tutte e 6. Razionale: conseguenza diretta della natura di Eos, non regola a parte; contromisura strutturale al rischio "deus ex machina" (il potere massimo di Eos è la posta in gioco del finale, non uno strumento disponibile prima).
+
+CL-41 | PROPOSTA, NON DECISA NEI DETTAGLI | "La Bilancia di Eos": un oggetto che solo Eos adulto può evocare, con cui mostrerebbe ai PG cosa cambierà quando l'Equilibrio sarà ristabilito, aprendo una scena di negoziazione (i PG potrebbero sostenere che anche ripristinare il passato è una modifica dell'equilibrio; Eos ne giudicherebbe la sincerità leggendo le loro anime). Rimandato al Gate D/finale per decisione sui dettagli — l'autore ha preferito non fissarlo ora.
+
+CL-42 | CONFERMATO (DEC-0032) | Tema per i giocatori: accettare la mortalità come capacità, non solo limite; tentazione e conseguenze reali nell'uso delle reliquie, non annullabili a piacere. Richiesta esplicita dell'autore, non preservata altrove nell'archivio prima di oggi.
+
+CL-43 | CONFERMATO (DEC-0033) | Livello iniziale della campagna: 1 (chiude parzialmente Q-007). Nota di lavoro per il Gate E: range ampio (vicino a 1–20) per dare spazio alle 6 avventure di recupero delle reliquie.
+
+## Handoff — fine sessione Gate A, 12 ottobre 2026
+
+Gate A della Narrative Roadmap RISOLTO IN GRAN PARTE. Prossimo passo secondo la roadmap: Gate B (protezione divina — limiti all'intervento di Lathander e Shar). Candidato già verificato e annotato: il Patto degli Avatar di Ao (lore reale dei Forgotten Realms). Da affrontare in una sessione dedicata, separata da questa, per preferenza esplicita dell'autore (un gate alla volta, anche se tematicamente collegati).
+
+Aperto per dopo (non bloccante): dettagli del Registro/Bilancia dell'Equilibrio (Gate D/finale); fascia di livelli esatta oltre al livello iniziale (Gate E); custodia definitiva delle reliquie e trama delle rispettive avventure di recupero (da scrivere quando si arriva al contenuto giocabile).

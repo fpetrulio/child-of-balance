@@ -52,3 +52,7 @@ Le preferenze progettuali nelle sezioni 1–3 sono vincoli espliciti dell'autore
 ## 6. Ambientazione: Forgotten Realms
 
 CONFERMATO (12/10/2026, DEC-0025) — L'avventura deve ancorarsi quanto più possibile ai Forgotten Realms reali: luoghi esistenti (città, regioni, rovine note), fazioni canoniche (es. Harper, Zhentarim, Lords' Alliance, Emerald Enclave — l'Ordine dell'Alba Incorrotta e il Velo dell'Ultima Quiete restano le uniche fazioni homebrew core), ed eventuali camei di PNG storici o noti del setting, laddove non confliggano con il mito homebrew di Eos (Campaign Bible §2) o con la clandestinità dei due culti (Campaign Bible §6). A parità di esigenza narrativa, preferire sempre un elemento di lore reale a un'invenzione ex novo.
+
+## 7. Tentazione e conseguenze (reliquie di Eos)
+
+CONFERMATO (12/10/2026, DEC-0032) — La campagna vuole insegnare ai PG ad accettare le conseguenze e l'equilibrio — non necessariamente diventare neutrali essi stessi, ma accettare la mortalità non solo come limite tra vita e morte, ma anche come **capacità**. I PG devono essere attivamente tentati e insidiati all'uso smodato delle reliquie di Eos (vedi `potere-di-eos-workshop.md` §16.4), e devono pagarne le conseguenze tramite il Registro dell'Equilibrio (§16.5): ogni squilibrio creato con il loro potere torna a saldarsi se/quando Eos trova la Neutralità. Non è una punizione da evitare a ogni costo — è la leva drammatica centrale: i giocatori devono percepire che ogni scorciatoia ha un prezzo reale e differito, non annullabile a piacere.

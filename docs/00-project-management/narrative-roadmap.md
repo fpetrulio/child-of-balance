@@ -31,6 +31,8 @@ Vincoli: D&D 5e 2014; le capacità cosmiche speciali non sono automaticamente in
 
 **GATE DI USCITA:** il GM approva almeno effetti, limiti e vulnerabilità; le missioni possono ora essere causali.
 
+**STATO (12/10/2026): RISOLTO IN GRAN PARTE.** Scheda Potere di Eos v1 completata in sessione diretta con l'autore — origine/attivazione (unione totale dei domini, sblocco per età), effetti/limiti (destino di Neutralità druidica, DEC-0027), costi/contromisure (Registro dell'Equilibrio, DEC-0031) e 6 reliquie-Impronte con poteri precisi (DEC-0029/0030). Dettagli completi in [Potere di Eos §16](../01-campaign-design/potere-di-eos-workshop.md#16-risoluzione-del-gate-a--12-ottobre-2026). Restano aperti solo parametri di playtest tunabili (economia delle cariche, dettagli del Registro/Bilancia — rimandati al Gate D/finale). Prossimo gate: **Gate B** (protezione divina — candidato: Patto degli Avatar di Ao, non ancora deciso), da affrontare in sessione separata per preferenza dell'autore.
+
 ## 2. Gate B — Protezione divina e opposizione
 
 Domande:
@@ -73,7 +75,7 @@ I nomi "Ordine dell'Alba Incorrotta" e "Velo dell'Ultima Quiete" restano provvis
 
 ## 5. Gate E — Struttura della campagna
 
-Scelta del livello iniziale 1 o 5; durata e intervalli di downtime; origine del nuovo Eos e genitori mortali; diffusione della profezia; cronologia; luoghi canonici; crescita dell'Eos bambino; evoluzione dei culti; incontro decisivo.
+Livello iniziale CONFERMATO a 1 (DEC-0033, 12/10/2026). Resta da decidere: fascia finale (nota di lavoro: range ampio, vicino a 1–20, per dare spazio alle 6 avventure di recupero delle reliquie di Eos — vedi [Potere di Eos §16.7](../01-campaign-design/potere-di-eos-workshop.md)); durata e intervalli di downtime; origine del nuovo Eos e genitori mortali; diffusione della profezia; cronologia; luoghi canonici; crescita dell'Eos bambino; evoluzione dei culti; incontro decisivo.
 
 **OUTPUT:** sinossi di una pagina, timeline con milestone, capitoli con scopo, conflitto e conseguenze.
 

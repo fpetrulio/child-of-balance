@@ -172,3 +172,92 @@ Fino a nuove conferme: tutte le regole di v0.2 restano IPOTESI.
 APPROVATO LIMITATAMENTE — Le Impronte nascono soltanto da manifestazioni eccezionali di Eos; non sono ricavabili direttamente da sangue, capelli o parti del corpo prelevate normalmente. Inserito come DEC-0017 nella Campaign Bible.
 
 RESTA IPOTESI — Quantità e collocazione delle Impronte, numero di impulsi, ricarica di prossimità, tempistica, costi, effetti speciali, modalità di rafforzamento e rapporto con manifestazioni maggiori.
+
+---
+
+## 16. RISOLUZIONE DEL GATE A — 12 OTTOBRE 2026
+
+Sessione di design diretta con l'autore. Questa sezione sostituisce, dove in conflitto, le ipotesi non ancora approvate nelle sezioni 1-15 (che restano come cronologia del percorso, non cancellate). Decisioni registrate anche in Campaign Bible DEC-0026 a DEC-0032.
+
+### 16.1 Natura e sblocco del potere (origine, attivazione) — DEC-0026
+
+CONFERMATO — Eos non unisce solo luce e ombra: essendo nato dall'unione di TUTTE le antitesi incarnate da Lathander e Shar, ha potenzialmente influenza su ogni dominio divino e ogni scuola di magia. Può plasmare la realtà, interferire con mente, anima e corpo degli esseri viventi; al suo stato massimo può interferire persino con altre divinità.
+
+CONFERMATO — Il potere si sblocca progressivamente con la crescita, non è disponibile tutto subito: neonato = nessuna manifestazione deliberata; bambino/ragazzo = episodi istintivi, sfruttabili esternamente solo tramite le Impronte (risonanza passiva, vedi §16.4); adulto consapevole e convinto = piena Manifestazione Volontaria, fino alla scala cosmica/divina. Questo rende la "scala non vincolante" di §3 ora canonica.
+
+### 16.2 Il vero destino di Eos: la Neutralità druidica — DEC-0027
+
+CONFERMATO — Il destino/natura autentica di Eos non è il Bene Assoluto né il Male Assoluto: è la Neutralità vera, nel senso cosmologico D&D (il principio del Caos/Legge/Bene/Male a cui si contrappone il Neutrale puro, custodito tradizionalmente da druidi e forze della natura). Nello stato di Neutralità, Eos:
+
+- non interferisce attivamente per il bene o per il male, ma secondo il naturale ordine delle cose;
+- non prevarica concetti come vita e morte;
+- non decide per gli altri cosa sia giusto o sbagliato;
+- lascia ai mortali la scelta del proprio destino;
+- accetta che non esiste un assoluto che soddisfi ogni cosa, e che non c'è Luce senza Ombra (eco diretto del Canto del Seme Velato — vedi `the-prophetic-song.md`: "non v'è Luce che non proietti Ombra, non v'è Ombra che non attenda la Luce");
+- non ha responsabilità verso le scelte dei mortali.
+
+Questo spiega retroattivamente, in modo coerente, fatti già canonici: perché il primo Eos abbia vissuto come druido elfo (DEC-0007) — era la sua vera natura compiuta, non una copertura arbitraria; perché abbia scelto volontariamente la morte, accettando il ciclo naturale, come atto finale di quella stessa Neutralità; perché la profezia sul nuovo Eos sia stata affidata ai druidi (Campaign Bible §7, Characters & Factions §3) — sono i custodi naturali di questa stessa filosofia e i mentori designati per il nuovo Eos.
+
+### 16.3 Riconciliazione con Campaign Bible §1 ed errore filosofico degli Assoluti — DEC-0028
+
+CONFERMATO — "Equilibrio non significa neutralità morale, né equivalenza fra bene e male" (Campaign Bible §1) resta valido e riguarda il messaggio generale della storia: il mondo non diventa moralmente relativista, bene e male restano distinti e i due culti non sono equivalenti nelle loro intenzioni. Il destino personale di Eos verso la Neutralità druidica è un'affermazione diversa e compatibile: riguarda solo il RUOLO cosmico di uno specifico essere (Eos non deve arrogarsi il ruolo di arbitro/esecutore universale), non la cancellazione della differenza morale nel mondo.
+
+CONFERMATO — Questo identifica finalmente l'errore filosofico comune lasciato aperto da DEC-0021 ("quale errore filosofico eventualmente commette Eos in entrambi gli Assoluti"): sia il Bene Assoluto (giudizio preventivo, Limbo) sia il Male Assoluto (Legge del Prezzo) violano gli stessi due precetti della Neutralità druidica — decidere per altri cosa sia giusto o sbagliato, e prevaricare vita e morte. Non sono simmetrici solo per struttura narrativa (DEC-0021): sono simmetrici perché sono la STESSA deviazione dalla vera natura di Eos, vista da due lati opposti.
+
+### 16.4 Le Impronte come reliquie di dominio — DEC-0029, DEC-0030
+
+CONFERMATO — Le Impronte non sono un generico "reconciliatore di incompatibilità applicabile a qualsiasi scena" (prima idea esplorata e superata in questa sessione), né un oggetto con un singolo effetto fisso a costo automatico (seconda idea, anche questa superata). Sono reliquie nate dal surge di potere alla nascita di Eos (coerente con DEC-0017), una per ciascuna delle coppie di domini divini canonici in cui si manifesta la sua natura di unione di tutte le antitesi (DEC-0026) — non coppie concettuali inventate ad hoc, ma i domini da Chierico reali del sistema (2014 e supplementi coevi: SCAG, Xanathar's, Tasha's).
+
+Ogni reliquia ha ESATTAMENTE due poteri, entrambi **assoluti**: totali, incondizionati, senza eccezioni né filtri. È l'assolutezza stessa — non l'intenzione di chi la usa — a renderla pericolosa per l'equilibrio: un potere che guarisce "quasi sempre" o nasconde "quasi del tutto" non squilibra nulla in modo significativo; uno che lo fa SEMPRE e INTERAMENTE, ignorando se la situazione lo richiedesse davvero, sì. Il trigger di ogni potere è semplice e diretto (puntare/invocare su un bersaglio) — nessuna messa in scena elaborata richiesta, così che un culto organizzato possa usarla quando vuole, non solo quando capita.
+
+Censimento (6 reliquie):
+
+| Reliquia | Dominio | Focus | Potere A | Potere B | Custodia iniziale |
+|---|---|---|---|---|---|
+| **Il Cuore Bicolore** | Vita / Morte | Frammento di legno di cuore dell'albero sacro del santuario, mezzo annerito mezzo luminescente | Guarisce qualsiasi ferita mortale o riporta in vita chi è appena morto, del tutto e senza condizioni — ignorando se quella morte fosse nel corso naturale delle cose | Spegne istantaneamente e del tutto la vita di una creatura, ovunque si trovi, senza possibilità di resistere o fuggire | Ordine dell'Alba Incorrotta |
+| **Il Velo Strappato** | Luce / Ombra | Lembo di stola cerimoniale di un druido presente alla nascita, bruciato e gelato insieme | Illumina totalmente un'area, dissolve ogni occultamento magico e non magico, espone tutto ciò che vi si trova | Occulta totalmente un bersaglio o un'area da QUALSIASI percezione, inclusa la divinazione divina — un vuoto impenetrabile | Velo dell'Ultima Quiete |
+| **Lo Specchio Fesso** | Conoscenza / Inganno | Frammento di vetro della sorgente sacra, cristallizzato dal surge; riflette due immagini diverse se visto da lati opposti | Risponde con verità totale e certa a una domanda specifica sull'universo — passato, presente, in parte futuro — qualunque sia la domanda | Impianta un'illusione o menzogna totale e permanente nella percezione di una creatura o di un'intera area, incrollabile per il resto della sua esistenza | Con i PG (affidato dai druidi sopravvissuti) |
+| **Il Seme di Tempesta** | Creazione / Distruzione (Tempesta) | Un seme dell'albero sacro, metà germinato metà carbonizzato dal surge — eco diretta del "Seme" del Canto Profetico | Fa esistere dal nulla una struttura o oggetto non vivente, perfetto e permanente — ma la sua esistenza sottrae materia/spazio/possibilità altrove, in modo imprevedibile | Scatena una furia distruttiva totale e incontrollabile (tempesta, terremoto, fulmini) su un'area, senza distinguere alleati da nemici o innocenti da colpevoli | Perduta nel santuario devastato o nei boschi circostanti |
+| **Il Tamburo Silenzioso** | Guerra / Pace | Un tamburo cerimoniale del circolo druidico, incrinato dal surge: muto su un lato, risonante sull'altro | Costringe ogni creatura in un'area a un impulso di aggressione totale e incontrollabile, anche contro alleati o se stessa | Costringe ogni creatura in un'area a una calma totale, incapace di agire con violenza anche per legittima difesa | Non ancora in possesso di nessuno — ganci da definire in gioco |
+| **La Radice Incantata** | Natura / Arcano | Una radice dell'albero sacro, divisa dal surge in due talee che hanno continuato a crescere separatamente | Il mondo naturale obbedisce istantaneamente e totalmente a chi la invoca, anche contro la propria natura (una bestia feroce si ammansisce del tutto, un fiume cambia corso) | Annulla/dissolve totalmente qualsiasi magia in un'area o su un bersaglio, incluse protezioni permanenti o divine | Divisa: le due talee sono germinate in luoghi diversi dopo la fuga dal santuario — richiede una vera ricerca di riunificazione per usarla appieno |
+
+CONFERMATO — Ogni potere di ogni reliquia è vantaggioso per entrambi i culti con scopi opposti, oltre a essere occasionalmente tentante per i PG — esempi non esaustivi, da espandere quando si scrivono le avventure di recupero:
+
+| Reliquia | Uso dell'Alba Incorrotta | Uso del Velo dell'Ultima Quiete | Tentazione per i PG |
+|---|---|---|---|
+| Cuore Bicolore | Resuscita un devoto prezioso, retorica di miracolo e legittimità | Elimina un bersaglio scomodo senza lasciare traccia di violenza | Salvare un compagno morente, sapendo che il debito tornerà se Eos trova l'Equilibrio |
+| Velo Strappato | Smaschera pubblicamente le roccaforti rivali per la propria campagna di legittimazione | Occulta per sempre un luogo/un'operazione da ogni ricerca, anche divina | Nascondersi da una minaccia reale, sapendo che l'occultamento potrebbe un giorno "tornare indietro" come esposizione |
+| Specchio Fesso | Estrae la verità da sospetti/infiltrati per epurare i propri ranghi | Impianta convinzioni devastanti e permanenti come arma psicologica | Avere una risposta certa a una domanda cruciale, sapendo che il prezzo è ignoto finché non arriva |
+| Seme di Tempesta | "Crea" rifugi/santuari dal nulla per attrarre e proteggere seguaci | Scatena calamità "naturali" per destabilizzare regioni ostili | Costruire qualcosa di impossibile in un'emergenza, o scatenare una furia che potrebbe non essere controllabile |
+| Tamburo Silenzioso | Doma una rivolta/battaglia imponendo pace forzata, presentata come virtù | Scatena massacri "spontanei" tra rivali, senza sporcarsi le mani | Fermare un massacro imminente, o vincere una battaglia impossibile scatenando furia tra i nemici |
+| Radice Incantata | Dissolve le protezioni magiche di un nemico per "liberare" chi protegge | Doma/corrompe la natura selvaggia a proprio servizio | Annullare una maledizione/protezione cruciale, sapendo che potrebbe essere l'unica cosa che teneva a freno qualcosa di peggio |
+
+La frequenza d'uso resta limitata dall'economia delle cariche già proposta in §10 (PARAMETRI DI PLAYTEST, ancora tunabili): max 2 impulsi per reliquia, 1 impulso di ricarica globale ogni 7 giorni (indipendente dal numero di foci), ricarica che richiede Eos entro 9m per 1 ora di rito ininterrotto.
+
+NOTA DI PROCESSO (12/10/2026) — L'autore vuole che il recupero di ciascuna reliquia dia origine a una propria avventura/arco (es. durante i capitoli o i downtime). La custodia iniziale sopra è un punto di partenza, non un vincolo: può essere spostata/dettagliata quando si scrive il contenuto giocabile corrispondente.
+
+### 16.5 Il Registro dell'Equilibrio — costi e contromisure del potere — DEC-0031
+
+CONFERMATO — Il vero costo del potere di Eos non è (solo) l'affaticamento immediato su di lui per-rito (già in §10 SOVRACCARICO), ma un debito differito: ogni uso significativo di una reliquia che squilibra qualcosa — una vita donata o sottratta, una verità scambiata con un inganno, l'invisibilità scambiata con l'esposizione di qualcos'altro, il movimento scambiato con un vincolo, un verdetto emesso — viene annotato in un **Registro dell'Equilibrio**. Non ha conseguenze immediate oltre al costo del rito stesso.
+
+Se e quando Eos raggiunge la vera Neutralità druidica (§16.2), OGNI voce del Registro si salda contemporaneamente: ciò che fu dato viene ripreso, ciò che fu preso viene restituito. Chi fu resuscitato muore; chi fu ucciso torna in vita; le menzogne credute per anni si dissolvono di colpo; i vincoli si spezzano o si richiudono; i verdetti vengono riaperti.
+
+Questa regola si applica in modo UNIFORME a tutte e 6 le reliquie (nessuna eccezione, confermato dall'autore) — coerenza prima di tutto, non prevedibilità per i singoli casi.
+
+Razionale: è una conseguenza diretta di chi è Eos, non una regola a parte — un Eos destinato a "non prevaricare vita e morte" (§16.2) automaticamente corregge, quando trova l'Equilibrio, ogni squilibrio creato nel suo nome. È anche la contromisura strutturale al rischio "deus ex machina" già segnalato nel workshop (§7): il potere massimo di Eos non è uno strumento che i PG possono usare liberamente, è la posta in gioco del finale — ogni uso lungo la campagna costruisce un conto che arriva a scadenza nel momento più drammatico possibile.
+
+DA DEFINIRE (rimandato al Gate D/finale, 12/10/2026) — Se il Registro resti contabilità astratta del master o diventi un oggetto concreto nella fiction. Proposta emersa in sessione, non ancora decisa nei dettagli: **La Bilancia di Eos**, un oggetto che solo Eos (adulto, consapevole) può evocare, con cui tiene traccia degli usi delle reliquie e che userà per mostrare ai PG cosa cambierà quando l'Equilibrio sarà ristabilito — aprendo una scena di negoziazione in cui i PG potrebbero sostenere che anche ripristinare il passato è esso stesso una modifica dell'equilibrio (argomento filosoficamente legittimo, non un bluff automatico), ed Eos ne giudica la sincerità leggendo le loro anime (percezione della verità, non imposizione morale — resta coerente con DEC-0027). Non serve deciderlo ora: è un dettaglio della scena finale, da definire quando si affronterà quella parte della campagna.
+
+### 16.6 Tema per i giocatori: mortalità come capacità, non solo limite — DEC-0032
+
+CONFERMATO (richiesta esplicita dell'autore, non preservata altrove prima di oggi) — La campagna vuole insegnare ai PG ad accettare le conseguenze e l'equilibrio — non necessariamente diventare neutrali essi stessi, ma accettare la mortalità non solo come limite tra vita e morte, ma anche come CAPACITÀ. I giocatori devono essere tentati e insidiati all'uso smodato delle reliquie, e devono pagarne le conseguenze tramite il Registro dell'Equilibrio. Vedi anche [Principi di Design §7](./principi-di-design.md).
+
+### 16.7 Nota per il Gate E: livello iniziale e range — DEC-0033
+
+CONFERMATO — Il livello iniziale della campagna è 1 (non 5; chiude parzialmente Q-007/P4). La fascia finale resta una decisione del Gate E, non di questo Gate A, ma si registra qui una nota di lavoro: l'autore propende per un range ampio (vicino a 1–20) per dare spazio alle 6 avventure di recupero delle reliquie di Eos (§16.4) senza affollare i 4 capitoli principali — motivazione tecnica, non narrativa, da confermare formalmente quando si affronterà il Gate E. Vedi [Narrative Roadmap, Gate E](../00-project-management/narrative-roadmap.md#5-gate-e--struttura-della-campagna).
+
+### 16.8 Stato aggiornato
+
+RESTA IPOTESI (parametri di playtest, tunabili): i numeri esatti dell'economia delle cariche (§10); i dettagli esatti di cosa conta come "uso significativo" da annotare nel Registro; contromisure tattiche specifiche contro ogni reliquia oltre a quelle già elencate in §12; la natura esatta del Registro/Bilancia (§16.5); la fascia di livelli esatta oltre al livello iniziale (§16.7).
+
+Gate A della Narrative Roadmap: effetti, limiti e vulnerabilità ora approvati — le missioni possono essere causali. Dettagli in [Narrative Roadmap](../00-project-management/narrative-roadmap.md#1-gate-a--definire-le-regole-del-potere-di-eos-priorit%C3%A0-massima).
