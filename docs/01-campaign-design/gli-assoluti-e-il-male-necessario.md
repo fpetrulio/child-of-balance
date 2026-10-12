@@ -113,6 +113,8 @@ CRITICITÀ — La tortura è inaffidabile; è artificioso garantire che riveli l
 
 STATO COMUNE — Tutte e quattro sono bozze, nessuna approvata né scartata dall'autore. Non predisporre asset, scene o canonici PNG fino a scelta.
 
+**RISOLTO (DEC-0046, 13/10/2026)** — La trappola comune a queste quattro proposte (richiedere un atto malvagio reale/indotto per "dimostrare la necessità del male") è ora definitivamente superata per il ramo Bene Assoluto: le prove del Limbo non richiedono ai PG di commettere o indurre il male, richiedono di portare Eos ad accettare che male e sofferenza hanno un ruolo nell'ordine naturale delle cose — vedi [`il-limbo-di-eos.md` §14](./il-limbo-di-eos.md). Resta da vedere se un principio analogo (senza indurre atti di bontà forzata) si applichi anche a un eventuale "Limbo speculare" del ramo Male Assoluto.
+
 ## 9. Eos Male Assoluto
 
 CONFERMATO — È possibile indirizzare Eos verso il Male Assoluto, che deve diventare una forza negativa con eventi concreti.

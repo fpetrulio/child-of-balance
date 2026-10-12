@@ -205,3 +205,29 @@ Livello 7–9 era solo un suggerimento dell'assistente, non compatibile automati
 ## 13. Aggiornamento di continuità nel progetto generale (2026-10-09)
 
 La ricostruzione di questa chat conserva storicamente l'intenzione iniziale di far mutare Eos in malvagio grazie al dubbio. NUOVA SCELTA DELL'AUTORE: nel Capitolo 2 della campagna, ramo Bene Assoluto, Eos NON viene trasformato automaticamente al Male dal Limbo. Rimane orientato al Bene, ma un dubbio profondo lo spinge necessariamente, in qualche misura, a esplorare il lato malvagio finora nascosto. Per questo si allontana alla ricerca di se stesso. Il meccanismo del dubbio e l'eventuale influenza autonoma del lato oscuro non sono ancora definiti. L'originaria trasformazione malvagia resta documentata come idea precedente superata in questo punto; non cancellare le fonti originarie.
+
+## 14. Risoluzione del Gate D — la dualità di Eos e il vero significato delle prove (13 ottobre 2026)
+
+Sessione di design diretta con l'autore. Questa sezione risolve la criticità principale rimasta aperta in §6 e ridefinisce lo scopo delle prove del Limbo. Decisione registrata in Campaign Bible DEC-0046.
+
+### 14.1 La dualità di Eos
+
+CONFERMATO — Eos non è semplicemente "orientabile" al Bene o al Male: è intrinsecamente **duale**. Porta in sé due entità/metà, riflesso diretto dell'opposizione dei suoi genitori (domini contrapposti di Lathander e Shar) — non un'allegoria, ma una conseguenza letterale della sua doppia natura. Entrambe le metà sono immature, esattamente come lo è Eos stesso nel suo complesso: non sono saggi avversari cosmici, sono frammenti ancora in formazione.
+
+CONFERMATO — Ciascuna metà vuole sopravvivere. Non è un conflitto fra bene e male nel senso morale astratto: è un istinto di autoconservazione condiviso da entrambe. Se Eos diventa un Assoluto (Bene o Male), una delle due metà non può più sopravvivere — viene cancellata o imprigionata in modo permanente. La parte "malvagia" imprigionata nel Limbo (già introdotta in §1, §6) non cerca di far vacillare Eos per odio o malizia pura: lo fa perché la coesistenza con un Eos Assoluto non è un'opzione concreta, e un varco nel suo dubbio è l'unico spiraglio di sopravvivenza che ha — con la speranza, non la certezza, di poter un giorno soverchiarlo se le si presenta l'occasione.
+
+Questo risolve la criticità rimasta aperta in §6 ("perché la parte oscura scelga di corrompere Eos invece di limitarsi a coesistere"): la coesistenza non è mai stata un'opzione disponibile finché Eos resta un Assoluto — la motivazione non è gratuita, è la stessa autoconservazione che muove la sua metà opposta.
+
+### 14.2 Il vero scopo delle prove del Limbo
+
+CONFERMATO — I PG, nel Limbo, devono fare la stessa cosa che Eos stesso dovrà fare per raggiungere la vera Neutralità (DEC-0027): **confutare l'Assoluto del Bene**, non dimostrando che il male va compiuto, ma portando Eos ad accettare che malvagità e sofferenza hanno un ruolo nell'ordine naturale delle cose — l'applicazione concreta, vissuta in gioco, del principio già stabilito in DEC-0027 ("non c'è Luce senza Ombra").
+
+Questo supera definitivamente la trappola già segnalata come insufficiente in [`gli-assoluti-e-il-male-necessario.md` §5-8](./gli-assoluti-e-il-male-necessario.md): le prove non richiedono ai PG di commettere o indurre atti malvagi per "dimostrare la necessità del male" — richiedono di esibire, attraverso ciò che vivono nel Limbo, il vuoto di un mondo che ha eliminato la possibilità stessa dell'errore (coerente con i nodi già proposti in §7, Atto II: un mondo "perfetto" dove nessuno può più sbagliare è anche un mondo dove nessuno può più scegliere, redimersi o crescere). I tre nodi di prova già bozzati in §7 restano un buon punto di partenza concettuale, da riscrivere alla luce di questo principio quando si svilupperà il Capitolo 2 — non più come induzioni alla crudeltà, ma come confronti che rivelano l'ordine naturale negato dall'Assoluto.
+
+### 14.3 Stato aggiornato
+
+RISOLTO — §6, criticità "perché la parte oscura scelga di corrompere Eos" (ora: autoconservazione condivisa da entrambe le metà, non malizia gratuita).
+
+RISOLTO — §10 TENSIONE F ("scelta forzata fra ingiustizia e inevitabile corruzione"): non è più inevitabile — è una contesa reale, e il compito dei PG è esattamente l'opposto di arrendersi alla corruzione: confutare l'Assoluto e aiutare Eos ad accettare la propria dualità.
+
+DA DEFINIRE — Meccanismo scenico esatto di "rinvigorimento" della parte imprigionata (Q-L04); riscrittura concreta dei tre nodi di prova (§7) alla luce di §14.2, da fare insieme al Capitolo 2; se esiste un "Limbo speculare" per il ramo Male Assoluto, dove la metà buona di Eos sarebbe imprigionata dalla Legge del Prezzo — domanda aperta, trattata separatamente nel Gate D.

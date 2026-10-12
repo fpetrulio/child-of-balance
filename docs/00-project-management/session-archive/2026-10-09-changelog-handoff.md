@@ -201,3 +201,15 @@ CL-63 | PROPAGAZIONE AL MANUALE GM | Piani operativi dei due culti scritti anche
 ## Handoff — fine sessione, 12 ottobre 2026 (Gate C RISOLTO)
 
 Gate C della Narrative Roadmap RISOLTO: risultato finale, piani operativi completi (3 obiettivi/mezzi/costi/indizi/debolezze/Piano B ciascuno) e matrice Obiettivi→Operazioni→Indizi→Reazioni→Conseguenze per entrambi i culti, scritti anche nel manuale GM. Prossimo passo secondo la roadmap: Gate D (arco morale, bivi e agency dei PG) — già parzialmente pre-risposto da DEC-0021/0027/0028 ma non ancora formalmente chiuso come gate proprio. Da affrontare in una sessione separata per preferenza dell'autore.
+
+## Gate D — la dualità di Eos — 13 ottobre 2026 (sessione separata, come richiesto)
+
+CL-64 | CONFERMATO (DEC-0046) | Domanda dell'autore risolta: perché la parte oscura di Eos, imprigionata nel Limbo, sceglie di corromperlo invece di limitarsi a coesistere (criticità aperta dal 9 ottobre)? Risposta dell'autore: Eos è intrinsecamente duale — due metà immature, riflesso letterale dei domini opposti dei suoi genitori (Lathander/Shar), entrambe mosse dal medesimo istinto di autoconservazione. Un Eos Assoluto (Bene o Male) rende la sopravvivenza di una delle due metà impossibile: la parte oscura cerca un varco nel dubbio di Eos non per malizia, ma perché la coesistenza non è mai stata un'opzione — spera in uno spiraglio di sopravvivenza, con l'eventuale ambizione (non garantita) di soverchiarlo un giorno.
+
+CL-65 | CONFERMATO (DEC-0046) | Conseguenza per il design delle prove del Limbo: i PG devono confutare l'Assoluto del Bene portando Eos ad accettare che male e sofferenza hanno un ruolo nell'ordine naturale delle cose — applicazione concreta e giocata di DEC-0027 ("non c'è Luce senza Ombra"). Supera definitivamente la trappola dei dilemmi "il male va compiuto per dimostrarne la necessità" già segnalata come insufficiente in `gli-assoluti-e-il-male-necessario.md` §5-8: le prove non richiedono atti malvagi indotti.
+
+Scritto in `il-limbo-di-eos.md` §14 (nuova sezione di risoluzione), Campaign Bible §36/DEC log, nota di raccordo in `gli-assoluti-e-il-male-necessario.md`. Contenuto NON propagato al manuale GM: è trama specifica del Capitolo 2, non background cosmologico generale — resta nei documenti di design fino alla stesura del capitolo, per il criterio già stabilito (CL-47).
+
+## Handoff — fine sessione, 13 ottobre 2026 (Gate D aperto, in corso)
+
+Gate D non ancora risolto: resta da decidere se esiste un "Limbo speculare" per il ramo Male Assoluto (metà buona di Eos imprigionata dalla Legge del Prezzo), se la via degli assoluti è ramificazione/fase transitoria/finale possibile, la riscrittura concreta dei nodi di prova del Limbo, e il diagramma degli stati di Eos/scelte dei PG/conseguenze richiesto come output. Da continuare in una sessione successiva sull'argomento, un passo alla volta per preferenza dell'autore.
