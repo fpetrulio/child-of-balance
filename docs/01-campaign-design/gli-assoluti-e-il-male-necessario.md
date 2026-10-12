@@ -160,7 +160,7 @@ TENSIONE MORALE — Un Bene Assoluto deontologico («non uccidere innocenti») e
 
 - D-A01 — Quali regole precise esprime il Bene Assoluto? Principi inderogabili, risultati o altro?
 - D-A02 — Che cosa vieta o esige il Male Assoluto?
-- D-A03 — Le due vie sono percorsi alternativi, trasformazioni successive o altro?
+- D-A03 — **RISOLTO (DEC-0048, 13/10/2026)** — Le due vie sono una RAMIFICAZIONE (Capitoli 1-2: l'influenza dei PG/custodi sull'educazione di Eos determina verso quale assoluto scivola, uno dei due) che diventa una FASE TRANSITORIA (Downtime II/Capitoli 3-4: quell'Assoluto è il problema centrale della seconda metà della campagna, non la sua fine — i culti competono per dirigerlo/consolidarlo, i PG possono invece aiutare Eos a confutarlo e trovare la vera Neutralità, §22/DEC-0046-0047). Diventa un FINALE POSSIBILE solo se i PG non riescono in tempo o un culto cattura/dirige Eos prima (il loro obiettivo nel Gate C, DEC-0042/0043): un epilogo cupo, non l'unico né quello scontato. Lega direttamente Gate C e Gate D: la vittoria di un culto e un finale da Assoluto bloccato sono la stessa cosa vista da due angolazioni.
 - D-A04 — Qual è la natura dell'apostasia e il rapporto coi poteri divini di Eos?
 - D-A05 — Come costruire dilemmi realmente difficili senza imporre false alternative o ignorare magie D&D 5e 2014?
 - D-A06 — Che ruolo hanno i PG nel decidere, modificare o rovesciare l'assoluto?

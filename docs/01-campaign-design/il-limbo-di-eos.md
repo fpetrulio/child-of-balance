@@ -192,7 +192,7 @@ Livello 7–9 era solo un suggerimento dell'assistente, non compatibile automati
 - Q-L05: Come raggiunge Eos il dubbio e perché viene dirottato al Male anziché al pentimento?
 - Q-L06: Le anime vengono restituite a quale luogo/esistenza, con quali conseguenze?
 - Q-L07: Quale ruolo hanno i PG nel finale e quali alternative percepiscono?
-- Q-L08: Questo arco è destinato a essere un finale possibile della campagna, un ramo alternativo o un episodio intermedio?
+- Q-L08: **RISOLTO (DEC-0048, 13/10/2026)** — Ramo alternativo (quale assoluto, deciso ai Capitoli 1-2) che diventa episodio/problema centrale transitorio (Downtime II/Capitoli 3-4), e solo in caso di fallimento dei PG (o vittoria di un culto, Gate C) si cristallizza come uno dei possibili finali — non l'unico né quello scontato. Vedi [`gli-assoluti-e-il-male-necessario.md` D-A03](./gli-assoluti-e-il-male-necessario.md).
 - Q-L09: Il Limbo è semipiano, dominio mentale o piano esterno modificato? Come si lega alla cosmologia Forgotten Realms?
 - Q-L10: Con che potere concreto Eos compie gli atti narrati, senza rendere l'intera campagna un deus ex machina?
 
