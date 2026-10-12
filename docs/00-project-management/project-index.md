@@ -54,7 +54,7 @@ Target: The Forge con Foundry V14 Stable 7 build 365, sistema dnd5e 5.3.3 e Plut
 
 Gli stat block di creature standard del GM arrivano da Plutonium: il modulo non deve ridistribuire materiale proprietario non autorizzato.
 
-GitHub: repository originale template LaTeX https://github.com/fpetrulio/DnD_Campaigns ; nuovo repository separato Child of Balance pianificato (questo progetto locale), non ancora pubblicato.
+GitHub: repository originale template LaTeX https://github.com/fpetrulio/DnD_Campaigns ; nuovo repository separato pubblico https://github.com/fpetrulio/child-of-balance creato e collegato il 12 ottobre 2026.
 
 Foundry: prototipo ZIP locale v0.1.1 preparato in una conversazione precedente ma NON ancora testato in The Forge (non presente in Drive né in questo archivio).
 

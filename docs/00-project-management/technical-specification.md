@@ -54,7 +54,7 @@ Qualsiasi upgrade deve essere verificato rispetto alle versioni di Foundry, del 
 ## 7. Stato implementazione
 
 - Drive: struttura e documenti base inizializzati.
-- **GitHub: repository locale impostato il 12 ottobre 2026 (`~/DnD/child-of-balance`), sincronizzato come git repo; remoto GitHub non ancora creato/collegato.**
+- **GitHub: repository locale impostato il 12 ottobre 2026 (`~/DnD/child-of-balance`), sincronizzato come git repo; collegato come remoto pubblico [`fpetrulio/child-of-balance`](https://github.com/fpetrulio/child-of-balance) lo stesso giorno (branch `main`).**
 - **LaTeX: motore del template `fpetrulio/DnD_Campaigns` (cartella "Ritorno a Bloodstone") copiato in `latex/manual/` — dndbook.cls, dnd.sty, lib/, bin/, Makefile. Nessun capitolo scritto: non esiste ancora materiale narrativo approvato da impaginare.**
 - **Foundry: nessuno scheletro di modulo creato finché non sono definite le regole minime (vedi Narrative Roadmap, Gate A/F). Il prototipo ZIP v0.1.1 menzionato in chat precedente non è recuperabile da Drive né da questo archivio.**
 - The Forge: test effettivo non ancora eseguito.
