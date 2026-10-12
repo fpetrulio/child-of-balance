@@ -192,6 +192,45 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
 
+## 39. Gate D — diagramma degli stati di Eos, scelte dei PG, conseguenze (13 ottobre 2026)
+
+OUTPUT richiesto dalla [Narrative Roadmap, Gate D](../00-project-management/narrative-roadmap.md#4-gate-d--arco-morale-bivi-e-agency). Sintetizza DEC-0041, DEC-0042/0043 (Gate C), DEC-0044, DEC-0046, DEC-0047, DEC-0048. Due transizioni restano esplicitamente DA DEFINIRE (marcate `?` nel diagramma) — non sono state inventate qui, sono lasciate aperte in attesa di una decisione autoriale quando si scriverà il Capitolo 2.
+
+```mermaid
+flowchart TD
+    A["Eos neonato (Capitolo 1)<br/>protetto dai PG"] --> B["Eos bambino/ragazzo<br/>(Capitolo 1-2, Downtime I)<br/>potere istintivo, educazione in corso"]
+
+    B -->|"PG/custodi orientano<br/>verso il Bene"| C1["Crisi del Limbo<br/>(ramo Bene Assoluto)"]
+    B -->|"PG/custodi orientano<br/>verso il Male"| C2["Crisi della Cripta del Debito<br/>(ramo Male Assoluto)"]
+
+    C1 -->|"PG confutano l'Assoluto:<br/>male/sofferenza hanno un<br/>ruolo nell'ordine naturale"| D1["Dubbio piantato<br/>Eos si allontana in buona fede"]
+    C1 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D1x["? aperto"]
+
+    C2 -->|"PG confutano l'Assoluto:<br/>la grazia immeritata ha un<br/>ruolo nell'ordine naturale"| D2["Dubbio piantato<br/>Eos si allontana in buona fede"]
+    C2 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D2x["? aperto"]
+
+    D1 --> E["Downtime II<br/>Eos separato dal gruppo"]
+    D2 --> E
+
+    E -->|"Alba Incorrotta intercetta<br/>(mentore, certezze morali nette)"| F1["Spinta verso<br/>il Bene Assoluto"]
+    E -->|"Velo dell'Ultima Quiete intercetta<br/>(agente ombra, Legge del Prezzo<br/>come verità liberatoria)"| F2["Spinta verso<br/>il Male Assoluto"]
+    E -->|"PG raggiungono Eos per primi<br/>o contrastano l'influenza del culto"| F3["Spinta verso<br/>la vera Neutralità"]
+
+    F1 --> G{"Climax<br/>(Capitoli 3-4)"}
+    F2 --> G
+    F3 --> G
+
+    G -->|"PG aiutano Eos a confutare<br/>l'assoluto residuo e a<br/>reintegrare le due metà"| H1["FINALE: vera Neutralità<br/>(il Registro dell'Equilibrio si salda)"]
+    G -->|"un culto cattura/dirige Eos<br/>(vince il proprio piano del Gate C)"| H2["FINALE: Assoluto consolidato<br/>sotto il controllo del culto"]
+```
+
+Note di lettura:
+
+- Il bivio in **B** è l'unica vera ramificazione (quale assoluto) — coerente con il vincolo d'autore in `architettura-campagna.md` §1 ("crisi del Limbo o equivalente negativo"): uno dei due rami si manifesta sempre entro la fine del Downtime I, nessun terzo ramo "nessuna crisi" è attualmente previsto.
+- **E → F1/F2/F3** non sono esclusivi fra loro nello stesso playthrough: entrambi i culti possono tentare il contatto in Downtime II indipendentemente da quale crisi sia avvenuta in **C1/C2** (un culto può provare a "recuperare" Eos verso il proprio assoluto anche se il dubbio lo aveva already spinto nella direzione opposta) — il peso relativo delle tre spinte in **F** decide quanto sarà difficile il climax in **G**, non lo decide in modo binario.
+- **H1** ed **H2** non sono gli unici esiti testuali possibili (un epilogo potrebbe avere gradazioni), ma sono i due poli chiari richiesti dal Gate D: trovare la Neutralità, o restare bloccati in un Assoluto sotto controllo altrui.
+- Le transizioni marcate `?` (cosa succede se i PG non riescono a confutare l'Assoluto nel Limbo/nella Cripta) restano intenzionalmente aperte: potrebbero significare che il dubbio non si pianta affatto e Eos NON si allontana (resta un Assoluto sempre più radicato, dentro il gruppo), oppure che si allontana comunque ma più ostile alla possibilità di cambiare — nessuna delle due è stata scelta.
+
 ## 38. Gate D — la via degli Assoluti: ramificazione, fase transitoria, finale possibile (13 ottobre 2026)
 
 Sessione di design diretta con l'autore, dettagli completi in [Gli Assoluti e il Male Necessario D-A03](./gli-assoluti-e-il-male-necessario.md) e [Il Limbo di Eos Q-L08](./il-limbo-di-eos.md). Sintesi:
