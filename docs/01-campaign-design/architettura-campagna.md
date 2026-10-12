@@ -6,6 +6,8 @@ STATUS: MISTO. Distinguere le decisioni espresse dall'autore (VINCOLI CONFERMATI
 
 Documento creativo di lavoro. NON sostituisce la Campaign Bible. Sistema D&D 5e 2014, lore Forgotten Realms.
 
+> **AGGIORNAMENTO (13/10/2026, DEC-0049)** — I downtime NON sono sessioni giocate: sono periodi dove l'avventura si sviluppa fuori dal controllo dei PG, che scelgono solo attività passive (ricerche, allenamento, progetti) senza avventura associata. Le descrizioni di Downtime I/II/III in §2 e il "modello di downtime" in §3 risalgono al 9 ottobre e descrivono in più punti contenuto attivamente giocato (indagini, negoziazioni, missioni) — vanno rilette alla luce di questo principio: quel materiale è contenuto per i CAPITOLI (specialmente III), non per i downtime. Vedi [Campaign Bible §40-41](./campaign-bible.md) per il dettaglio.
+
 ## 1. Vincoli espressi dall'autore
 
 - Durata per ora indipendente dal livello finale: il tipo di climax va chiarito prima di fissare il tier di gioco.
@@ -27,7 +29,7 @@ Nascita, assalto druidico, fuga, scelta di un rifugio o eventuale secondo circol
 
 ### Downtime I — Custodia ed educazione
 
-Periodo lungo e significativo: i PG coltivano alleati, rifugi, ricerche sulle origini, progetti personali e rapporti con Eos. Le azioni di custodia e gli esempi morali influenzano la sua crescita. Le due fazioni sviluppano reti, infiltrazioni e influenza. Non trattare downtime come anni saltati automaticamente: dare ad ogni PG progetti, costi, opportunità, reazioni delle fazioni e scene chiave. Il periodo si conclude con la maturazione della crisi degli Assoluti (non imponendo in anticipo quale via).
+**[Rivisto 13/10/2026, DEC-0049]** Periodo NON giocato: i PG scelgono attività passive (progetti personali, ricerche, allenamento) che l'autore risolve narrativamente, senza scene d'avventura. Le azioni di custodia e gli esempi morali date a Eos durante questo tempo (non giocate scena per scena, ma riassunte dalle scelte dei PG) influenzano la sua crescita e determinano verso quale Assoluto scivola a fine downtime (coerente con DEC-0048). I PG non sanno ancora perché Eos sia importante: agiscono solo perché la profezia dice di salvarlo e accudirlo (nessun PNG rintracciabile conosce la vera natura di Eos, DEC-0049). Il periodo si conclude con la maturazione della crisi degli Assoluti, giocata per intero nel Capitolo II.
 
 ### Capitolo II — Il Prezzo dell'Assoluto
 
@@ -37,7 +39,7 @@ Svolta desiderata: alla conclusione dell'arco Eos si allontana dai PG per compre
 
 ### Downtime II — L'assenza e le Impronte
 
-Eos non è disponibile come figura da custodire nel modo precedente. I PG cercano tracce, analizzano Impronte e manifestazioni, negoziano con organizzazioni, costruiscono reputazioni, proteggono comunità coinvolte e impostano progetti di lungo periodo. È qui che le reliquie possono fungere da oggetti di indagine, prove politiche, catalizzatori di negoziazione e opportunità da gestire. Le reliquie non diventano automaticamente "loot" da dungeon. I culti avanzano piani indipendenti.
+**[Rivisto 13/10/2026, DEC-0049/DEC-0050]** Eos non è disponibile come figura da custodire nel modo precedente. Periodo NON giocato: i PG non indagano o negoziano attivamente qui — ricevono invece, passivamente, le prime informazioni chiave che apriranno il Capitolo III: notizie di resurrezioni pubbliche (segno dell'Alba Incorrotta), sparizioni inspiegabili (segno del Velo dell'Ultima Quiete), voci fragmentarie su Eos stesso. Il recupero effettivo delle reliquie NON avviene qui (presuppone avventure giocate, DEC-0050): due (Cuore Bicolore, Velo Strappato) si riconquistano a uno snodo cardine di confronto col culto che le detiene, nei capitoli successivi; le altre tre (Seme di Tempesta, Tamburo Silenzioso, Radice Incantata) richiedono avventure di recupero dedicate, giocate nei capitoli, mai distaccate dal contesto di Eos (indizi e PNG sempre connessi a lui). I culti avanzano piani indipendenti durante questo tempo (Gate C), ma le loro mosse diventano materiale giocabile solo quando il Capitolo III le rende rintracciabili e contrastabili.
 
 Un'Impronta è traccia eccezionale non creata tramite semplice prelievo ordinario; quantità, cariche e ricarica restano non canoniche (vedi [`potere-di-eos-workshop.md`](./potere-di-eos-workshop.md)).
 
@@ -49,7 +51,7 @@ La rivelazione può essere che il culto prevalente sta costruendo un dispositivo
 
 ### Downtime III — La Convergenza
 
-Le fazioni consolidano posizioni; i PG radunano alleati, preparano soluzioni, ricostruiscono la posizione di Eos e guadagnano accesso a uno o più punti vulnerabili dell'operazione. Non attribuire automaticamente al nemico successo certo indipendentemente dalle azioni dei PG. Il downtime deve modificare sostanzialmente le condizioni del confronto finale: numero di ancore da spezzare, possibilità di alleati, conseguenze collaterali, ostaggi da salvare, concessioni da negoziare.
+**[Rivisto 13/10/2026, DEC-0049]** Periodo NON giocato: le fazioni consolidano posizioni off-screen; i PG risolvono passivamente progetti di preparazione (radunare alleati, allenamento, approvvigionamento) scelti a fine Capitolo III. Le informazioni/risultati di questi progetti vengono consegnati come revelazioni che aprono il Capitolo IV — dove i PG potranno effettivamente agire su punti vulnerabili, ancore da spezzare, ostaggi, concessioni (contenuto giocato del capitolo, non del downtime). Non attribuire automaticamente al nemico successo certo indipendentemente dalle azioni dei PG nei capitoli.
 
 ### Capitolo IV — Spezzare il Giogo / Liberare Eos
 
@@ -65,9 +67,9 @@ Ogni PG sceglie almeno un progetto concreto, con obiettivo narrativo, risorse, a
 
 Usare una struttura a fronti/clock come aiuto del DM, senza confonderla con una regola ufficiale 2014: PROPOSTA HOUSE RULE.
 
-Le fazioni fanno mosse durante i periodi lunghi, ma i giocatori vengono informati attraverso segnali e possono reagire. Evitare che le decisioni cruciali accadano interamente off-screen.
+Le fazioni fanno mosse durante i periodi lunghi; i giocatori ne vengono informati attraverso segnali e revelazioni consegnate ALLA FINE del downtime (non durante), che aprono il capitolo successivo — dove potranno reagire giocando. Evitare che le decisioni cruciali dei PG stessi (non quelle delle fazioni, che restano off-screen per definizione) accadano senza alcuna possibilità di reazione nel capitolo che segue.
 
-Il downtime può includere scene brevi giocate e missioni singole, non solo montaggi automatici. La crescita di Eos richiede un calendario credibile per specie e aspettative di vita dei PG.
+**[Rivisto 13/10/2026, DEC-0049]** Il downtime NON include scene giocate o missioni: è risolto narrativamente dall'autore in base alle attività passive scelte dai PG. Ogni scena d'avventura (incluso qualsiasi recupero di reliquie) appartiene a un capitolo, mai a un downtime. La crescita di Eos richiede un calendario credibile per specie e aspettative di vita dei PG.
 
 ## 4. Principi di design di intrighi e sfide
 

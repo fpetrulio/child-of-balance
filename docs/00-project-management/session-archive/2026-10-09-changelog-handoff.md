@@ -219,3 +219,11 @@ CL-68 | OUTPUT PRODOTTO | Diagramma completo (Mermaid) degli stati di Eos, delle
 ## Handoff — fine sessione, 13 ottobre 2026 (Gate D RISOLTO IN GRAN PARTE)
 
 Gate D risolto in gran parte: parte oscura (DEC-0046), Limbo speculare (DEC-0047), struttura ramificazione→transitoria→finale (DEC-0048), diagramma completo (CL-68). Restano aperti solo parametri da definire insieme ai capitoli (due transizioni di fallimento, nodi di prova concreti) — non bloccano l'architettura. Prossimo gate secondo la roadmap: Gate E (struttura della campagna, livello finale) — parzialmente pre-risposto da DEC-0033 ma non formalmente chiuso. Da affrontare in una sessione separata per preferenza dell'autore.
+
+## Gate E — downtime non giocati e struttura del recupero reliquie — 13 ottobre 2026 (sessione separata, come richiesto)
+
+CL-69 | CORREZIONE DELL'AUTORE (DEC-0049) | Avevo proposto di distribuire le 6 avventure di recupero reliquie nei tre downtime — l'autore ha corretto: i downtime NON sono sessioni giocate, sono periodi fuori dal controllo dei PG (attività passive, nessuna avventura associata). Servono invece a consegnare informazioni chiave tra un capitolo e il successivo (es. dopo il Limbo: notizie di resurrezioni/sparizioni, prime tracce dei culti). Nessun PNG rintracciabile conosce la vera natura di Eos — solo indizi frammentari, la sua incarnazione precedente è troppo lontana nel tempo. I PG non sanno inizialmente di avere la Benedizione di Eos: agiscono solo perché la profezia dice di salvarlo e accudirlo.
+
+CL-70 | CONFERMATO (DEC-0050) | Struttura del recupero delle 6 reliquie, tutta nei capitoli: Cuore Bicolore e Velo Strappato si riconquistano a uno snodo cardine di confronto col culto che le detiene; Seme di Tempesta, Tamburo Silenzioso e Radice Incantata richiedono avventure dedicate, innescate da indizi dei downtime, eventualmente contese con i culti o trovate in mano a terzi. Vincolo esplicito: queste tre non devono essere contenuto a sé stante — indizi e PNG sempre connessi a Eos.
+
+Corretto in loco `architettura-campagna.md` §2-3 (descrizioni di downtime attivo scritte il 9 ottobre, prima di ogni Gate). Scritto in Campaign Bible §40-41/DEC log, nota in `potere-di-eos-workshop.md` §16.4.

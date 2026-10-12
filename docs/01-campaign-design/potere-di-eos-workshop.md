@@ -234,7 +234,7 @@ CONFERMATO — Ogni potere di ogni reliquia è vantaggioso per entrambi i culti 
 
 La frequenza d'uso resta limitata dall'economia delle cariche già proposta in §10 (PARAMETRI DI PLAYTEST, ancora tunabili): max 2 impulsi per reliquia, 1 impulso di ricarica globale ogni 7 giorni (indipendente dal numero di foci), ricarica che richiede Eos entro 9m per 1 ora di rito ininterrotto.
 
-NOTA DI PROCESSO (12/10/2026) — L'autore vuole che il recupero di ciascuna reliquia dia origine a una propria avventura/arco (es. durante i capitoli o i downtime). La custodia iniziale sopra è un punto di partenza, non un vincolo: può essere spostata/dettagliata quando si scrive il contenuto giocabile corrispondente.
+NOTA DI PROCESSO (12/10/2026) — L'autore vuole che il recupero di ciascuna reliquia dia origine a una propria avventura/arco. La custodia iniziale sopra è un punto di partenza, non un vincolo: può essere spostata/dettagliata quando si scrive il contenuto giocabile corrispondente. **Precisato il 13/10/2026 (DEC-0050)**: non tutte e sei richiedono un'avventura dedicata a parte — il Cuore Bicolore e il Velo Strappato si recuperano a uno snodo cardine di confronto col culto che le detiene (conseguenza della trama principale, non quest separata); le altre tre (Seme di Tempesta, Tamburo Silenzioso, Radice Incantata) restano avventure di recupero dedicate, ma sempre contenuto giocato nei capitoli — mai nei downtime, che non sono sessioni giocate (DEC-0049) — e sempre ancorate a indizi/PNG connessi a Eos, non a sé stanti.
 
 ### 16.5 Il Registro dell'Equilibrio — costi e contromisure del potere — DEC-0031
 

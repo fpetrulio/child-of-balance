@@ -87,6 +87,8 @@ Livello iniziale CONFERMATO a 1 (DEC-0033, 12/10/2026). Resta da decidere: fasci
 
 **GATE DI USCITA:** un percorso narrativo principale completo e ramificazioni gestibili, non una serie di concept.
 
+**STATO (13/10/2026): APERTO, in corso.** Corretto un fraintendimento strutturale fondamentale (DEC-0049): i downtime NON sono sessioni giocate — sono periodi fuori dal controllo dei PG (attività passive, nessuna scena d'avventura), che servono a consegnare informazioni chiave tra un capitolo e il successivo. Nessun PNG rintracciabile conosce la vera natura di Eos; i PG agiscono inizialmente solo per la profezia, ignari della propria Benedizione. Di conseguenza (DEC-0050), il recupero delle 6 reliquie è tutto contenuto giocato nei capitoli: 2 (Cuore Bicolore, Velo Strappato) a uno snodo cardine di confronto col culto che le detiene; le altre 3 come avventure dedicate ma sempre ancorate al contesto di Eos, mai a sé stanti. Corretto in loco `architettura-campagna.md` §2-3. Dettagli in [Campaign Bible §40-41](../01-campaign-design/campaign-bible.md). Ancora da fare: confermare la fascia di livelli finale e la distribuzione su capitoli/downtime (ora coerente col nuovo modello); origine di Eos e genitori mortali; diffusione della profezia; cronologia; luoghi canonici; evoluzione dei culti; incontro decisivo; l'output finale (sinossi, timeline, capitoli con scopo/conflitto/conseguenze).
+
 ## 6. Gate F — Primo vertical slice giocabile
 
 Prologo "Nascita e fuga": ingresso dei PG, scena della nascita, indizi, attacco al santuario e fuga significativa da una forza soverchiante, Eos neonato affidato al gruppo, esiti divergenti.
