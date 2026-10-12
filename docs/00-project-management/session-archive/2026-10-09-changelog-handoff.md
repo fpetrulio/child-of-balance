@@ -160,6 +160,30 @@ CL-48 | VERIFICATO | Prima compilazione reale di `main.pdf` riuscita (15 pagine)
 
 CL-49 | CONFERMATO | Modello di generazione immagini di default: `gpt-image-2.5-sunburst` (il più dettagliato dei due disponibili al 12/10/2026); aggiornare al modello più recente quando ne esce uno nuovo. Chiave API salvata in `.env` locale (esclusa da git).
 
+CL-50 | RISOLTO | Avviso `pgfkeys Error: I do not know the key '/tcb/\NoValue'` nei box `DndComment`: causato da `\begin{DndComment}{Titolo}` senza l'argomento opzionale `[...]`. Fix: parentesi quadre vuote esplicite `\begin{DndComment}[]{Titolo}` in tutti i capitoli/appendici. Documentato in `latex/manual/README.md`.
+
+CL-51 | RISOLTO | Testo giustificato al posto di ragged-right (richiesta dell'autore: "l'allineamento a sinistra crea righe disgustose"): il template ha già un'opzione di classe `justified` (`dndoptions.clo`), aggiunta a `\documentclass` in `main.tex`.
+
+CL-52 | VERIFICATO E CORRETTO | Prima immagine generata (`eos-mito-origine.png`) conteneva un errore di lore: Lathander (dovrebbe essere uomo) e Shar (dovrebbe essere donna) con generi invertiti, ed Eos assente dalla scena — segnalato dall'autore. Corretto ricercando l'aspetto reale delle due divinità (WebSearch), generando ritratti di riferimento individuali lore-accurati (`lathander-ref.png`, `shar-ref.png`) e componendo la scena corretta (Eos visibile) tramite `/v1/images/edits` con entrambi i riferimenti come input. Stabilito un protocollo fisso per ogni generazione futura (mai testo "a freddo" per elementi nominati; ricerca di lore reale prima di scrivere il prompt per elementi Forgotten Realms, senza dare in pasto arte ufficiale coperta da copyright al modello; un ritratto di riferimento per personaggio/elemento ricorrente, riusato per ogni scena successiva; per elementi che cambiano nel tempo, evolvere il riferimento più recente invece di rigenerare da zero) — documentato in `technical-specification.md` §7.
+
 ## Handoff — fine sessione Gate B, 12 ottobre 2026
 
 Gate B RISOLTO. Prossimo passo secondo la roadmap: Gate C (piani concreti dei due culti — obiettivi intermedi, mezzi, punti debole). Da affrontare in una sessione separata per preferenza dell'autore.
+
+## Gate C — risoluzioni preliminari sulle reliquie — 12 ottobre 2026 (sessione separata, come richiesto)
+
+Prima di definire i piani operativi dei due culti, l'autore ha chiesto di chiarire tre domande preliminari sulle reliquie emerse durante la discussione. Dettagli completi in [Potere di Eos §17](../../01-campaign-design/potere-di-eos-workshop.md) e [Campaign Bible §31](../../01-campaign-design/campaign-bible.md).
+
+CL-53 | CONFERMATO (DEC-0037) | Domanda dell'autore: le Impronte nascono tutte alla nascita di Eos, o alcune nascono più tardi (crisi del Limbo, Downtime II)? Risolto: un'unica ondata, dalla nascita — tutte e sei erano già scritte con un'origine legata al santuario, e una vera seconda ondata avrebbe richiesto riscriverne l'origine senza un reale bisogno narrativo. "Diventano centrali nel Downtime II" (`architettura-campagna.md`) si legge come spostamento del fuoco narrativo, non un secondo evento di creazione. Le reliquie erano doni cerimoniali del santuario (parallelo oro/incenso/mirra) che il surge trasforma, non crea dal nulla.
+
+CL-54 | CONFERMATO (DEC-0038) | Domanda dell'autore: dopo l'attacco al santuario, che fine fanno le reliquie? Rischio segnalato: finiscono tutte alle fazioni, dando troppo potere. Risolto con un meccanismo narrativo specifico per ciascuna delle 6 reliquie (non il caso): Cuore Bicolore a un infiltrato dell'Alba già presente; Velo Strappato spogliato da un caduto dal Velo nel caos; Specchio Fesso affidato deliberatamente ai PG dai druidi superstiti; Seme di Tempesta perduto nel sottobosco; Tamburo Silenzioso disperso con un druido fuggito altrove (sorte incerta); Radice Incantata divisa preventivamente in due talee. Risultato: una reliquia a testa per fazione, una ai PG, tre perdute/disperse. Scritto anche in `latex/manual/AppendiceB.tex` (riga "Custodia" per ciascuna reliquia).
+
+CL-55 | CONFERMATO (DEC-0039) | Domanda dell'autore: le reliquie sono armi assolute — chi vieta ai culti di usarle per uccidere i PG? Risolto con la Benedizione di Eos: scudo di gruppo esclusivo dei PG, non immunità generica — un benedetto può colpire un altro benedetto (dilemmi morali interni al gruppo preservati), ma le reliquie in mano a un non benedetto non hanno effetto su un bersaglio benedetto. Nessun rito né incontro da gestire: condizione strutturale del legame dei PG con Eos, non una scelta attiva che Eos compie per loro.
+
+CL-56 | CONFERMATO (DEC-0040) | Domanda dell'autore: e i leader dei culti, come si proteggono, visto che non devono mai aver incontrato Eos? Risolto con due tradizioni antiche separate e indipendenti da Eos: un rito solare dei Sunmaster di Amaunator per l'Alba Incorrotta; un'antica protezione ombra netherese degli Shadovar per il Velo dell'Ultima Quiete. Entrambe proteggono da qualsiasi reliquia (non solo quella della propria fazione), costose/lente da ottenere (anni, non un rituale rapido) e riservate ai vertici più fidati.
+
+CL-57 | PROPAGAZIONE AL MANUALE GM | Su richiesta dell'autore, il materiale sopra (custodia delle reliquie, Benedizione di Eos, contromisure dei culti) è stato scritto anche in `latex/manual/AppendiceB.tex` (riga "Custodia" per ciascuna reliquia) e `latex/manual/Introduzione.tex` (nuova sezione "Le reliquie e chi ne è al riparo (segreto del GM)"). Compilazione verificata dopo l'aggiunta: 17 pagine, nessun errore.
+
+## Handoff — fine sessione, 12 ottobre 2026 (Gate C non ancora chiuso)
+
+Risolte solo le domande preliminari sulle reliquie (origine, distribuzione, protezioni) — non i deliverable propri del Gate C: esiti finali confermati per entrambi i culti, i loro tre obiettivi intermedi, mezzi/risorse/costi/limiti, indizi tracciabili per i PG, debolezze, aspetti seducenti, un Piano B per ciascuno, e la matrice Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze richiesta dalla Narrative Roadmap. Gate C resta aperto, da continuare nella prossima sessione sull'argomento.

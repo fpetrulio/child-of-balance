@@ -261,3 +261,49 @@ CONFERMATO — Il livello iniziale della campagna è 1 (non 5; chiude parzialmen
 RESTA IPOTESI (parametri di playtest, tunabili): i numeri esatti dell'economia delle cariche (§10); i dettagli esatti di cosa conta come "uso significativo" da annotare nel Registro; contromisure tattiche specifiche contro ogni reliquia oltre a quelle già elencate in §12; la natura esatta del Registro/Bilancia (§16.5); la fascia di livelli esatta oltre al livello iniziale (§16.7).
 
 Gate A della Narrative Roadmap: effetti, limiti e vulnerabilità ora approvati — le missioni possono essere causali. Dettagli in [Narrative Roadmap](../00-project-management/narrative-roadmap.md#1-gate-a--definire-le-regole-del-potere-di-eos-priorit%C3%A0-massima).
+
+## 17. RISOLUZIONE PARZIALE DEL GATE C — origine, distribuzione e protezioni delle reliquie (12 ottobre 2026)
+
+Sessione di design diretta con l'autore, emersa come chiarimento necessario prima di affrontare i piani operativi dei due culti (Gate C). Questa sezione non chiude il Gate C (restano da definire gli obiettivi finali dei due culti, i loro tre obiettivi intermedi, mezzi/risorse/costi, indizi tracciabili per i PG, debolezze, aspetti seducenti, Piano B, e la matrice Obiettivi→Operazioni→Indizi→Reazioni→Conseguenze), ma risolve tre domande preliminari sulle reliquie che il Gate C presupponeva. Decisioni registrate in Campaign Bible DEC-0037 a DEC-0040.
+
+### 17.1 Un'unica ondata di origine, non due — DEC-0037
+
+CONFERMATO — Le sei Impronte nascono tutte dal surge di potere alla nascita di Eos (coerente con DEC-0029), non in due ondate separate. In questa sessione era emersa una vera incongruenza testuale: `architettura-campagna.md` (scritto prima del Gate A, mai rivisto) dice che le Impronte "diventano centrali" nel Downtime II, dopo la crisi del Limbo — un momento molto più tardo della nascita. Era stata esplorata l'idea di una seconda ondata di reliquie nate dalla crisi del Limbo stesso, ma tutte e sei le reliquie erano già state scritte con un'origine esplicitamente legata al santuario della nascita (l'albero sacro, la sorgente, il circolo druidico) — una vera seconda ondata avrebbe richiesto riscrivere l'origine di almeno una di esse (candidata: il Tamburo Silenzioso, l'unica senza custodia già assegnata) senza un reale bisogno narrativo.
+
+Risoluzione: "diventano centrali nel Downtime II" si legge come spostamento del FUOCO NARRATIVO (i culti le sfruttano più aggressivamente, i PG affrontano quelle ancora perdute/disperse, Eos stesso ne sente il peso quando si allontana dal gruppo), non come un secondo evento di creazione. Nessuna reliquia nasce dopo la nascita di Eos.
+
+CONFERMATO — Le sei reliquie, prima del surge, erano doni cerimoniali già presenti per la nascita — un parallelo diretto con oro/incenso/mirra: l'albero sacro, la sorgente sacra, il circolo druidico e gli oggetti ad essi legati (incluso il tamburo cerimoniale) erano già lì come parte del rito di benvenuto del santuario. Il surge non li crea dal nulla: li trasforma in Impronte vere, con i poteri assoluti descritti in §16.4. Questo spiega perché siano materialmente presenti nel santuario proprio nel momento dell'assalto (§17.2), senza bisogno di postulare che qualcuno le abbia fabbricate apposta.
+
+### 17.2 Distribuzione delle reliquie durante l'assalto al santuario — DEC-0038
+
+CONFERMATO — Il rischio segnalato dall'autore ("finiscono tutte in mano alle fazioni, dando troppo potere") è evitato non dal caso, ma da una ragione narrativa specifica e diversa per ciascuna reliquia — nessuna fazione fa una ricerca sistematica durante l'assalto: sono impegnate a combattere o fuggire, non a fare l'inventario.
+
+| Reliquia | Fine durante l'assalto | Meccanismo |
+|---|---|---|
+| **Il Cuore Bicolore** | Ordine dell'Alba Incorrotta | Un infiltrato dell'Alba, già presente da tempo sotto mentite spoglie nella comunità del santuario, lo strappa dall'altare nei primi istanti — sapeva già dove cercarlo. Preparazione, non fortuna. |
+| **Il Velo Strappato** | Velo dell'Ultima Quiete | Un druido colpito lo portava addosso; un assalitore mascherato lo spoglia ritirandosi dal campo. Opportunismo nel caos, non un piano. |
+| **Lo Specchio Fesso** | Con i PG | I druidi superstiti lo affidano loro DELIBERATAMENTE insieme al neonato Eos — un atto di fiducia cosciente, non un ritrovamento casuale. |
+| **Il Seme di Tempesta** | Perduto | Rotola nel sottobosco durante la fuga, sepolto dalle macerie del santuario — nessuno lo nota, nessuno lo cerca. |
+| **Il Tamburo Silenzioso** | Disperso | Il druido che lo custodiva fugge in direzione opposta ai PG; la sua sorte resta incerta — coerente con l'incipit già confermato secondo cui il destino di alcuni presenti non è noto. |
+| **La Radice Incantata** | Divisa in due talee | Un druido anziano, intuendo il pericolo PRIMA dell'attacco, la divide deliberatamente e ne affida le due metà a messaggeri diversi. Previdenza, non incidente — coerente con la custodia già scritta in §16.4 ("richiede una vera ricerca di riunificazione"). |
+
+Risultato: 2 reliquie a una fazione a testa, 1 ai PG, 3 perdute/disperse/da riunificare — nessun culto "vince" materialmente l'assalto, ed entrambi iniziano la campagna con una sola reliquia propria più la plausibilità di cercare le altre (coerente con il fatto che agiscono con sicurezza fin dal Capitolo 1).
+
+### 17.3 La Benedizione di Eos — DEC-0039
+
+CONFERMATO — Le reliquie sono armi assolute (§16.4): nulla, in linea di principio, vieta a un culto di usare il Cuore Bicolore per uccidere i PG o un proprio leader rivale a comando. L'autore ha richiesto una condizione che immunizzi individui specifici, rendendo i PG candidati ideali alla missione proprio perché protetti in modo che altri non sono — ma la protezione non deve richiedere un incontro diretto fra Eos e i leader nemici (incompatibile con DEC-0034-0036 sul silenzio dei genitori e con la segretezza dei veri padroni dei culti).
+
+La Benedizione di Eos è ESCLUSIVA DEI PG. Non è un'immunità generica dalle reliquie: è uno scudo di gruppo. Chi è benedetto PUÒ usare una reliquia su un altro benedetto (la vulnerabilità reciproca resta intatta — i dilemmi morali fra compagni, tema centrale di §16.6, non sono annullati), ma le reliquie impugnate da chiunque non sia benedetto non hanno alcun effetto su un bersaglio benedetto. Non richiede un rito, un incontro consapevole o uno scambio/sacrificio da gestire narrativamente: è una condizione strutturale, parte del legame dei PG con Eos fin dall'inizio della loro missione — non una scelta che Eos compie attivamente per loro (resta coerente con DEC-0027: Eos non decide per gli altri).
+
+### 17.4 Le contromisure dei culti: tradizioni protettive antiche — DEC-0040
+
+CONFERMATO — I leader dei due culti non hanno mai incontrato Eos (requisito esplicito dell'autore, per non compromettere la segretezza dei veri padroni, DEC-0035) e quindi non possono accedere alla Benedizione di Eos. La loro protezione dalle reliquie — necessaria perché un culto non silenzi a comando i leader rivali tramite il Cuore Bicolore — viene da una tradizione antica e separata, radicata nel proprio patrono, non in Eos:
+
+- **Ordine dell'Alba Incorrotta**: un rito solare dei Sunmaster di Amaunator — un'antica pratica di "tempra" che rende un devoto resistente a forze che travalicano la natura, riservata a chi ha dimostrato anni di fedeltà assoluta al dogma.
+- **Velo dell'Ultima Quiete**: un'antica protezione ombra degli Shadovar di Thultanthar — una usanza netherese di schermatura, riservata ai nobili/agenti di massima fiducia (Netheril era nota per magie potenti e pericolose anche nella sua epoca di massimo splendore).
+
+Entrambe le tradizioni proteggono da QUALSIASI reliquia, non solo da quella della propria fazione (altrimenti l'Alba potrebbe comunque silenziare a comando i leader del Velo con il Cuore Bicolore, vanificando lo scopo); sono costose e lente da ottenere (anni di prova, non un rituale rapido) e quindi riservate ai vertici più fidati; sono completamente indipendenti da Eos, quindi nessun leader nemico lo ha mai incontrato né ne è consapevole.
+
+### 17.5 Stato aggiornato
+
+RESTA DA DEFINIRE (Gate C proprio, non toccato da questa sessione): esiti finali confermati per entrambi i culti, i tre obiettivi intermedi di ciascuno, mezzi/risorse/costi/limiti/compromessi, indizi tracciabili per i PG, debolezze, aspetti seducenti/apparentemente positivi, un Piano B per ciascuno, e la matrice Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze richiesta dalla Narrative Roadmap. Questa sezione fornisce solo il materiale di supporto (dove sono le reliquie, chi può colpire chi) su cui quei piani si costruiranno.

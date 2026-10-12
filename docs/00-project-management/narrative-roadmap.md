@@ -61,6 +61,8 @@ I nomi "Ordine dell'Alba Incorrotta" e "Velo dell'Ultima Quiete" restano provvis
 
 **GATE DI USCITA:** almeno un piano può essere giocato come catena di missioni, senza imporre scelte ai PG.
 
+**STATO (12/10/2026): APERTO — risolte solo le domande preliminari sulle reliquie.** Prima di definire i piani stessi, risolte tre domande che li condizionavano: origine delle 6 Impronte in un'unica ondata alla nascita di Eos (DEC-0037); distribuzione specifica di ciascuna durante l'assalto al santuario — un culto a testa, una ai PG, tre perdute/disperse (DEC-0038); la Benedizione di Eos, scudo di gruppo esclusivo dei PG contro l'uso delle reliquie (DEC-0039); contromisure antiche e separate da Eos per i leader dei culti, mai incontratolo (DEC-0040). Dettagli in [Potere di Eos §17](../01-campaign-design/potere-di-eos-workshop.md) e [Campaign Bible §31](../01-campaign-design/campaign-bible.md). Ancora da fare: esiti finali dei culti, obiettivi intermedi, mezzi/risorse/indizi/debolezze/Piano B, e la matrice sopra.
+
 ## 4. Gate D — Arco morale, bivi e agency
 
 - Precisare cos'è Bene Assoluto e cosa Male Assoluto; non identificare automaticamente Bene e assenza di dolore.
