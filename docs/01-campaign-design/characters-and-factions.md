@@ -46,7 +46,18 @@ CRITICITÀ — Perché siano credibilmente mossi dal bene, mostrare altruismo au
 
 CONFERMATO (DEC-0041, Gate C, 12/10/2026) — Risultato finale in due fasi: finché Eos è bambino/ragazzo, l'Alba Incorrotta ruba frammenti di potere tramite il Cuore Bicolore (già in loro possesso) e le altre reliquie che riescono a recuperare, e cerca di influenzarne l'educazione verso il Bene Assoluto (coerente con DEC-0019: Eos cresce in base al comportamento dei custodi); quando Eos è adulto, chi ha avuto più successo nell'educarlo (o lo cattura direttamente) dirige quel potere su scala civile — qui, imporre un'unica fede solare rigida e ordinata su tutta la regione, chiudendo per sempre la "debolezza" del culto di Lathander.
 
-DA DEFINIRE — Leader, base, simboli, mezzi, cellule, infiltrazioni e costo umano dei loro successi; i tre obiettivi intermedi, mezzi/risorse/limiti e indizi rintracciabili richiesti dal [Gate C](../00-project-management/narrative-roadmap.md#3-gate-c--piani-antagonistici-non-soltanto-ideologie).
+CONFERMATO (DEC-0042, Gate C, 12/10/2026) — Piano operativo completo:
+
+- *Come il potere di Eos rende possibile il risultato*: l'Eos adulto come Bene Assoluto (*Il Limbo di Eos*) diventa esso stesso lo strumento d'imposizione — giudica preventivamente, elimina o segrega chi considera malvagio o futuro malvagio. L'Alba non deve convincere nessuno dopo: la fede unica resta l'unica opzione sopravvissuta.
+- *Tre obiettivi intermedi*: (1) infiltrare la custodia di Eos per orientarne l'educazione morale verso il Bene Assoluto; (2) costruire legittimità pubblica inscenando resurrezioni con il Cuore Bicolore e ogni altra reliquia recuperata, minando l'autorità del clero ufficiale di Lathander; (3) infiltrare il clero di Lathander o le istituzioni civiche regionali, per rendere plausibile l'accettazione pubblica di Eos adulto come autorità vivente.
+- *Mezzi/risorse*: rete di Sunmaster rinnegati sotto copertura (chierici, nobili devoti, funzionari); il Cuore Bicolore; la legittimità religiosa preesistente del culto di Amaunator.
+- *Costi/limiti/compromessi*: ogni "miracolo" alimenta il Registro dell'Equilibrio (DEC-0031) senza che l'Alba lo sappia o lo controlli; l'economia delle cariche (Potere di Eos §16.4) li costringe a selezionare con cura, e a tenere Eos vicino per ricaricare — difficile se non ne hanno la custodia; per mantenere la facciata di "bene" riservano la Presa (uccidere) a eliminazioni clandestine, mai pubbliche.
+- *Indizi rintracciabili per i PG*: resurrezioni impossibili da spiegare con la magia clericale normale; infiltrati sospettosamente premurosi/controllanti verso i custodi di Eos; sparizioni di oppositori di Amaunator coincise con "incidenti".
+- *Punti deboli*: dipendenza dalla vicinanza fisica a Eos per ricaricare il Cuore Bicolore; la facciata crolla alla prima Presa scoperta pubblicamente; sono zeloti sinceri (CL-11) — vulnerabili a una crisi di fede se confrontati con le reali conseguenze delle loro azioni.
+- *Aspetti seducenti*: le resurrezioni sono vere e aiutano persone reali; l'ordine che promettono potrebbe davvero migliorare una regione lacerata da conflitti religiosi; alcuni bersagli "scomodi" potrebbero essere autenticamente corrotti, rendendo l'eliminazione moralmente ambigua più che pura malvagità.
+- *Piano B*: se l'infiltrazione della custodia fallisce, puntano alla cattura diretta nel momento di massima vulnerabilità di Eos (crisi del Limbo, Downtime II) — accettando un Eos catturato e costretto, non "educato e convinto", piuttosto che perdere l'occasione.
+
+DA DEFINIRE — Leader, base, simboli e cellule specifiche (nomi, personalità, geografia esatta).
 
 ## 5. Culto B: fazione malvagio-assolutista
 
