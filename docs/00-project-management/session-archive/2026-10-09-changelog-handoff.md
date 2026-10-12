@@ -184,6 +184,20 @@ CL-56 | CONFERMATO (DEC-0040) | Domanda dell'autore: e i leader dei culti, come 
 
 CL-57 | PROPAGAZIONE AL MANUALE GM | Su richiesta dell'autore, il materiale sopra (custodia delle reliquie, Benedizione di Eos, contromisure dei culti) è stato scritto anche in `latex/manual/AppendiceB.tex` (riga "Custodia" per ciascuna reliquia) e `latex/manual/Introduzione.tex` (nuova sezione "Le reliquie e chi ne è al riparo (segreto del GM)"). Compilazione verificata dopo l'aggiunta: 17 pagine, nessun errore.
 
-## Handoff — fine sessione, 12 ottobre 2026 (Gate C non ancora chiuso)
+## Gate C — risultato finale e piani operativi — 12 ottobre 2026 (continua)
 
-Risolte solo le domande preliminari sulle reliquie (origine, distribuzione, protezioni) — non i deliverable propri del Gate C: esiti finali confermati per entrambi i culti, i loro tre obiettivi intermedi, mezzi/risorse/costi/limiti, indizi tracciabili per i PG, debolezze, aspetti seducenti, un Piano B per ciascuno, e la matrice Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze richiesta dalla Narrative Roadmap. Gate C resta aperto, da continuare nella prossima sessione sull'argomento.
+CL-58 | CONFERMATO (DEC-0041) | Risultato finale di entrambi i culti, cornice a due fasi: finché Eos è bambino/ragazzo rubano frammenti di potere e influenzano la sua educazione verso il proprio assoluto; da adulto, chi ha avuto più successo dirige il potere su scala civile — l'Alba impone un'unica fede solare rigida, il Velo ricostruisce il dominio imperiale di Netheril.
+
+CL-59 | CONFERMATO (DEC-0042) | Piano operativo completo dell'Ordine dell'Alba Incorrotta: 3 obiettivi intermedi, mezzi/risorse, costi/limiti (Registro dell'Equilibrio, economia delle cariche), indizi per i PG, punti deboli, aspetti seducenti, Piano B (cattura diretta).
+
+CL-60 | CONFERMATO (DEC-0043) | Piano operativo completo del Velo dell'Ultima Quiete, speculare ma con metodi ombra/clandestini invece di luce/pubblici; Piano B distintivo (occultare l'importanza di Eos piuttosto che catturarlo).
+
+CL-61 | CORREZIONE DELL'AUTORE (DEC-0044) | L'Obiettivo 1 di entrambi i piani (infiltrare la custodia di Eos) non era credibile finché Eos è protetto dai PG — osservazione dell'autore. Rivisto: nei Capitoli 1-2/Downtime I i culti possono solo cercare di localizzare i PG, senza successo; la prima finestra di contatto diretto si apre dopo la crisi del Limbo, quando Eos si allontana dal gruppo (Downtime II). Chiarisce anche perché la crisi del Limbo resti opera dei PG, non dei culti.
+
+CL-62 | CONFERMATO (DEC-0045) | Matrice completa Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze per entrambi i piani, incorporando la revisione DEC-0044. Ogni riga offre più reazioni praticabili senza binari forzati — soddisfa il gate di uscita per entrambi i piani.
+
+CL-63 | PROPAGAZIONE AL MANUALE GM | Piani operativi dei due culti scritti anche in `latex/manual/AppendiceD.tex` (nuove sezioni "Ordine dell'Alba Incorrotta" e "Velo dell'Ultima Quiete", segreto del GM) — roster di PNG nominati resta DA DEFINIRE. Compilazione verificata: 17 pagine, nessun errore.
+
+## Handoff — fine sessione, 12 ottobre 2026 (Gate C RISOLTO)
+
+Gate C della Narrative Roadmap RISOLTO: risultato finale, piani operativi completi (3 obiettivi/mezzi/costi/indizi/debolezze/Piano B ciascuno) e matrice Obiettivi→Operazioni→Indizi→Reazioni→Conseguenze per entrambi i culti, scritti anche nel manuale GM. Prossimo passo secondo la roadmap: Gate D (arco morale, bivi e agency dei PG) — già parzialmente pre-risposto da DEC-0021/0027/0028 ma non ancora formalmente chiuso come gate proprio. Da affrontare in una sessione separata per preferenza dell'autore.
