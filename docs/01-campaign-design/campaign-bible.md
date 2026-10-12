@@ -170,6 +170,7 @@ PRECISAZIONE — Non è stata scartata la battaglia iniziale spettacolare; riman
 | DEC-0044 | 2026-10-12 CONFERMATO (Gate C, revisione) | L'Obiettivo 1 di entrambi i piani (DEC-0042, DEC-0043) rivisto: i culti NON hanno contatto diretto con Eos finché è protetto dai PG (Capitoli 1-2/Downtime I) — agiscono solo nelle retrovie (localizzazione a distanza, senza successo). La prima vera finestra di contatto si apre dopo la crisi del Limbo, quando Eos si allontana volontariamente dal gruppo (Downtime II): è lì che un mentore/agente di ciascun culto lo intercetta e tenta di orientarlo verso il proprio assoluto, offrendogli la certezza morale (Alba) o la "verità liberatoria" (Velo) che sta cercando in un momento di dubbio. Osservazione dell'autore: un'infiltrazione nella cerchia di fiducia dei PG mentre Eos è con loro non è credibile, dato quanto lo proteggono. Dettagli in [Characters & Factions §4-5](./characters-and-factions.md). |
 | DEC-0045 | 2026-10-12 CONFERMATO (Gate C) | Matrice completa Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze per entrambi i piani operativi, incorporando la revisione DEC-0044. Ogni riga offre più reazioni praticabili senza binari forzati. Dettagli in [Characters & Factions §10](./characters-and-factions.md). |
 | DEC-0046 | 2026-10-13 CONFERMATO (Gate D) | Eos è intrinsecamente duale: due entità/metà immature, riflesso diretto dell'opposizione dei suoi genitori (domini di Lathander e Shar), entrambe mosse da autoconservazione. Se Eos diventa un Assoluto, una delle due metà non può più sopravvivere. La "parte oscura" imprigionata nel Limbo cerca di far vacillare Eos non per malizia, ma perché la coesistenza non è un'opzione finché lui resta un Assoluto — spera in uno spiraglio di sopravvivenza, non garantisce una presa di potere. Le prove del Limbo richiedono ai PG di confutare l'Assoluto del Bene portando Eos ad accettare che male e sofferenza hanno un ruolo nell'ordine naturale (applicazione concreta di DEC-0027) — non di commettere o indurre atti malvagi. Dettagli in [Il Limbo di Eos §14](./il-limbo-di-eos.md). |
+| DEC-0047 | 2026-10-13 CONFERMATO (Gate D) | Per simmetria con DEC-0046: nel ramo Male Assoluto (Legge del Prezzo) è la metà BUONA di Eos a non poter sopravvivere, imprigionata non per giudizio preventivo ma in una prigione di contabilità infinita — ogni gesto di bontà spontanea convertito in debito, perché la Legge del Prezzo non tollera eccezioni gratuite. Le prove dei PG in questo ramo (eventuale) dovrebbero confutare la premessa opposta: la grazia immeritata ha anch'essa un ruolo necessario nell'ordine naturale, la metà mancante di "non c'è Luce senza Ombra". Dettagli in [Gli Assoluti e il Male Necessario §22](./gli-assoluti-e-il-male-necessario.md). |
 
 Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le decisioni narrative sono antecedenti.
 
@@ -189,6 +190,14 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 ## 14. Principio operativo
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
+
+## 37. Gate D — il Limbo speculare della Legge del Prezzo (13 ottobre 2026)
+
+Sessione di design diretta con l'autore, dettagli completi in [Gli Assoluti e il Male Necessario §22](./gli-assoluti-e-il-male-necessario.md). Sintesi:
+
+Per simmetria con la dualità appena stabilita (DEC-0046): se Eos scivola verso la Legge del Prezzo, è la metà buona a non poter più sopravvivere. Non viene segregata per giudizio preventivo (logica specifica del Bene Assoluto) — resta imprigionata in una prigione di contabilità infinita, dove ogni gesto di bontà spontanea viene convertito in debito, perché la Legge del Prezzo non ammette eccezioni gratuite. Le prove dei PG in questo ramo dovrebbero confutare la premessa opposta a quella del Limbo: non che il male ha un ruolo nell'ordine naturale, ma che la grazia immeritata lo ha altrettanto — la metà mancante della stessa massima (DEC-0027) (DEC-0047).
+
+Resta DA DEFINIRE se questo ramo verrà effettivamente giocato (dipende dalle scelte dei PG/custodi durante l'educazione di Eos) o resterà teoria di continuità, e il nome definitivo del luogo (proposta di lavoro non approvata: "la Cripta del Debito").
 
 ## 36. Gate D — la dualità di Eos e il vero significato delle prove del Limbo (13 ottobre 2026)
 
