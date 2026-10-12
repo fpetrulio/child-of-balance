@@ -1,0 +1,78 @@
+# The Prophetic Song — Il Canto del Seme Velato
+
+Child of Balance · archivio del testo di riferimento
+
+Aggiornamento: 9 ottobre 2026 · Provenienza: ricostruzione della conversazione "Canto profetico" fornita dall'autore.
+
+## Stato editoriale
+
+TESTO DI RIFERIMENTO ATTUALE — NON ANCORA APPROVATO COME VERSIONE DEFINITIVA.
+
+Il canto è l'ultima versione profetica prodotta nella conversazione originale; non risulta una conferma esplicita definitiva dell'autore.
+
+Le versioni del mito italiano, traduzione inglese, prosa arcaica italiana/inglese e voice-over in due lingue sono segnalate come esistenti, ma i loro testi integrali non sono disponibili nella ricostruzione.
+
+## Testo integrale — versione riportata
+
+**Il Canto del Seme Velato**
+
+*Profezia del Figlio del Paradosso*
+
+> Ascolta, poiché ciò che fu taciuto ritorna nel respiro del mondo.
+>
+> Quando l'Alba esitò e la Notte non osò avanzare, due solitudini si riconobbero là dove nessun dio dovrebbe sostare.
+>
+> Luce che non volle dominare. Ombra che non volle divorare.
+>
+> Dal loro incontro nacque il Seme, né benedetto né maledetto, poiché nessun nome poteva contenerlo.
+>
+> Gli astri lo reclamarono. Gli abissi lo pretesero.
+>
+> Ma il Seme fu celato nella carne, e la carne dimenticò ciò che portava.
+>
+> Ricorda: non v'è Luce che non proietti Ombra, non v'è Ombra che non attenda la Luce.
+>
+> Quando il Seme respirerà di nuovo, gli assoluti tenderanno la mano.
+>
+> Alcuni per guidarlo. Altri per spegnerlo.
+>
+> Tutti per possederlo.
+>
+> Guardati da chi parla di salvezza. Guardati da chi promette quiete.
+>
+> Poiché il Seme non è redenzione. Né fine.
+>
+> È scelta.
+>
+> E quando la scelta verrà compiuta, non saranno gli dèi a pagare il prezzo.
+>
+> Ma coloro che restarono.
+
+## Interpretazione attualmente supportata
+
+- "Alba" e "Notte" rinviano simbolicamente all'incontro tra Lathander e Shar; il "Seme" a Eos e alla sua discendenza.
+- Gli "assoluti" evocano forze intenzionate a impossessarsene, fra cui i due culti segreti.
+- L'ultima sezione attribuisce peso decisivo alle scelte dei mortali, coerentemente con la centralità dei PG.
+
+Queste sono letture ragionevoli, non la definizione canonica e completa di ogni verso.
+
+## Criticità da risolvere
+
+«Alcuni per guidarlo. Altri per spegnerlo.» può implicare che un gruppo voglia distruggere Eos; entrambi i culti antagonisti finora sono stati definiti soprattutto interessati a controllarne il potere. Stabilire se il verso sia ambiguo intenzionalmente, metaforico o vada riscritto.
+
+Non è ancora stabilito l'autore in-world della profezia, chi la custodisca, come venga scoperta dai culti, chi la conosca fra i PG, né come debba essere pronunciata o mostrata in sessione.
+
+Non sostituire il canto senza approvazione dell'autore.
+
+## Materiali testuali ancora da recuperare
+
+- Mito fondativo originale scritto dall'autore in italiano.
+- Traduzione letteraria inglese.
+- Versione arcaica italiana.
+- Versione arcaica inglese.
+- Voice-over cinematografico italiano e inglese.
+- Eventuali revisioni precedenti della profezia.
+
+## Tracciabilità
+
+2026-10-09 | Fonte: ricostruzione condivisa in chat dall'autore | Acquisito testo esatto come riportato | Stato: riferimento attuale, non definitivamente approvato.

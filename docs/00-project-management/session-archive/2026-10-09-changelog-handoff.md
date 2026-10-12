@@ -1,0 +1,87 @@
+# Child of Balance — Registro di Progettazione
+
+9 ottobre 2026
+
+TIPO: CHANGELOG, RAZIONALE, PASSAGGIO DI CONTESTO — non una trascrizione verbatim completa.
+
+FONTI: messaggi disponibili in questa conversazione e ricostruzioni delle precedenti chat fornite dall'autore. Non dedurre contenuti da chat non accessibili.
+
+## Protocollo operativo (proposta)
+
+1. Registrare decisioni, proposte, scarti, motivi, impatto e link ai documenti.
+2. Su richiesta "chiudiamo la sessione" produrre un riepilogo storico e una sezione Handoff aggiornati.
+3. Al cambio chat consultare Project Index, Campaign Bible e l'ultimo Handoff prima di procedere.
+4. Gli aggiornamenti ricorrenti potranno essere programmati su richiesta, ma il sistema non rileva da solo la fine della conversazione.
+5. I riassunti non sostituiscono un dump verbatim: riportare parole testuali solo quando direttamente disponibili.
+
+Fonti canoniche: [`project-index.md`](../project-index.md) · [`../../01-campaign-design/campaign-bible.md`](../../01-campaign-design/campaign-bible.md) · [`../../01-campaign-design/story-outline.md`](../../01-campaign-design/story-outline.md)
+
+## Cronologia del recupero
+
+- **R01** | CANONE RECUPERATO | Eos figlio di Lathander e Shar, entrambi protettori. Il primo Eos vive come druido elfo millenario e ha discendenti; il nuovo Eos nasce fra mortali. La nascita attira aggressori, i druidi aiutano i PG a fuggire col bambino; due culti segreti lo cercano.
+- **R02** | ARCO CONFERMATO NELLA CHAT DI ORIGINE | Nel ramo del Bene Assoluto Eos attua il giudizio preventivo, crea un Limbo e imprigiona lì il suo lato oscuro; il dubbio e la possibile caduta sono al centro della crisi. Il finale giocabile e la collocazione globale non sono stabiliti.
+- **R03** | DIREZIONE CONFERMATA | Possibili Bene e Male Assoluto; Ilmater dimostra che sofferenza non equivale automaticamente a Male. I dilemmi del "male necessario" proposti restano da verificare.
+- **R04** | TESTO DI RIFERIMENTO | Il Canto del Seme Velato è recuperato, ma non approvato come versione definitiva.
+- **R05** | ARCHIVIO CREATO | ChatGPT come sede delle decisioni, Drive come memoria documentale, GitHub/LaTeX/Foundry in fase successiva.
+
+## Changelog recente — decisioni e razionale
+
+| ID | Stato | Decisione | Razionale |
+|---|---|---|---|
+| CL-01 | CONFERMATO | Almeno quattro capitoli con tre downtime. | Dare tempo alla crescita di Eos e ai cambiamenti del mondo. |
+| CL-02 | DIREZIONE AUTORIALE | Primo downtime verso la crisi del Limbo o controparte negativa; poi Eos si allontana per conoscersi. Secondo downtime valorizza reliquie e manifestazioni. Finale possibile: una fazione ottiene il potere di Eos, i PG la affrontano e lo liberano. | Meccanismo del finale aperto. |
+| CL-03 | CONFERMATO | Non fissare ancora livelli: prima chiarire quali avversari e quale climax siano necessari. | — |
+| CL-04 | CONFERMATO | Intrighi, investigazioni, scelte e uso ingegnoso delle capacità prevalgono sul dungeon crawling; pochi scontri ma impegnativi. | — |
+| CL-05 | CONFERMATO | Nemici potenti e caratterizzati, interazione tattica col terreno, preparazione e più vie di soluzione. | Premiare il pensiero strategico. |
+| CL-06 | CONFERMATO | Combattimenti extra possono essere provocati da azioni imprudenti; consumo severo di risorse, perdite strategiche e conseguenze dure sono ammissibili. Il singolo tiro sfortunato su un buon piano non equivale a imprudenza. | — |
+| CL-07 | CONFERMATO | Natura autentica di Eos e significato degli Assoluti inizialmente segreti. Azioni ed esempi concreti dei PG di orientamenti differenti influenzano il bambino. Non introdurre un contatore di allineamento senza approvazione. | — |
+| CL-08 | CONFERMATO | Dungeon e luoghi coerenti: un corridoio d'uso ordinario non presenta una trappola arbitraria senza passaggio autorizzato. Protezioni a tutela di accessi, persone, segreti o oggetti realmente importanti. Layout fondato su funzione, occupanti, abitudini e storia. | — |
+| CL-09 | CONFERMATO LIMITATAMENTE | Impronte ottenute attraverso manifestazioni straordinarie di Eos e non semplici campioni biologici. Numero di cariche, ricarica e poteri della bozza sono ancora da approvare. | — |
+| CL-10 | NUOVA RICHIESTA | Archiviare non solo decisioni ma anche razionali, scarti e passaggi di contesto. Questo documento avvia l'archivio cronologico. | — |
+| CL-11 | CONFERMATO NEL DIALOGO | Le due fazioni sono zelote: credono di dover fare di Eos un Assoluto della rispettiva visione del mondo, legittimando soggettivamente anche condotte discutibili. | Non è una lotta semplicistica per risorse magiche. |
+| CL-12 | CONFERMATO NEL DIALOGO | Scelta B: dopo il Limbo Eos resta incline al Bene ma il dubbio interiore lo spinge a esplorare il lato malvagio. Parte da solo per comprendere se stesso. La trasformazione malvagia automatica del precedente arco viene superata per il Capitolo 2. | Resta aperto il motivo preciso per cui il dubbio implica esplorazione del Male, e non solo autocritica. |
+| CL-13 | PREFERENZA DI INTERAZIONE | Porre una sola domanda alla volta con risposte selezionabili senza digitazione. Ogni scelta confermata va registrata con la propria motivazione. | — |
+| CL-14 | CONFERMATO | Eos può crescere nell'indirizzo malvagio ricevuto dai custodi. La scelta fra Bene e Male determina due rami distinti del Capitolo 2; il Limbo vale solo per il ramo Bene. Il ramo Male è ancora da definire. | — |
+| CL-15 | SCELTA CONFERMATA | Nel ramo Male Assoluto del Capitolo 2, Eos resta malvagio ma una crisi lo spinge a esplorare il Bene. È la controparte strutturale della crisi del Limbo nel ramo Bene; la crisi malvagia specifica resta da progettare. | Mantenere entrambe le diramazioni e motivare il successivo allontanamento di Eos. |
+| CL-17 | CONFERMATO | La nuova dottrina del Male Assoluto è la Legge del Prezzo: Eos impone che conquiste e salvezze comportino una perdita anche quando evitabile, senza esentare gli innocenti. | Un Male razionale, primordiale nell'autorappresentazione, universale e non caotico. Restano aperti soggetto, natura e proporzione del prezzo e la crisi che introduce il dubbio nel Capitolo 2. |
+| CL-18 | CONFERMATO | L'autore sceglie A per la Legge del Prezzo: il sacrificio obbligatorio grava su chi riceve il beneficio. Non scegliere automaticamente un terzo pagatore. | Male Assoluto impersonale e universale, che impone perdite anche evitabili. Domanda aperta: il beneficiario può rifiutare il vantaggio o è obbligato a pagare anche quando non lo desidera? |
+| CL-19 | CONFERMATO | L'autore sceglie C: il beneficiario può rifiutare in anticipo, ma il prezzo diventa irrevocabile dopo la ricezione del beneficio. | Eos impone un debito anche quando il beneficio non implicava un costo necessario. Q aperta: cosa succede se il beneficio è ricevuto senza consenso o senza possibilità di rifiuto? |
+| CL-20 | CONFERMATO | Scelta A ribadita: anche il beneficio non richiesto genera un debito. VINCOLO CONFERMATO: la Legge del Prezzo non si applica alla natura ordinaria o alla sopravvivenza biologica, es. predazione per nutrirsi. | La precedente formula "ogni beneficio" va ristretta. APERTO: quali benefici attivano precisamente la legge? Non equiparare automaticamente magia e innaturalità. |
+| CL-21 | REQUISITO CONFERMATO | La Legge del Prezzo deve avere una definizione assoluta e coerente, senza eccezioni ad hoc; esentare in modo strutturale gli atti di sopravvivenza naturale. | Prima di definire i casi concreti, chiarire se sia legge cosmica preesistente o legge imposta da Eos. |
+| CL-22 | CONFERMATO | La Legge del Prezzo è imposta da Eos e origina da un suo ragionamento autonomo. Non è una legge cosmica preesistente o un dogma ricevuto. | La formulazione logica rigorosa e la premessa causale vanno ancora definite. |
+
+Verifica archivio 9 ottobre 2026: nessuna nuova decisione rispetto a CL-22.
+
+## Questioni ancora aperte
+
+Tempistica precisa della crisi del Limbo; alternativa del Male Assoluto; assenza e ricerca di Eos; tipo di controllo esercitato dalla fazione finale; livelli del gruppo; ragione dei limiti all'intervento di Lathander/Shar; luogo di fuga dei PG; regole e costi delle Impronte.
+
+## Handoff — per una futura conversazione
+
+Stato al 9 ottobre 2026: tre ricostruzioni storiche recuperate e salvate su Drive (ora anche in questo repository locale). Campagna D&D 5e 2014 nei Forgotten Realms, figlio divino Eos e culti clandestini.
+
+Vincoli fondamentali: almeno quattro capitoli e tre downtime; protagonismo delle scelte dei PG; pochissimi scontri ma calibrati e strategicamente complessi; rischi credibili e conseguenze persistenti; ambienti funzionali e trappole motivate; rivelazione graduale della vera natura di Eos, influenzata dagli esempi dei custodi.
+
+Struttura e titoli dei capitoli sono ipotesi da discutere; la scelta del livello dipende dal climax.
+
+Prossimo tema dopo le riflessioni dell'autore: approfondire metodologia di progettazione dei luoghi e dei singoli incontri; oppure tornare ai meccanismi del potere e al finale, senza porre domande premature.
+
+## Context handoff — 9 ottobre 2026
+
+Il registro arriva a CL-22. La Legge del Prezzo nasce dal ragionamento autonomo di Eos; il beneficiario paga anche per un vantaggio non richiesto, ma la sopravvivenza naturale è esclusa. Da definire il criterio preciso di applicazione e la crisi del Male Assoluto nel Capitolo 2. Le proposte filosofiche recenti non sono state approvate.
+
+FONTI PRINCIPALI: Project Index, Campaign Bible, Story Outline, Gli Assoluti e il Male Necessario, Il Limbo di Eos, Potere di Eos (workshop), Session Log. Il Session Log non attesta ancora sessioni giocate.
+
+CONFERMATO: Eos può essere orientato al Bene Assoluto o al Male Assoluto dalle azioni dei custodi. In entrambi i rami del Capitolo 2 il dubbio porta all'esplorazione del polo opposto, senza conversione immediata. La campagna prevede almeno quattro capitoli e tre downtime, con priorità a intrigo, scelte e combattimenti rari ma strategici.
+
+TENSIONI: la formula originaria "ogni beneficio" è troppo ampia rispetto all'esclusione dei cicli naturali. Il rifiuto anticipato è possibile, ma il debito nasce anche se il beneficio non poteva essere rifiutato. Serve una regola rigorosa che comprenda entrambe le decisioni.
+
+IPOTESI NON CANONICHE: fondamento filosofico della legge, misura del prezzo, crisi del ramo Male, regole numeriche delle Impronte, struttura dettagliata e finale. La trasformazione malvagia automatica dopo il Limbo è stata superata; l'origine cosmica preesistente della legge è stata esclusa.
+
+PROSSIMI PASSI: definire il dominio della legge e verificarlo su predazione, guarigione gratuita e beneficio involontario; quindi progettare crisi del Male Assoluto, limiti del potere di Eos, piani dei culti e ruolo dei PG. Non promuovere le proposte a canone senza conferma dell'autore.
+
+---
+
+## Aggiunta locale — 12 ottobre 2026
+
+CL-23 | SINCRONIZZAZIONE | L'intera cartella Drive "Child of Balance" è stata condivisa dall'autore e sincronizzata in un repository locale (`~/DnD/child-of-balance`), inizializzato come repository git separato da `fpetrulio/DnD_Campaigns`. Il motore LaTeX del template (dndbook.cls, dnd.sty, lib/, bin/) è stato copiato in `latex/manual/`. Nessun capitolo narrativo è stato impaginato: non esiste ancora testo approvato per un PDF. Nessuno scheletro Foundry è stato creato: le regole minime del potere di Eos (Gate A della Narrative Roadmap) non sono ancora definite, prerequisito dichiarato prima di qualsiasi meccanica giocabile. Il repository locale non è stato collegato a un remoto GitHub.
