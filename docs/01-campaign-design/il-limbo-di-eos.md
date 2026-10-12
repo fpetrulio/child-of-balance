@@ -4,6 +4,8 @@ Arco narrativo documentato · Versione 0.1 · Trascritto il 9 ottobre 2026
 
 Fonte: ricostruzione della conversazione dedicata al Limbo di Eos, fornita dall'autore in ChatGPT il 9 ottobre 2026.
 
+> **Nota di stato (12 ottobre 2026)** — Le premesse in §1/§7 (trasformazione malvagia automatica come obiettivo autoriale) sono state superate dalla decisione più recente in **§13**: Eos non si trasforma automaticamente, resta orientato al Bene ma dubbioso. Inoltre **DEC-0021** (Campaign Bible) chiarisce che il Bene Assoluto qui descritto è una dottrina imposta da Eos stesso, non verità cosmica. Leggere §13 e DEC-0021 come stato attuale prima di usare il resto del documento.
+
 Nota di raccordo: le premesse marcate CONFERMATO furono stabilite dall'autore NELLA CONVERSAZIONE D'ORIGINE. La collocazione e l'inevitabilità dell'esito nel canone generale di Child of Balance devono ancora essere chiarite. Non ridurre quelle premesse a idee dell'assistente, ma non imporle ancora come climax irrevocabile dell'intera campagna.
 
 ## 0. Regole di provenienza e classificazione
@@ -177,7 +179,7 @@ Livello 7–9 era solo un suggerimento dell'assistente, non compatibile automati
 - **TENSIONE A** — La Campaign Bible generale stabilisce un nuovo Eos neonato nell'incipit, protetto dai PG, che dovrebbe crescere: l'arco del Bene assoluto richiede Eos già cosciente, con esperienza e grande potere. Questa è una possibile trama successiva, ma quando accada è DA DEFINIRE.
 - **TENSIONE B** — La campagna generale richiede che le scelte dei PG restino decisive, specialmente nel climax. Qui la caduta malvagia è l'esito desiderato dall'autore, ma imporla in modo automatico indipendentemente dai PG rischia di negare l'agency precedente. Possibile conciliazione da progettare, NON ancora scelta: caduta come conseguenza di specifiche scelte, o un arco intermedio che lasci ancora ai PG un climax proprio.
 - **TENSIONE C** — Nel mito, Lathander e Shar proteggono il loro figlio: il loro ruolo e reazione all'assolutismo e alla caduta di Eos non sono ancora trattati.
-- **TENSIONE D** — Il progetto distingue fra male e bene senza equipararli: la prova "per crescere bisogna agire male" non segue logicamente da questa premessa e rischia di minare il tema.
+- **TENSIONE D** — Il progetto distingue fra male e bene senza equipararli: la prova "per crescere bisogna agire male" non segue logicamente da questa premessa e rischia di minare il tema. **RISOLTO PARZIALMENTE (DEC-0021, 12/10/2026)** — Il Bene Assoluto è dottrina di Eos, non verità cosmica: "per crescere bisogna agire male" non è un'imposizione tematica generale, è una critica filosofica legittima alla dottrina *specifica* che Eos ha adottato, coerente con la critica già applicata alla Legge del Prezzo.
 - **TENSIONE E** — Se Eos può cancellare dall'esistenza chiunque, va spiegato perché i PG, i culti e gli dèi possano ancora avere potere d'azione contro di lui.
 - **TENSIONE F** — Se la parte oscura di Eos è la sola capace di liberare le anime, l'avventura rischia di diventare una scelta forzata fra ingiustizia e inevitabile corruzione; il grado di alternative e consapevolezza dei PG va discusso.
 

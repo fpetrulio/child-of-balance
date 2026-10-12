@@ -6,11 +6,13 @@ Versione 0.2 · Punto d'ingresso alla memoria del progetto · 9 ottobre 2026
 
 ## 1. Come usare questo archivio
 
-ChatGPT è il punto di controllo per la creazione narrativa, editoriale e tecnica di Child of Balance.
+**Claude Code (DEC-0022, 12/10/2026) è il punto di controllo per la creazione narrativa, editoriale e tecnica di Child of Balance. ChatGPT non è più usato per questo progetto.**
 
-L'autore gestisce decisioni, correzioni e priorità da ChatGPT; l'assistente consulta i documenti Drive, propone, registra le scelte approvate e prepara la successiva esportazione verso GitHub, LaTeX e Foundry.
+L'autore gestisce decisioni, correzioni e priorità in questa sede; l'assistente consulta i documenti in `docs/`, propone, registra le scelte approvate e prepara la successiva esportazione verso LaTeX e Foundry.
 
-Drive è memoria documentale persistente, non garanzia di recupero automatico dalle vecchie conversazioni: leggere questi documenti quando si riprende un'attività, non supporre di ricordare fatti che non compaiono in archivio.
+**NOTA DI PROCESSO (12/10/2026) — I decision gate della Narrative Roadmap vanno affrontati UNO ALLA VOLTA, in sequenza, anche quando tematicamente collegati (es. Gate A e B): preferenza esplicita dell'autore, che lavora su un solo tema narrativo delicato per volta.**
+
+Questo repository è memoria persistente ma non garantisce recupero automatico da vecchie conversazioni: leggere questi documenti quando si riprende un'attività, non supporre di ricordare fatti che non compaiono in archivio. **Il testo narrativo canonico vive solo qui: Google Drive resta solo archivio storico e deposito di asset grezzi pre-ottimizzazione (DEC-0022), non va più editato in parallelo.**
 
 Separare sempre CONFERMATO, IPOTESI, SCARTATO e DA DEFINIRE, con fonte e data. I dati segreti del DM non vanno pubblicati nei materiali destinati ai giocatori.
 
@@ -25,6 +27,8 @@ Testo di riferimento attuale NON ancora approvato definitivamente: "Il Canto del
 Non sono ancora definitivi: nomi/dettagli dei culti, meccaniche del potere, intervento limitato dei genitori, luogo e aggressori dell'incipit, struttura definitiva dei capitoli e finale.
 
 Le fasi della progressione di livelli sono SOLO ipotesi.
+
+**AGGIORNAMENTO 12 OTTOBRE 2026 — Dopo revisione completa del progetto: (1) Bene Assoluto riconosciuto come dottrina imposta da Eos, non verità cosmica, simmetrica alla Legge del Prezzo (DEC-0021) — risolve la tensione fra Bene deontologico e Bene preventivo; (2) binario "romanzo fantasy" rimandato fino al Gate F (DEC-0023); (3) prossimo passo di progettazione: Gate A (regole del potere di Eos), poi Gate B (limiti all'intervento divino — candidato: il Patto degli Avatar di Ao, lore reale verificata), uno alla volta.**
 
 ## 3. Documenti e link (Drive, sorgenti)
 
@@ -62,13 +66,14 @@ Output futuri: PDF per DM e handout, release ZIP / manifest del modulo Foundry c
 
 ## 6. Protocollo di aggiornamento
 
-A) Discussione, progettazione o scrittura da ChatGPT.
+A) Discussione, progettazione o scrittura in questa sede (Claude Code).
 B) Distinguere conferme dell'autore da proposte e idee scartate.
 C) Aggiornare la Campaign Bible prima o contemporaneamente ai documenti di dettaglio e annotare la fonte.
-D) Se c'è un dato narrativo già recuperato, preferire consultare Drive/questo archivio anziché riscriverlo a memoria.
-E) Contenuti approvati: GitHub come fonte versionata delle pubblicazioni, mentre Drive conserva bozze e originali.
-F) Evitare due versioni approvate divergenti tra Drive e GitHub.
+D) Se c'è un dato narrativo già recuperato, preferire consultare `docs/` anziché riscriverlo a memoria.
+E) GitHub (questo repository) è l'unica fonte versionata del canone narrativo; Drive conserva solo asset grezzi pre-ottimizzazione.
+F) Evitare due versioni approvate divergenti: non editare più testo narrativo su Drive/ChatGPT.
 G) Escludere gli spoiler DM dagli handout e documenti visibili ai giocatori.
+H) Un decision gate alla volta (vedi nota di processo in §1); fine sessione → eseguire `/wrapup` per aggiornare changelog e situazione corrente.
 
 ## 7. Prossimi problemi da risolvere
 
@@ -89,6 +94,8 @@ G) Escludere gli spoiler DM dagli handout e documenti visibili ai giocatori.
 - 2026-10-09 · Workshop "Potere di Eos" (modello misto) avviato, non canonico.
 - 2026-10-09 · Struttura a quattro capitoli / tre downtime proposta (bozza).
 - **2026-10-12 · Progetto sincronizzato da Google Drive a repository locale (questo archivio).**
+- **2026-10-12 · Repository pubblico GitHub creato e collegato: https://github.com/fpetrulio/child-of-balance.**
+- **2026-10-12 · Revisione completa del progetto: ChatGPT sostituito da Claude Code (DEC-0022), ruolo di Drive ridotto, versioni tecniche verificate, Bene Assoluto risolto come dottrina di Eos (DEC-0021), romanzo rimandato (DEC-0023), routine `/wrapup` e `CLAUDE.md` introdotte.**
 
 ## 9. Documenti in questo archivio locale
 

@@ -5,17 +5,17 @@ Versione iniziale 0.1 — 9 ottobre 2026
 ## 1. Ambiente target
 
 - Hosting primario: The Forge.
-- Foundry Virtual Tabletop: v14 Stable 7, build 365 — versione indicata dal GM.
-- Sistema Dungeons & Dragons Fifth Edition (dnd5e): 5.3.3 — confermato dal GM.
-- Plutonium: 2.18.1-v14 — versione indicata dal GM.
+- Foundry Virtual Tabletop: v14 Stable 7, build 365 — versione indicata dal GM. **Verificato 12/10/2026 via web: release reale, uscita il 15 luglio 2026.**
+- Sistema Dungeons & Dragons Fifth Edition (dnd5e): 5.3.3 — confermato dal GM. **Verificato 12/10/2026: release reale (patch di compendio e bug fix).**
+- Plutonium: 2.18.1-v14 — versione indicata dal GM. **Verificato 12/10/2026: release reale (uscita 2 settembre 2026), ma non è più l'ultima disponibile (attuale: 2.19.5.v14, minima Foundry 14, verificata su 14.368) e il repository è stato rinominato `TheGiddyLimit/plutonium-next`. Non aggiornare il pin ora — nessun modulo Foundry esiste ancora — ma riverificare versione e nome repo al Gate F/G prima di costruire il manifest di installazione.**
 - Regole di gioco della campagna: D&D 5e 2014.
 
 Qualsiasi upgrade deve essere verificato rispetto alle versioni di Foundry, del sistema e dei moduli installati.
 
 ## 2. Ruoli delle piattaforme
 
-- ChatGPT: interfaccia primaria per decisioni creative e progettuali.
-- Google Drive: memoria documentale, bozze, appunti, file originali e asset master.
+- **Claude Code (questa sessione e le successive in questo repository): interfaccia primaria per decisioni creative e tecniche dal 12 ottobre 2026 (DEC-0022). ChatGPT non è più usato per questo progetto.**
+- **Google Drive: archivio storico delle ricostruzioni e deposito di asset grezzi pre-ottimizzazione (immagini, audio) — non più luogo di editing del testo narrativo canonico, che vive esclusivamente in `docs/` su questo repository (principio §3: una sola versione approvata).**
 - GitHub: codice, Markdown canonico approvato, template/sorgenti LaTeX, script e release.
 - LaTeX: PDF del manuale GM, appendici e player handout.
 - Foundry su The Forge: modulo giocabile con journal, scene, asset e contenuti importabili.
@@ -48,7 +48,7 @@ Qualsiasi upgrade deve essere verificato rispetto alle versioni di Foundry, del 
 
 - Tenere distinti materiali Player e Game Master.
 - Non redistribuire automaticamente contenuti proprietari importati con Plutonium; usare fonti autorizzate e licenze applicabili.
-- Rivedere il diritto d'uso del template LaTeX prima della pubblicazione pubblica.
+- Rivedere il diritto d'uso del template LaTeX prima della pubblicazione pubblica. **Verificato 12/10/2026: licenza MIT (Evan Bergeron, 2017) — nessuna restrizione all'uso/modifica/redistribuzione. Punto chiuso.**
 - Confermare con il GM operazioni distruttive, pubblicazione e cambiamenti di ampia portata.
 
 ## 7. Stato implementazione
@@ -58,7 +58,9 @@ Qualsiasi upgrade deve essere verificato rispetto alle versioni di Foundry, del 
 - **LaTeX: motore del template `fpetrulio/DnD_Campaigns` (cartella "Ritorno a Bloodstone") copiato in `latex/manual/` — dndbook.cls, dnd.sty, lib/, bin/, Makefile. Nessun capitolo scritto: non esiste ancora materiale narrativo approvato da impaginare.**
 - **Foundry: nessuno scheletro di modulo creato finché non sono definite le regole minime (vedi Narrative Roadmap, Gate A/F). Il prototipo ZIP v0.1.1 menzionato in chat precedente non è recuperabile da Drive né da questo archivio.**
 - The Forge: test effettivo non ancora eseguito.
+- **Generazione asset visivi (mappe, token, ritratti): Claude non genera immagini nativamente. Catalogo Stripe Projects consultato il 12/10/2026 (nessun provisioning effettuato): candidati reali sono Cloudflare Workers AI (modelli AI su GPU serverless, tier gratuito) e OpenRouter (500+ modelli, generazione testo/immagine/video/audio, pricing a token); Cloudinary offre media/CDN con funzioni di generazione ma è pensato più per trasformazione che per arte originale. Nessuna scelta necessaria ora — `assets/` resta vuoto finché non si arriva al Gate F. Fallback sempre disponibile: prompt testuali dettagliati per generazione manuale esterna, o SVG scritto a mano per sigilli/icone/schemi semplici.**
 
 ## 8. Log di sincronizzazione locale
 
 - 2026-10-12 — Cartella Drive "Child of Balance" esplorata e sincronizzata in questo repository locale. Tutti i documenti di `01 — Campaign Design`, `00 — Project Management` e `02 — Sessions` convertiti in Markdown. Le cartelle `03 — Assets`, `04 — Publications` e `99 — Archive` erano vuote su Drive al momento della sincronizzazione — replicate come scheletro locale (`assets/`, `foundry/`, `archive/`) pronto a ricevere contenuto.
+- 2026-10-12 — Revisione completa del progetto su richiesta dell'autore: versioni tecniche verificate via web (Foundry 14.365, dnd5e 5.3.3, Plutonium reali; Plutonium non più l'ultima versione e repo rinominato), licenza LaTeX chiarita (MIT), interfaccia creativa migrata da ChatGPT a Claude Code (DEC-0022), ruolo di Drive ridotto ad archivio/asset grezzi, tensione sul Bene Assoluto risolta (DEC-0021), binario romanzo rimandato (DEC-0023). Dettagli in [Campaign Bible §12](../01-campaign-design/campaign-bible.md#12-registro-delle-decisioni) e nel [changelog](session-archive/2026-10-09-changelog-handoff.md).

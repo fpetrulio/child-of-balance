@@ -6,7 +6,7 @@ Repository locale sincronizzato da Google Drive il 12 ottobre 2026. Punto di ing
 
 ## Stato del progetto
 
-Fase di **pre-produzione narrativa**. Nessun capitolo è ancora approvato oltre l'incipit (nascita e fuga dal santuario druidico). Vedi [Narrative Roadmap](docs/00-project-management/narrative-roadmap.md) per i decision gate da chiudere prima di scrivere contenuto giocabile — in particolare il **Gate A** (regole del potere di Eos), prerequisito di tutto il resto.
+Fase di **pre-produzione narrativa**. Nessun capitolo è ancora approvato oltre l'incipit (nascita e fuga dal santuario druidico). Vedi [Narrative Roadmap](docs/00-project-management/narrative-roadmap.md) per i decision gate da chiudere prima di scrivere contenuto giocabile. Si procede **un gate alla volta**: **Gate A** (regole del potere di Eos) prima, poi **Gate B** (limiti all'intervento divino — candidato: il Patto degli Avatar di Ao).
 
 ## Struttura del repository
 
@@ -26,11 +26,11 @@ archive/                     Bozze superate e materiale di riferimento — vuoto
 
 | Piattaforma | Ruolo |
 |---|---|
-| ChatGPT | Decisioni creative e progettuali |
-| Google Drive | Memoria documentale, bozze, asset master |
+| **Claude Code** (questa sessione) | Decisioni creative e tecniche — sostituisce ChatGPT dal 12/10/2026 |
+| Google Drive | Solo archivio storico e asset grezzi pre-ottimizzazione |
 | **Questo repository** | Markdown canonico, sorgenti LaTeX, script, release |
 | LaTeX | PDF del manuale GM, appendici, handout giocatori |
-| Foundry VTT (The Forge) | Modulo giocabile — target v14.365, dnd5e 5.3.3, Plutonium 2.18.1-v14 |
+| Foundry VTT (The Forge) | Modulo giocabile — target v14.365, dnd5e 5.3.3, Plutonium (verificare versione al Gate F/G: repo rinominato `plutonium-next`) |
 
 Principio architetturale: una sola versione approvata per ogni contenuto. Il Markdown in `docs/` è la fonte; LaTeX e Foundry sono output derivati, non copie parallele da editare a mano.
 

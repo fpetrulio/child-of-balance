@@ -4,7 +4,9 @@ Versione 0.1 · 9 ottobre 2026 · Piano di lavoro dopo il recupero delle convers
 
 Stato: ROADMAP PROPOSTA. Ordine di lavoro suggerito dall'assistente, non trama canonica. Le scelte creative restano dell'autore.
 
-Interfaccia di lavoro: ChatGPT. Google Drive conserva memoria e revisioni; GitHub ospiterà in futuro i sorgenti approvati per LaTeX e Foundry.
+Interfaccia di lavoro: Claude Code (DEC-0022, 12/10/2026 — sostituisce ChatGPT). Google Drive conserva solo asset grezzi pre-ottimizzazione; GitHub (questo repository) ospita i sorgenti approvati per LaTeX e Foundry.
+
+**NOTA DI PROCESSO (12/10/2026)** — I gate vanno affrontati UNO ALLA VOLTA, in sequenza, anche quando tematicamente collegati (es. Gate A e B): preferenza esplicita dell'autore, che mantiene il focus su un solo tema narrativo delicato per volta. Non proporre di lavorare su due gate in parallelo nella stessa sessione.
 
 ## 0. Base documentale
 
@@ -43,6 +45,8 @@ Vincoli: nessun espediente che renda le divinità artificialmente stupide o impo
 
 **GATE DI USCITA:** l'attacco al santuario è motivato e plausibile senza ordini di Lathander o Shar.
 
+**CANDIDATO VERIFICATO (12/10/2026)** — Il Patto degli Avatar di Ao è lore reale dei Forgotten Realms, non da inventare: dopo il Tempo dei Tumulti, Ao ha costretto ogni divinità ad agire su Toril solo tramite avatar mortali, per impedire interventi diretti e preservare "l'Equilibrio" (the Balance) — mandato di Ao, non regola inventata per comodo. Spiegherebbe perché Lathander e Shar non possono intervenire direttamente senza rischiare la reazione di Ao, ed è tematicamente coerente col titolo della campagna. Da valutare quando si affronta questo gate, non ancora deciso.
+
 ## 3. Gate C — Piani antagonistici, non soltanto ideologie
 
 Per ciascuno dei due culti: risultato finale desiderato; come il potere di Eos lo rende possibile; tre obiettivi intermedi; mezzi, risorse, costo, limite, compromessi; prove rintracciabili; punti deboli; risultati apparentemente positivi o seducenti; piano B.
@@ -64,6 +68,8 @@ I nomi "Ordine dell'Alba Incorrotta" e "Velo dell'Ultima Quiete" restano provvis
 **OUTPUT:** diagramma degli stati di Eos, delle scelte dei PG e delle conseguenze.
 
 **GATE DI USCITA:** almeno due soluzioni giocabili a ogni snodo cruciale senza deresponsabilizzare i PG.
+
+**AGGIORNAMENTO 12/10/2026** — Deciso (DEC-0021): il Bene Assoluto è dottrina imposta da Eos, non verità cosmica, simmetrica alla Legge del Prezzo. Resta da fare: scegliere la premessa filosofica specifica che Eos adotta per il Bene (coerente con §13 di [Il Limbo di Eos](../01-campaign-design/il-limbo-di-eos.md): dubbio, non conversione automatica) — candidato naturale per quando si affronterà questo gate.
 
 ## 5. Gate E — Struttura della campagna
 

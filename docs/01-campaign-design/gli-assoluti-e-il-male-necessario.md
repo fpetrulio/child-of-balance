@@ -45,6 +45,8 @@ LORE / CAUTELA — Ilmater è associato nei Forgotten Realms a sopportazione, ma
 
 PROBLEMA — Queste concezioni non sono intercambiabili: un Eos che giudica in anticipo il futuro e cancella i futuri malvagi (come confermato nel progetto "Limbo di Eos") può essere strutturalmente diverso da un Eos che rifiuta sempre di sacrificare un innocente. L'unificazione richiede una teoria interna coerente, non una tacita identificazione.
 
+**AGGIORNAMENTO (DEC-0021, 12/10/2026)** — Non serve più unificare queste concezioni in un'unica teoria morale oggettiva: sono proposte che Eos stesso formula/adotta come propria dottrina, con lo stesso criterio di coerenza interna (non di giustizia morale garantita) già richiesto per la Legge del Prezzo (§§16-21). Quale premessa specifica Eos adotti resta DA DEFINIRE.
+
 POSSIBILITÀ NON DECISA — Male Assoluto come massimizzazione della sofferenza, corruzione sistematica, annientamento del bene, dominio illimitato o negazione di principi morali.
 
 ## 4. Prima direzione proposta: eliminare il dolore (contestata)
@@ -149,6 +151,8 @@ DISTINZIONE ESSENZIALE — Il giudizio preventivo è confermato nel ramo narrati
 TENSIONE PRINCIPALE — Quanto determinismo è accettabile nella "caduta in Male" prevista dall'arco del Limbo, dato il principio generale di agency dei PG? Non è stabilito se l'esito sia evitabile, una tappa intermedia o uno degli esiti possibili.
 
 TENSIONE MORALE — Un Bene Assoluto deontologico («non uccidere innocenti») e uno preventivo/consequenzialista («cancella i futuri malvagi») richiedono una giustificazione reciproca; non sono automaticamente lo stesso codice morale.
+
+**RISOLTO (DEC-0021, 12/10/2026)** — Non devono più essere riconciliati come la stessa verità cosmica: sono entrambi possibili espressioni di una dottrina imposta da Eos, soggetta a critica filosofica (Ilmater, §2) esattamente come la Legge del Prezzo lo è per il Male Assoluto. La domanda su quale premessa specifica Eos adotti resta aperta (vedi D-A01, D-A02).
 
 ## 13. Domande di design
 

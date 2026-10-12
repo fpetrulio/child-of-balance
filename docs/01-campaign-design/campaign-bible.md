@@ -144,6 +144,9 @@ PRECISAZIONE — Non è stata scartata la battaglia iniziale spettacolare; riman
 | DEC-0018 | CONFERMATO | Struttura desiderata di almeno quattro capitoli e tre downtime con effetti narrativi rilevanti. |
 | DEC-0019 | CONFERMATO COME DIREZIONE DI PROGETTO | Il primo downtime conduce alla crisi del Limbo (o controparte malvagia); Eos si allontana per comprendere la propria natura. Il secondo downtime valorizza reliquie e manifestazioni di Eos. |
 | DEC-0020 | CONFERMATO COME REQUISITO STILISTICO | Pochi combattimenti, molte decisioni e intrighi; uso prevalente di abilità, capacità di classe, magia creativa e pianificazione. Dungeon crawling non prioritario. |
+| DEC-0021 | 2026-10-12 CONFERMATO (narrativo/filosofico) | Il Bene Assoluto non è verità cosmica oggettiva né mandato di Lathander/Shar: è, come la Legge del Prezzo del Male Assoluto, una dottrina elaborata e imposta autonomamente da Eos attraverso un proprio ragionamento. Il giudizio preventivo e la segregazione nel Limbo sono applicazioni di questa dottrina tramite il potere di Eos, non proprietà intrinseche del potere in sé. La dottrina resta filosoficamente contestabile (Ilmater come controesempio) esattamente come la Legge del Prezzo. Risolve la TENSIONE MORALE in [Gli Assoluti e il Male Necessario §12](./gli-assoluti-e-il-male-necessario.md) e la TENSIONE D in [Il Limbo di Eos §10](./il-limbo-di-eos.md). |
+| DEC-0022 | 2026-10-12 CONFERMATO (editoriale) | Claude Code (questa sessione e le successive in questo repository) sostituisce ChatGPT come interfaccia primaria per decisioni creative e tecniche. ChatGPT non è più utilizzato per questo progetto. Google Drive resta solo come archivio storico delle ricostruzioni e deposito di asset grezzi pre-ottimizzazione, non più luogo di editing del testo narrativo canonico (supersede parzialmente DEC-0002). |
+| DEC-0023 | 2026-10-12 CONFERMATO (editoriale) | Il doppio binario "romanzo fantasy" (§1) è rimandato: nessun lavoro sul romanzo prima che la campagna raggiunga un vertical slice giocabile (Gate F della Narrative Roadmap). |
 
 Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le decisioni narrative sono antecedenti.
 
@@ -163,6 +166,14 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 ## 14. Principio operativo
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
+
+## 28. Risoluzione — il Bene Assoluto è dottrina di Eos (12 ottobre 2026)
+
+DEC-0021 chiude una tensione che attraversava §§15-16 e i documenti dedicati: il Bene Assoluto (giudizio preventivo, Limbo) e il Male Assoluto (Legge del Prezzo) sono ora strutturalmente simmetrici — entrambi dottrine che Eos stesso elabora e impone con il proprio potere, non leggi cosmiche oggettive né istruzioni di Lathander/Shar. Conseguenze pratiche:
+
+- Il "dubbio" che i PG innestano in Eos (§15, Il Limbo di Eos §13) è ora coerente: si dubita di una dottrina auto-imposta, non di una verità cosmica — prima era un salto logico più debole.
+- La critica di Ilmater (§16) non è più solo un contro-argomento tematico: è la prova che la dottrina di Eos può contenere un errore filosofico, esattamente come già stabilito per la Legge del Prezzo (§27).
+- Resta DA DEFINIRE la premessa filosofica specifica che Eos adotta per il Bene Assoluto (simmetrica alla domanda ancora aperta su quale errore commetta nella Legge del Prezzo, §27).
 
 ## 15. Ricostruzione 2 — Il Limbo di Eos / Arco del Bene Assoluto (9 ottobre 2026)
 

@@ -84,4 +84,22 @@ PROSSIMI PASSI: definire il dominio della legge e verificarlo su predazione, gua
 
 ## Aggiunta locale — 12 ottobre 2026
 
-CL-23 | SINCRONIZZAZIONE | L'intera cartella Drive "Child of Balance" è stata condivisa dall'autore e sincronizzata in un repository locale (`~/DnD/child-of-balance`), inizializzato come repository git separato da `fpetrulio/DnD_Campaigns`. Il motore LaTeX del template (dndbook.cls, dnd.sty, lib/, bin/) è stato copiato in `latex/manual/`. Nessun capitolo narrativo è stato impaginato: non esiste ancora testo approvato per un PDF. Nessuno scheletro Foundry è stato creato: le regole minime del potere di Eos (Gate A della Narrative Roadmap) non sono ancora definite, prerequisito dichiarato prima di qualsiasi meccanica giocabile. Il repository locale non è stato collegato a un remoto GitHub.
+CL-23 | SINCRONIZZAZIONE | L'intera cartella Drive "Child of Balance" è stata condivisa dall'autore e sincronizzata in un repository locale (`~/DnD/child-of-balance`), inizializzato come repository git separato da `fpetrulio/DnD_Campaigns`. Il motore LaTeX del template (dndbook.cls, dnd.sty, lib/, bin/) è stato copiato in `latex/manual/`. Nessun capitolo narrativo è stato impaginato: non esiste ancora testo approvato per un PDF. Nessuno scheletro Foundry è stato creato: le regole minime del potere di Eos (Gate A della Narrative Roadmap) non sono ancora definite, prerequisito dichiarato prima di qualsiasi meccanica giocabile. Il repository è stato successivamente collegato a un remoto GitHub pubblico (vedi CL-24).
+
+## Revisione completa del progetto — 12 ottobre 2026
+
+Richiesta dall'autore: revisione di spec tecniche, pipeline, plot, compatibilità lore/regole, parere sul da farsi, strumenti. Esito riassunto qui; dettagli nelle sezioni toccate di ogni documento.
+
+CL-24 | CONFERMATO (DEC-0022) | Repository GitHub pubblico creato e collegato: https://github.com/fpetrulio/child-of-balance (branch `main`). Interfaccia creativa/tecnica migrata da ChatGPT a Claude Code; Drive ridotto ad archivio storico + asset grezzi, non più editabile in parallelo per il testo narrativo.
+
+CL-25 | CONFERMATO (DEC-0021) | Bene Assoluto riconosciuto come dottrina imposta da Eos (non verità cosmica), simmetrica alla Legge del Prezzo del Male Assoluto. Risolve la TENSIONE MORALE in "Gli Assoluti e il Male Necessario" §12 e la TENSIONE D in "Il Limbo di Eos" §10. Razionale: evitare di dover conciliare due teorie etiche oggettive diverse: basta che Eos stesso sia un ragionatore fallibile su entrambi i fronti.
+
+CL-26 | CONFERMATO (DEC-0023) | Binario "romanzo fantasy" rimandato fino al Gate F (vertical slice giocabile). Razionale: mantenere due formati in lockstep ora raddoppia il lavoro editoriale senza beneficio immediato.
+
+CL-27 | VERIFICATO, NESSUNA AZIONE RICHIESTA | Versioni tecniche (Foundry 14.365, dnd5e 5.3.3, Plutonium 2.18.1) confermate reali via ricerca web; Plutonium non è più l'ultima versione disponibile e il repo è stato rinominato `plutonium-next` — da riverificare al Gate F/G. Licenza del template LaTeX verificata MIT, nessuna restrizione.
+
+CL-28 | RICERCA, NESSUN PROVISIONING EFFETTUATO | Catalogo Stripe Projects consultato per capacità di generazione immagini (Claude non genera immagini nativamente): candidati reali sono Cloudflare Workers AI (tier gratuito) e OpenRouter (pricing a token, più modelli). Nessuna azione finché `assets/` non serve concretamente (Gate F+).
+
+CL-29 | NOTA DI PROCESSO | L'autore lavora un decision gate alla volta, anche quando tematicamente collegati (es. Gate A/B): non proporre di affrontarli in parallelo nella stessa sessione.
+
+CL-30 | ROUTINE INTRODOTTE | `CLAUDE.md` (protocollo editoriale auto-caricato) e slash command `/wrapup` (automatizza il protocollo di fine sessione: changelog, situazione corrente, commit+push) aggiunti al repository.
