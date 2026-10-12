@@ -103,3 +103,13 @@ CL-28 | RICERCA, NESSUN PROVISIONING EFFETTUATO | Catalogo Stripe Projects consu
 CL-29 | NOTA DI PROCESSO | L'autore lavora un decision gate alla volta, anche quando tematicamente collegati (es. Gate A/B): non proporre di affrontarli in parallelo nella stessa sessione.
 
 CL-30 | ROUTINE INTRODOTTE | `CLAUDE.md` (protocollo editoriale auto-caricato) e slash command `/wrapup` (automatizza il protocollo di fine sessione: changelog, situazione corrente, commit+push) aggiunti al repository.
+
+## Cleanup e struttura — 12 ottobre 2026 (continua)
+
+CL-31 | CLEANUP | Rimosso dal motore LaTeX in `latex/manual/` il workflow multi-collaboratore del repository originale (bacheca Trello, branch-per-capitolo, review via Acrobat — presenti solo nel README di `fpetrulio/DnD_Campaigns`, non applicabile a un progetto solista) e il tooling di manutenzione del template stesso (`bin/bump-version`, `package.json`/`package-lock.json` con lint `eclint` orfano senza `.editorconfig`). Aggiunto un `.editorconfig` reale. Mantenuta e adattata la guida di installazione/avvio LaTeX (MiKTeX/TeXstudio) su richiesta esplicita dell'autore.
+
+CL-32 | STRUTTURA | Creato `main.tex` e lo scheletro completo dell'avventura in `latex/manual/`: Introduzione, Capitolo1-4, Interludio1-3 (downtime), AppendiceA (nuove creature), AppendiceB (oggetti magici/Impronte), AppendiceC (mappe/handout), AppendiceD (PNG/fazioni) — struttura standard di un'avventura D&D pubblicata, allineata ai 4 capitoli/3 downtime già decisi (DEC-0018/0019). Ogni file è solo uno scheletro (box editoriale con stato), nessun contenuto narrativo scritto. Non compilato localmente: nessuna distribuzione TeX installata sulla macchina di questa sessione.
+
+CL-33 | CONFERMATO (DEC-0024) | Taglio dell'avventura morale e investigativo, non puramente epico-militare; le varianti creative di de-escalation di uno scontro restano soggette a costo/rischio reale ("semplificare" ≠ "risolvere facilmente"). Richiesta esplicita dell'autore, non preservata altrove nell'archivio prima di oggi.
+
+CL-34 | CONFERMATO (DEC-0025) | L'avventura deve ancorarsi quanto più possibile alla Forgotten Realms reale (luoghi, fazioni, eventuali PNG storici) oltre al mito homebrew di Eos. Richiesta esplicita dell'autore, non preservata altrove nell'archivio prima di oggi.

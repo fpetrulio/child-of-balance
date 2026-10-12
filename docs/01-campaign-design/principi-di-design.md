@@ -1,12 +1,18 @@
 # Child of Balance — Principi di Design
 
-Direttive confermate dall'autore · 9 ottobre 2026
+Direttive confermate dall'autore · 9 ottobre 2026 (aggiornato 12 ottobre 2026)
+
+## 0. Tono e registro
+
+CONFERMATO (12/10/2026) — Il tema generale resta fantasy epico e mitologico (Campaign Bible §1), ma il TAGLIO dell'avventura deve essere morale e investigativo: ampio spazio al gioco fuori dal combattimento — indagine, dialogo, intrigo, dilemmi etici — non un'epica puramente militare/eroica. Questo è più specifico di DEC-0020 (pochi scontri, molte scelte/intrighi): ne definisce il *genere* oltre alla *frequenza* dei combattimenti.
 
 ## 1. Combattimenti
 
 Pochi ma importanti e proporzionati al livello del gruppo. Mostri e PNG devono essere potenti, distintivi e motivati, non soltanto statistiche da eliminare. Il livello di difficoltà può superare quello ordinario in assenza di una strategia valida.
 
 I giocatori devono poter ottenere vantaggi dall'indagine, preparazione, terreno, capacità di classe, attrezzatura, abilità e creatività. Evitare semplici sequenze di attacchi.
+
+CONFERMATO (12/10/2026) — Le varianti creative che permettono di evitare o semplificare uno scontro (negoziazione, inganno, sabotaggio, fuga, alleanze improvvisate, ecc.) devono comunque richiedere costo, rischio o abilità reali: **"semplificare" non significa "risolvere troppo facilmente"**. Una soluzione non-violenta valida è quella che richiede preparazione/informazione/skill check pari o superiore a quanto richiederebbe il combattimento evitato — non una scorciatoia gratuita. Nessuno scontro o trappola deve esistere senza motivo (vedi già §3-4): questo vincolo si applica anche alle *alternative* al combattimento, non solo al combattimento stesso.
 
 Altri scontri possono nascere dalle scelte dei PG. Una valutazione imprudente può comportare grave consumo di risorse, condizioni sfavorevoli, perdite di alleanze o posizioni e rischi di morte. Un buon piano fallito per pura sfortuna non deve essere trattato come imprudenza.
 
@@ -42,3 +48,7 @@ Per ciascuna location rispondere:
 ## 5. Stato editoriale
 
 Le preferenze progettuali nelle sezioni 1–3 sono vincoli espliciti dell'autore. La checklist in sezione 4 è una proposta operativa, da adattare alle singole scene.
+
+## 6. Ambientazione: Forgotten Realms
+
+CONFERMATO (12/10/2026, DEC-0025) — L'avventura deve ancorarsi quanto più possibile ai Forgotten Realms reali: luoghi esistenti (città, regioni, rovine note), fazioni canoniche (es. Harper, Zhentarim, Lords' Alliance, Emerald Enclave — l'Ordine dell'Alba Incorrotta e il Velo dell'Ultima Quiete restano le uniche fazioni homebrew core), ed eventuali camei di PNG storici o noti del setting, laddove non confliggano con il mito homebrew di Eos (Campaign Bible §2) o con la clandestinità dei due culti (Campaign Bible §6). A parità di esigenza narrativa, preferire sempre un elemento di lore reale a un'invenzione ex novo.

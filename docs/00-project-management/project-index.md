@@ -96,6 +96,7 @@ H) Un decision gate alla volta (vedi nota di processo in §1); fine sessione →
 - **2026-10-12 · Progetto sincronizzato da Google Drive a repository locale (questo archivio).**
 - **2026-10-12 · Repository pubblico GitHub creato e collegato: https://github.com/fpetrulio/child-of-balance.**
 - **2026-10-12 · Revisione completa del progetto: ChatGPT sostituito da Claude Code (DEC-0022), ruolo di Drive ridotto, versioni tecniche verificate, Bene Assoluto risolto come dottrina di Eos (DEC-0021), romanzo rimandato (DEC-0023), routine `/wrapup` e `CLAUDE.md` introdotte.**
+- **2026-10-12 · Cleanup del motore LaTeX (rimosso workflow multi-collaboratore e tooling di manutenzione del template) e creazione dello scheletro completo dell'avventura (`main.tex` + Introduzione + 4 capitoli + 3 interludi + 4 appendici), struttura standard di un'avventura D&D pubblicata. Aggiunte direttive di tono (morale/investigativo, DEC-0024) e di ambientazione (ancoraggio ai Forgotten Realms reali, DEC-0025).**
 
 ## 9. Documenti in questo archivio locale
 

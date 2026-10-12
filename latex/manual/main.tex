@@ -1,0 +1,43 @@
+\documentclass[letterpaper,twocolumn,openany]{dndbook}
+
+\usepackage[italian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\MakeShortVerb{|}
+
+\title{Child of Balance \\
+\large Una campagna per Dungeons \& Dragons 5e (2014) — Forgotten Realms}
+\author{Fernando Petrulio}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+\tableofcontents
+\mainmatter
+
+\include{Introduzione}
+
+\include{Capitolo1}
+\include{Interludio1}
+\include{Capitolo2}
+\include{Interludio2}
+\include{Capitolo3}
+\include{Interludio3}
+\include{Capitolo4}
+
+\appendix
+\include{AppendiceA}
+\include{AppendiceB}
+\include{AppendiceC}
+\include{AppendiceD}
+
+\end{document}

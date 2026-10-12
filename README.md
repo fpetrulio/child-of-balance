@@ -16,7 +16,7 @@ docs/                       Contenuto narrativo canonico — fonte di verità, i
 ├── 01-campaign-design/     Campaign Bible, Story Outline, Characters & Factions, archi narrativi, workshop
 └── 02-sessions/            Session Log (eventi realmente giocati, non pianificazione)
 
-latex/manual/                Motore del template LaTeX (da fpetrulio/DnD_Campaigns), pronto a ricevere capitoli
+latex/manual/                Motore LaTeX + scheletro completo dell'avventura (main.tex, capitoli, interludi, appendici) — vedi README dedicato
 foundry/child-of-balance/    Scheletro del modulo Foundry (da popolare dopo il Gate A/F della roadmap)
 assets/                      Mappe, token/creature, handout, audio, concept art — vuoto, da popolare
 archive/                     Bozze superate e materiale di riferimento — vuoto, da popolare
@@ -41,7 +41,7 @@ cd latex/manual
 make        # richiede una distribuzione TeX Live con i pacchetti elencati in packages.txt
 ```
 
-Nessun capitolo `.tex` esiste ancora: il motore (classe `dndbook.cls`, pacchetto `dnd.sty`) è pronto ma va scritto `main.tex` con i capitoli approvati una volta chiuso almeno il Gate F della roadmap (primo vertical slice giocabile).
+`latex/manual/` è già strutturata come un'avventura D&D standard: `main.tex` + Introduzione + 4 capitoli + 3 interludi (downtime) + 4 appendici (nuove creature, oggetti magici, mappe/handout, PNG/fazioni) — vedi [`latex/manual/README.md`](latex/manual/README.md) per i dettagli. Ogni file è per ora uno scheletro con un box editoriale che segnala a quale gate della roadmap è legato: nessun contenuto narrativo è stato scritto lì per primo, verrà adattato da `docs/` quando un capitolo sarà approvato.
 
 ## Convenzioni editoriali
 
