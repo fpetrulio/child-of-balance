@@ -157,6 +157,9 @@ PRECISAZIONE — Non è stata scartata la battaglia iniziale spettacolare; riman
 | DEC-0031 | 2026-10-12 CONFERMATO (Gate A) | Registro dell'Equilibrio: ogni uso significativo di una reliquia che squilibra qualcosa viene annotato; quando Eos raggiunge la Neutralità, ogni voce si salda contemporaneamente (inversione). Si applica uniformemente a tutte e 5 le reliquie. Meccanismo di costo primario del potere di Eos. Dettagli in [Potere di Eos §16.5](./potere-di-eos-workshop.md). |
 | DEC-0032 | 2026-10-12 CONFERMATO (tema) | La campagna insegna ai PG ad accettare conseguenze/equilibrio e la mortalità come capacità, non solo limite. I PG devono essere tentati all'uso smodato delle reliquie e pagarne le conseguenze. Dettagli in [Potere di Eos §16.6](./potere-di-eos-workshop.md) e [Principi di Design §7](./principi-di-design.md). |
 | DEC-0033 | 2026-10-12 CONFERMATO (Gate E, nota) | Il livello iniziale della campagna è 1 (chiude parzialmente Q-007). La fascia finale resta da decidere formalmente al Gate E; nota di lavoro: si propende per un range ampio (vicino a 1–20) per dare spazio alle 6 avventure di recupero delle reliquie senza affollare i 4 capitoli principali. Dettagli in [Potere di Eos §16.7](./potere-di-eos-workshop.md). |
+| DEC-0034 | 2026-10-12 CONFERMATO (Gate B) | Lathander e Shar non intervengono/comunicano direttamente con Eos per tre ragioni: (1) cosmologica — il Patto degli Avatar di Ao rischia di attirare l'attenzione del Supremo su un intervento prolungato; (2) scelta consapevole — guidarlo direttamente significherebbe decidere per lui, contro la sua vera natura (DEC-0027); (3) tattica — un canale diretto lascerebbe una traccia rilevabile dai culti. Restano solo segnali indiretti (sogni, presagi). |
+| DEC-0035 | 2026-10-12 CONFERMATO (Gate B) | I veri patroni dei due culti, nessuno dei quali agisce per conto di Lathander/Shar: l'Ordine dell'Alba Incorrotta è sostenuto da elementi rinnegati dei Sunmaster (clero di Amaunator, storicamente rivale di Lathander); il Velo dell'Ultima Quiete da cellule rinnegate degli Shadovar di Thultanthar (fedeli di Shar per cultura/stato, ma mossi da ambizione imperiale netherese, non dalla volontà di Shar). |
+| DEC-0036 | 2026-10-12 CONFERMATO (Gate B) | Scappatoie: i culti sanno che i genitori non intervengono apertamente (rinforza la plausibilità dell'assalto al santuario); un uso eccessivo/troppo visibile del potere di Eos rischia di attirare Ao, minaccia per tutti — deterrente aggiuntivo oltre al Registro dell'Equilibrio; il Canto Profetico circola proprio perché resta sotto la soglia d'attenzione di Ao; i PG possono ottenere un canale d'aiuto discreto se chiedono ai genitori senza invocazioni plateali. |
 
 Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le decisioni narrative sono antecedenti.
 
@@ -176,6 +179,14 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 ## 14. Principio operativo
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
+
+## 30. Risoluzione del Gate B — il Patto di Ao e i veri padroni dei culti (12 ottobre 2026)
+
+Sessione di design diretta con l'autore, dettagli completi in [`il-silenzio-degli-dei` — vedi `latex/manual/Introduzione.tex`, sezione "Il silenzio degli dèi"] e [`characters-and-factions.md` §4-5](./characters-and-factions.md). Sintesi:
+
+Il Patto degli Avatar di Ao (lore reale: dopo il Tempo dei Tumulti, ogni divinità deve agire su Toril solo tramite avatar) spiega perché Lathander e Shar non intervengono apertamente — ma la ragione più forte è specifica di questa campagna: Eos stesso, se lasciato cadere in un assoluto al massimo del suo potere, è una minaccia all'Equilibrio che potrebbe attirare Ao contro i genitori stessi, non solo contro i culti (DEC-0034).
+
+Nessuno dei due culti agisce per conto del genitore corrispondente (DEC-0035): l'Alba Incorrotta risponde a Sunmaster rinnegati (clero di Amaunator, storico rivale religioso di Lathander); il Velo dell'Ultima Quiete a Shadovar rinnegati di Thultanthar (fedeli di Shar per cultura, ma mossi da ambizione imperiale netherese). Entrambi sono zeloti sinceri (CL-11) che si illudono di servire la causa giusta, non mandatari delle divinità che invocano.
 
 ## 28. Risoluzione — il Bene Assoluto è dottrina di Eos (12 ottobre 2026)
 

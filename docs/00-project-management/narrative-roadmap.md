@@ -47,7 +47,9 @@ Vincoli: nessun espediente che renda le divinità artificialmente stupide o impo
 
 **GATE DI USCITA:** l'attacco al santuario è motivato e plausibile senza ordini di Lathander o Shar.
 
-**CANDIDATO VERIFICATO (12/10/2026)** — Il Patto degli Avatar di Ao è lore reale dei Forgotten Realms, non da inventare: dopo il Tempo dei Tumulti, Ao ha costretto ogni divinità ad agire su Toril solo tramite avatar mortali, per impedire interventi diretti e preservare "l'Equilibrio" (the Balance) — mandato di Ao, non regola inventata per comodo. Spiegherebbe perché Lathander e Shar non possono intervenire direttamente senza rischiare la reazione di Ao, ed è tematicamente coerente col titolo della campagna. Da valutare quando si affronta questo gate, non ancora deciso.
+**CANDIDATO VERIFICATO (12/10/2026)** — Il Patto degli Avatar di Ao è lore reale dei Forgotten Realms, non da inventare: dopo il Tempo dei Tumulti, Ao ha costretto ogni divinità ad agire su Toril solo tramite avatar mortali, per impedire interventi diretti e preservare "l'Equilibrio" (the Balance) — mandato di Ao, non regola inventata per comodo. Spiegherebbe perché Lathander e Shar non possono intervenire direttamente senza rischiare la reazione di Ao, ed è tematicamente coerente col titolo della campagna.
+
+**STATO (12/10/2026): RISOLTO.** Il Patto di Ao adottato come CONFERMATO (DEC-0034), con tre ragioni (cosmologica, scelta consapevole, tattica) per il silenzio dei genitori. Veri patroni dei due culti identificati (DEC-0035): Sunmaster rinnegati (Amaunator) per l'Alba Incorrotta, Shadovar rinnegati di Thultanthar per il Velo — nessuno dei due per conto del genitore corrispondente. Scappatoie registrate in DEC-0036. Contenuto scritto anche in `latex/manual/Introduzione.tex` ("Il silenzio degli dèi", "I due culti e i loro veri padroni"), materiale per il GM. Dettagli completi in [Campaign Bible §30](../01-campaign-design/campaign-bible.md). Prossimo gate: **Gate C** (piani concreti dei culti), in una sessione separata.
 
 ## 3. Gate C — Piani antagonistici, non soltanto ideologie
 

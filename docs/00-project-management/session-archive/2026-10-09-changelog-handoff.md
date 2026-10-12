@@ -141,3 +141,19 @@ CL-43 | CONFERMATO (DEC-0033) | Livello iniziale della campagna: 1 (chiude parzi
 Gate A della Narrative Roadmap RISOLTO IN GRAN PARTE. Prossimo passo secondo la roadmap: Gate B (protezione divina — limiti all'intervento di Lathander e Shar). Candidato già verificato e annotato: il Patto degli Avatar di Ao (lore reale dei Forgotten Realms). Da affrontare in una sessione dedicata, separata da questa, per preferenza esplicita dell'autore (un gate alla volta, anche se tematicamente collegati).
 
 Aperto per dopo (non bloccante): dettagli del Registro/Bilancia dell'Equilibrio (Gate D/finale); fascia di livelli esatta oltre al livello iniziale (Gate E); custodia definitiva delle reliquie e trama delle rispettive avventure di recupero (da scrivere quando si arriva al contenuto giocabile).
+
+## Gate B — risoluzione — 12 ottobre 2026 (sessione separata, come richiesto)
+
+Dettagli completi in [Campaign Bible §30](../../01-campaign-design/campaign-bible.md) e in `latex/manual/Introduzione.tex` ("Il silenzio degli dèi", "I due culti e i loro veri padroni").
+
+CL-44 | CONFERMATO (DEC-0034) | Il Patto degli Avatar di Ao spiega il non-intervento di Lathander e Shar, con tre ragioni: cosmologica (rischio di attirare Ao, dato che Eos stesso è una minaccia potenziale all'Equilibrio), scelta consapevole (guidarlo direttamente significherebbe decidere per lui, contro DEC-0027), tattica (un canale diretto sarebbe rilevabile dai culti).
+
+CL-45 | CONFERMATO (DEC-0035) | Domanda dell'autore: "a chi fanno capo i culti, se non a Lathander/Shar?" — Risolta: Alba Incorrotta ← Sunmaster rinnegati (clero di Amaunator, rivale storico di Lathander, lore reale verificata); Velo dell'Ultima Quiete ← Shadovar rinnegati di Thultanthar (fedeli di Shar per cultura/stato, ma mossi da ambizione imperiale netherese, lore reale verificata). Nessuno dei due agisce con sanzione del genitore corrispondente.
+
+CL-46 | CONFERMATO (DEC-0036) | Scappatoie: i culti contano sul non-intervento dei genitori per agire più apertamente; un uso troppo visibile del potere di Eos rischia di attirare Ao contro tutti; il Canto Profetico circola perché resta sotto la sua soglia d'attenzione; i PG possono ottenere aiuto discreto se non invocano apertamente.
+
+CL-47 | PROPAGAZIONE AL MANUALE GM | Su richiesta dell'autore, i contenuti dei Gate A e B (natura/destino di Eos, Patto di Ao, veri padroni dei culti) sono stati scritti anche in `latex/manual/Introduzione.tex`, sezione "Background dell'Avventura" — materiale per il Game Master, non solo documentazione interna di progetto. Criterio adottato: contenuto cosmologico/di contesto confermato va nel manuale non appena stabile, anche prima che i capitoli di trama siano scritti; contenuto di trama specifica resta nei documenti di design finché non si scrive il capitolo corrispondente.
+
+## Handoff — fine sessione Gate B, 12 ottobre 2026
+
+Gate B RISOLTO. Prossimo passo secondo la roadmap: Gate C (piani concreti dei due culti — obiettivi intermedi, mezzi, punti debole). Da affrontare in una sessione separata per preferenza dell'autore.

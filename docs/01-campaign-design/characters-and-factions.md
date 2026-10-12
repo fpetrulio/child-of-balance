@@ -40,10 +40,11 @@ NOTA — Il rapporto parentale è homebrew dei Forgotten Realms.
 - IPOTESI — Nome: Ordine dell'Alba Incorrotta.
 - IPOTESI — Massima: «La luce non può essere condivisa. Deve guidare.»
 - IPOTESI — Origini fra ex chierici di Lathander, studiosi solari e guerrieri; uso di arcano, reliquie solari e rituali indipendenti dal padre di Eos.
+- CONFERMATO (DEC-0035, 12/10/2026) — Sostenitori divini alternativi: elementi rinnegati dei Sunmaster, il clero severo e legalista di Amaunator (antico dio-sole di cui Lathander è considerato una reincarnazione più compassionevole; rivalità religiosa reale e documentata tra i due culti, mai del tutto sopita dopo il Secondo Rimescolamento). Non agiscono per conto di Amaunator in modo sanzionato: vogliono usare Eos per chiudere lo scisma e rendere il culto di Amaunator l'unica fede solare legittima.
 
 CRITICITÀ — Perché siano credibilmente mossi dal bene, mostrare altruismo autentico e risultati utili, pur in presenza di metodi coercitivi. Non confondere "bene assoluto" con "buono" garantito.
 
-DA DEFINIRE — Leader, base, ideologi, sostenitori divini alternativi, simboli, mezzi, cellule, infiltrazioni e costo umano dei loro successi.
+DA DEFINIRE — Leader, base, simboli, mezzi, cellule, infiltrazioni e costo umano dei loro successi.
 
 ## 5. Culto B: fazione malvagio-assolutista
 
@@ -53,10 +54,11 @@ DA DEFINIRE — Leader, base, ideologi, sostenitori divini alternativi, simboli,
 - IPOTESI — Massima: «La luce promette. L'ombra mantiene.»
 - IPOTESI — Origini fra ex fedeli di Shar, studiosi dello Shadowfell e sopravvissuti a tragedie.
 - IPOTESI — Obiettivo specifico: quiete definitiva che sopprime anche memoria, speranza e libertà; magie oscure, rituali e alleanze extraplanari senza dipendenza da Shar.
+- CONFERMATO (DEC-0035, 12/10/2026) — Sostenitori divini alternativi: cellule rinnegate degli Shadovar di Thultanthar (Netheril esiliata nel Piano d'Ombra/Shadowfell), fedeli di Shar per cultura e religione di stato, ma mossi qui da ambizione imperiale netherese (ricreare il dominio assoluto di Netheril) più che da volontà di Shar — che, come Lathander, vuole proteggere il figlio, non vederlo strumentalizzato.
 
 CRITICITÀ — Stabilire come Eos possa concretamente servire alla quiete e perché il culto non preferisca ucciderlo.
 
-DA DEFINIRE — Leader, base, sostegni divini alternativi, simboli, metodi, geografia e costi del piano.
+DA DEFINIRE — Leader, base, simboli, metodi, geografia e costi del piano.
 
 ## 6. Altri attori
 
