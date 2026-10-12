@@ -35,7 +35,45 @@ Se sei nuovo a LaTeX:
 
 In alternativa, da riga di comando: `make` in questa cartella (richiede `latexmk` e i pacchetti elencati in `packages.txt`).
 
-**Non ancora testato in questa sessione**: nessuna distribuzione TeX è installata sulla macchina usata per questa revisione, quindi lo scheletro sopra non è stato compilato localmente. La sintassi segue esattamente i pattern verificati in `main.tex`/`Introduzione.tex`/`AppendixA.tex` di "Ritorno a Bloodstone" — verificalo con una compilazione reale alla prima occasione.
+**Compilazione verificata il 12/10/2026** — `main.pdf` si genera correttamente (15 pagine). Setup usato su questa macchina (macOS Intel, nessun TeX preesistente, nessun accesso sudo disponibile):
+
+```sh
+# Installazione TeX Live minimale, tutta in home, senza sudo
+mkdir -p ~/texlive-setup && cd ~/texlive-setup
+curl -fsSL -o install-tl-unx.tar.gz https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
+tar -xzf install-tl-unx.tar.gz && cd install-tl-20*
+cat > ../texlive-local.profile << 'EOF'
+selected_scheme scheme-infraonly
+TEXDIR ~/texlive-local
+TEXMFCONFIG ~/.texlive-local/texmf-config
+TEXMFHOME ~/texmf
+TEXMFLOCAL ~/texlive-local/texmf-local
+TEXMFSYSCONFIG ~/texlive-local/texmf-config
+TEXMFSYSVAR ~/texlive-local/texmf-var
+TEXMFVAR ~/.texlive-local/texmf-var
+option_doc 0
+option_src 0
+EOF
+./install-tl --profile=../texlive-local.profile --no-interaction
+
+# Ad ogni sessione di shell:
+export PATH="$HOME/texlive-local/bin/universal-darwin:$PATH"   # darwin su Linux: bin/x86_64-linux
+
+# Installare i pacchetti di packages.txt UNO ALLA VOLTA (un batch con tutti insieme
+# annulla l'intera transazione se anche un solo pacchetto non risolve da un mirror):
+for p in dvips graphics graphics-def latex latex-bin latexmk xetex $(grep -v '^#' packages.txt | sed 's/#.*//' | grep -v '^[[:space:]]*$'); do
+  tlmgr install --repository https://texlive.info/CTAN/systems/texlive/tlnet "$p"
+done
+```
+
+Stranezze incontrate (`packages.txt` risale al 2019, alcuni nomi sono cambiati su CTAN):
+- `ifluatex`/`ifxetex` non esistono più come pacchetti separati → sono nel bundle **`iftex`**.
+- `etex` (nome nel messaggio d'errore) → il pacchetto vero è **`etex-pkg`** (già in `packages.txt`, ma se manca va installato per nome esatto).
+- `bookman`/`times`/altri font PostScript "standard" → vengono da **`psnfss`** (già in elenco), non da un pacchetto con lo stesso nome del font.
+- `sttools` (fornisce `stfloats.sty`) è risultato intermittente sul mirror `texlive.info` — se fallisce, riprovare o usare un mirror diverso (`mirror.ctan.org`, `ctan.math.illinois.edu`).
+- Il mirror generico `mirror.ctan.org` a volte risolve verso repliche con catalogo disallineato ("remote database... seems older") — se capita, puntare esplicitamente a `https://texlive.info/CTAN/systems/texlive/tlnet`.
+
+Avviso cosmetico non bloccante: `Package pgfkeys Error: I do not know the key '/tcb/\NoValue'` compare una volta per ogni box `DndComment` (incompatibilità minore tra `dndcomment.sty` del 2019 e la versione corrente di `tcolorbox`) — il PDF si genera comunque correttamente, non ancora investigato a fondo.
 
 ## Convenzioni per quando si scrive contenuto vero
 

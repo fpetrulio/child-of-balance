@@ -154,6 +154,12 @@ CL-46 | CONFERMATO (DEC-0036) | Scappatoie: i culti contano sul non-intervento d
 
 CL-47 | PROPAGAZIONE AL MANUALE GM | Su richiesta dell'autore, i contenuti dei Gate A e B (natura/destino di Eos, Patto di Ao, veri padroni dei culti) sono stati scritti anche in `latex/manual/Introduzione.tex`, sezione "Background dell'Avventura" — materiale per il Game Master, non solo documentazione interna di progetto. Criterio adottato: contenuto cosmologico/di contesto confermato va nel manuale non appena stabile, anche prima che i capitoli di trama siano scritti; contenuto di trama specifica resta nei documenti di design finché non si scrive il capitolo corrispondente.
 
+## Build e asset — 12 ottobre 2026 (continua)
+
+CL-48 | VERIFICATO | Prima compilazione reale di `main.pdf` riuscita (15 pagine). Setup TeX Live minimale installato in locale senza sudo (`~/texlive-local`, scheme-infraonly + pacchetti di `packages.txt`); istruzioni e stranezze incontrate (nomi pacchetto cambiati su CTAN dal 2019: `ifluatex`/`ifxetex`→`iftex`, `etex`→`etex-pkg`, font PostScript via `psnfss`) documentate in `latex/manual/README.md`. Avviso cosmetico non bloccante (`pgfkeys`/`\NoValue` nei box `DndComment`) non ancora investigato, non impedisce la generazione del PDF.
+
+CL-49 | CONFERMATO | Modello di generazione immagini di default: `gpt-image-2.5-sunburst` (il più dettagliato dei due disponibili al 12/10/2026); aggiornare al modello più recente quando ne esce uno nuovo. Chiave API salvata in `.env` locale (esclusa da git).
+
 ## Handoff — fine sessione Gate B, 12 ottobre 2026
 
 Gate B RISOLTO. Prossimo passo secondo la roadmap: Gate C (piani concreti dei due culti — obiettivi intermedi, mezzi, punti debole). Da affrontare in una sessione separata per preferenza dell'autore.
