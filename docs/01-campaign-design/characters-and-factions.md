@@ -44,7 +44,9 @@ NOTA — Il rapporto parentale è homebrew dei Forgotten Realms.
 
 CRITICITÀ — Perché siano credibilmente mossi dal bene, mostrare altruismo autentico e risultati utili, pur in presenza di metodi coercitivi. Non confondere "bene assoluto" con "buono" garantito.
 
-DA DEFINIRE — Leader, base, simboli, mezzi, cellule, infiltrazioni e costo umano dei loro successi.
+CONFERMATO (DEC-0041, Gate C, 12/10/2026) — Risultato finale in due fasi: finché Eos è bambino/ragazzo, l'Alba Incorrotta ruba frammenti di potere tramite il Cuore Bicolore (già in loro possesso) e le altre reliquie che riescono a recuperare, e cerca di influenzarne l'educazione verso il Bene Assoluto (coerente con DEC-0019: Eos cresce in base al comportamento dei custodi); quando Eos è adulto, chi ha avuto più successo nell'educarlo (o lo cattura direttamente) dirige quel potere su scala civile — qui, imporre un'unica fede solare rigida e ordinata su tutta la regione, chiudendo per sempre la "debolezza" del culto di Lathander.
+
+DA DEFINIRE — Leader, base, simboli, mezzi, cellule, infiltrazioni e costo umano dei loro successi; i tre obiettivi intermedi, mezzi/risorse/limiti e indizi rintracciabili richiesti dal [Gate C](../00-project-management/narrative-roadmap.md#3-gate-c--piani-antagonistici-non-soltanto-ideologie).
 
 ## 5. Culto B: fazione malvagio-assolutista
 
@@ -58,7 +60,9 @@ DA DEFINIRE — Leader, base, simboli, mezzi, cellule, infiltrazioni e costo uma
 
 CRITICITÀ — Stabilire come Eos possa concretamente servire alla quiete e perché il culto non preferisca ucciderlo.
 
-DA DEFINIRE — Leader, base, simboli, metodi, geografia e costi del piano.
+CONFERMATO (DEC-0041, Gate C, 12/10/2026) — Risultato finale in due fasi, speculare a quello dell'Alba Incorrotta: finché Eos è bambino/ragazzo, il Velo dell'Ultima Quiete ruba frammenti di potere tramite il Velo Strappato (già in loro possesso) e le altre reliquie che riescono a recuperare, e cerca di influenzarne l'educazione verso il Male Assoluto/la Legge del Prezzo (DEC-0019, DEC-0021); quando Eos è adulto, chi ha avuto più successo nell'educarlo (o lo cattura direttamente) dirige quel potere su scala civile — qui, ricostruire il dominio imperiale di Netheril, sopprimendo libero arbitrio, memoria e speranza su scala regionale.
+
+DA DEFINIRE — Leader, base, simboli, metodi, geografia e costi del piano; i tre obiettivi intermedi, mezzi/risorse/limiti e indizi rintracciabili richiesti dal [Gate C](../00-project-management/narrative-roadmap.md#3-gate-c--piani-antagonistici-non-soltanto-ideologie).
 
 ## 6. Altri attori
 
