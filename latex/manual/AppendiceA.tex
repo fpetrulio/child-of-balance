@@ -130,6 +130,48 @@ Nota di bilanciamento per il GM: questi avversari NON sono pensati per uno scont
   Attacco a Distanza: +3 per colpire, gittata 18 m, un bersaglio. \textit{Colpito:} 9 (2d8) danni radiosi.
 \end{DndMonster}
 
+\section{Il branco di Grulnak (Le Rovine di Aelothir)}
+
+Grulnak e i suoi orchi sono profughi, non invasori: hanno perso una disputa territoriale nel Moon Pass e si sono rifugiati nelle rovine di Aelothir. Non cercano scontri con estranei di passaggio -- uno scontro con Grulnak dovrebbe nascere da una negoziazione fallita o da un'aggressione dei PG, mai da un'imboscata gratuita (vedi \texttt{capitolo1-rovine-aelothir.md} \S Zona 6). Gli orchi comuni del branco usano lo statblocco standard del Manuale dei Mostri (via Plutonium); solo Grulnak ha bisogno di un vero statblocco.
+
+\begin{DndMonster}[float=!b,width=\columnwidth]{Grulnak, Capo del Branco}
+  \DndMonsterType{Orco di taglia media, caotico malvagio}
+
+  \DndMonsterBasics[
+      armor-class = {15 (cuoio borchiato, scudo)},
+      hit-points  = {\DndDice{10d8 + 20}},
+      speed       = {9 m},
+    ]
+
+  \DndMonsterAbilityScores[
+      str = 18, dex = 12, con = 16, int = 8, wis = 11, cha = 14,
+    ]
+
+  \DndMonsterDetails[
+      skills = {Intimidire +6, Percezione +2},
+      senses = {scurovisione 18 m, Percezione passiva 12},
+      languages = {Comune, Orchesco},
+      challenge = 2,
+    ]
+
+  \DndMonsterAction{Aggressivo}
+  Come azione bonus, Grulnak può muoversi fino alla sua velocità verso un nemico che può vedere.
+
+  \DndMonsterAction{Grido di Battaglia (azione bonus, 1/riposo breve)}
+  Ogni alleato orchesco entro 9 m da Grulnak ottiene vantaggio al prossimo tiro per colpire effettuato entro la fine del turno successivo.
+
+  \DndMonsterSection{Azioni}
+
+  \DndMonsterAction{Multiattacco}
+  Grulnak effettua due attacchi con l'ascia bipenne.
+
+  \DndMonsterAction{Ascia Bipenne}
+  Attacco con Arma da Mischia: +7 per colpire, portata 1,5 m, un bersaglio. \textit{Colpito:} 10 (1d12+4) danni taglienti.
+
+  \DndMonsterAction{Giavellotto}
+  Attacco con Arma da Mischia o a Distanza: +7 per colpire, portata 1,5 m o gittata 9/36 m, un bersaglio. \textit{Colpito:} 8 (1d6+4) danni perforanti.
+\end{DndMonster}
+
 \begin{DndMonster}[float=!b,width=\columnwidth]{Agente Ombra del Velo}
   \DndMonsterType{Umano di taglia media, neutrale malvagio}
 
