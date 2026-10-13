@@ -83,3 +83,31 @@ Quando una scena richiede una condizione meccanica fuori standard (es. combatter
 ### 8.5 Ricompense e tesori
 
 Tesori con parsimonia, mai al punto da compromettere la difficoltà pianificata dell'avventura (coerente con §1: l'equipaggiamento è un vantaggio da guadagnare con indagine e preparazione, non un moltiplicatore gratuito di potenza). Riferimento di calibrazione (non da tirare alla lettera): le tabelle Treasure Hoard per fascia di Grado di Sfida della DMG 2014 (probabilità crescente di oggetti magici via via più rari man mano che sale la fascia) e le tabelle di oggetti magici per rarità (comune→leggendario, Tabelle A-I della DMG), ampliate in Xanathar's Guide to Everything con oggetti comuni aggiuntivi e linee guida di prezzo/vendita per rarità. Usarle per decidere QUANTO e QUANTO SPESSO, non come generatore casuale da seguire alla lettera.
+
+### 8.6 Esplorazione basata su prove
+
+L'esplorazione non è narrazione gratuita: ogni scoperta rilevante passa da una prova di abilità pertinente al contesto — Percezione, Investigazione, Sopravvivenza, Rapidità di Mano, Furtività, le abilità sociali, e le conoscenze (Storia, Natura, Religione, Arcana e qualunque altra sia connessa al luogo) a seconda di cosa si sta cercando di scoprire o fare. Non narrare mai come automaticamente ottenuta un'informazione o un passaggio che invece dovrebbe passare da un tiro.
+
+### 8.7 Stile wiki anche per i luoghi interni alle avventure
+
+Ogni location nuova e significativa incontrata durante un'avventura (non solo organizzazioni/culti/PNG di sfondo, vedi `latex/manual/README.md` "Convenzioni") riceve lo stesso trattamento: un paragrafo d'apertura in stile wiki, e una o più tabelle delle conoscenze dei PG — non solo Storia, ma ogni abilità pertinente al luogo specifico (Natura per una grotta allagata, Arcana per una protezione antica, Religione per un santuario, ecc., anche più tabelle insieme se più conoscenze si applicano). DC calibrate secondo la scala già fissata in Appendice D ("Come calibrare le DC di conoscenza").
+
+### 8.8 Mostri motivati, non casuali
+
+Estende specificamente alle creature la checklist di progettazione di §4 (in particolare il punto B, "chi lo occupa adesso e quali attività svolge"): per ogni mostro o gruppo di mostri incontrato, rispondere sempre — Cosa fanno lì? Perché sono lì, in quel luogo specifico? Cosa vogliono? Come reagiscono (all'arrivo dei PG, a un combattimento che si mette male, a una proposta/negoziazione)? Nessuna presenza ingiustificata o puramente decorativa.
+
+### 8.9 Scoperte utili all'obiettivo in corso
+
+Ogni stanza o sezione esplorata dovrebbe offrire ai PG qualcosa di appreso che sia concretamente utile — non necessariamente alla missione principale della campagna, anche solo alla sezione/scopo immediato che stanno affrontando in quel momento (es. un indizio che semplifica la parte successiva dello stesso dungeon). Le scoperte devono avere un peso pratico sul gioco, non essere solo colore narrativo.
+
+### 8.10 Approcci multipli, quando ha senso
+
+Dove narrativamente plausibile, offrire più vie per risolvere lo stesso ostacolo, ciascuna legata ad abilità diverse — esempio: un fiume da attraversare può offrire un'opzione Acrobazia (saltando su rocce sporgenti), una Atletica (nuotando), e una creativa (tendere una corda con un tiro di precisione all'altra sponda). Non forzare comunque più opzioni dove non avrebbe senso narrativo: una porta blindata di un caveau resta una porta blindata, scassinabile o forzabile (o aggirabile con mezzi magici/creatività estemporanea dei giocatori), non un oggetto con tre soluzioni posticce inventate solo per varietà.
+
+### 8.11 Il fallimento come complicazione, non come blocco secco
+
+Un fallimento a una prova raramente dovrebbe significare "non succede nulla, riprova pure": preferire una complicazione concreta che cambia i termini del tentativo successivo — esempio: scassinare una serratura e fallire incastra il grimaldello, dopodiché si può ritentare con una CD più alta oppure con svantaggio (finché non si recupera l'attrezzo o se ne usa un altro). Vantaggio/svantaggio è lo strumento principale per modellare sia le semplificazioni (un aiuto concreto, una buona preparazione) sia le complicazioni da fallimento.
+
+### 8.12 CD commisurate al livello, anche come barriera narrativa
+
+Calibrare le CD sia sulla difficoltà intrinseca dell'azione sia sul livello del gruppo. Le CD servono anche come barriera deliberata contro le rivelazioni premature: un'informazione che spoilera elementi centrali della trama (es. la vera natura di Eos) non va mai resa raggiungibile con una CD bassa solo perché i giocatori la chiedono alla prima occasione — resta coerente con la scala già fissata in Appendice D (DC 28-30+ per i segreti quasi impossibili): una domanda che "spoilera tutto" non è un'eccezione a quella scala, ne è il caso d'uso principale.
