@@ -7,7 +7,6 @@
 *.fdb_latexmk
 *.fls
 missfont.log
-latex/manual/main.pdf
 node_modules/
 
 .projects/cache

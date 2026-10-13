@@ -1,0 +1,6 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+latex/manual/img/*.png filter=lfs diff=lfs merge=lfs -text
+latex/manual/img/*.jpg filter=lfs diff=lfs merge=lfs -text
+assets/concept-art/**/*.png filter=lfs diff=lfs merge=lfs -text
+assets/concept-art/*.png filter=lfs diff=lfs merge=lfs -text
+assets/concept-art/*.jpg filter=lfs diff=lfs merge=lfs -text
