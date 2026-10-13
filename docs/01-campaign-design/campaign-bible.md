@@ -180,6 +180,7 @@ PRECISAZIONE — Non è stata scartata la battaglia iniziale spettacolare; riman
 | DEC-0054 | 2026-10-13 CONFERMATO (Gate E) | Geografia canonica verificata via web: il santuario della nascita è nella High Forest (foresta antica reale, confina con Anauroch). Correzione di lore: Thultanthar NON è più esiliata nel Piano d'Ombra — è tornata sul Piano Materiale nel 1372 DR come "Città delle Ombre" sopra il deserto di Anauroch, confine orientale della stessa High Forest; le cellule rinnegate del Velo operano lì, contro la politica ufficiale della propria città, non nascoste in un altro piano (supersede la dicitura precedente in DEC-0035 e nel manuale). Precisazione sull'Alba Incorrotta: i Sunmaster sono ora un ramo ufficialmente riconciliato della chiesa di Lathander stessa ("Brotherhood of the Glorious Sun") — l'Alba è uno scisma dall'interno di quella chiesa, non da estranei; Elversult (Dragon Coast) come possibile terreno ideologico/di reclutamento. Dettagli in [Characters & Factions §3-5](./characters-and-factions.md). |
 | DEC-0055 | 2026-10-13 CONFERMATO (Gate E) | Cronologia canonica, verificata via web: il presente della campagna è il 1492 DR (standard 5e, dopo il Secondo Rimescolamento). Il primo Eos muore nel -339 DR (Anno delle Ragnatele Spezzate, caduta di Netheril/Follia di Karsus) — oltre 1800 anni prima, abbastanza antico da rendere la sua conoscenza quasi del tutto perduta, ma nello stesso istante storico in cui: il culto di Amaunator (ancora dominante, non rimpiazzato da Lathander) lo conosceva direttamente, dando all'Alba Incorrotta un know-how ancestrale genuino; gli Shadovar si ritirarono nel Piano d'Ombra portando con sé la stessa conoscenza, preservata nell'isolamento fino al ritorno del 1372 DR (DEC-0054), dando al Velo dell'Ultima Quiete il proprio know-how ancestrale. Il nuovo Eos cresce molto più in fretta di un umano: da neonato ad adolescente in non più di 3 anni — un segnale fisico vistoso della sua natura non del tutto umana, visibile ai PG ben prima di qualsiasi manifestazione magica. Comprime il Downtime I a circa 3 anni di tempo reale. Dettagli in [Characters & Factions §1](./characters-and-factions.md). |
 | DEC-0056 | 2026-10-13 CONFERMATO (Gate E) | Risolve la domanda aperta dal 9 ottobre in `architettura-campagna.md` §8 (che tipo di controllo ha il culto vincente su Eos al Capitolo IV): meccanismo asimmetrico legato al ramo preso ai Capitoli 1-2. La crisi del Limbo/Cripta del Debito pianta dubbio specificamente sull'Assoluto ORIGINALE di Eos (quello verso cui i PG/custodi lo hanno orientato) — uscendone, Eos è curioso del polo OPPOSTO, non ancora provato. In Downtime II, la fazione opposta al ramo originale ottiene quindi la prima occasione di aderenza VOLONTARIA per curiosità (modello C di §8); la fazione originale, avendo perso la presa ideologica, deve invece SOTTOMETTERLO con la forza, usando il proprio know-how ancestrale (DEC-0055) ed eventualmente le reliquie (modello A/B di §8). Se ramo Bene (Limbo): il Velo ha la prima occasione di curiosità, l'Alba deve sottomettere. Se ramo Male (Cripta del Debito): l'Alba ha la prima occasione di curiosità, il Velo deve sottomettere. Il modello di controllo finale (§8) è quindi un ibrido dipendente dal ramo, non fisso. Dettagli in [Campaign Bible §39](#39-gate-d--diagramma-degli-stati-di-eos-scelte-dei-pg-conseguenze-13-ottobre-2026) (diagramma aggiornato) e [Characters & Factions §4-5](./characters-and-factions.md) (Piani B precisati). |
+| DEC-0057 | 2026-10-13 CONFERMATO (Gate E) | Precisa la sequenza di DEC-0056 nel tempo, risolvendo l'incontro decisivo del Gate E: non due forme parallele, ma una sequenza. (1) Dopo il Limbo/Cripta, Eos aderisce volontariamente alla fazione opposta. (2) I PG affrontano quella fazione (snodo cardine del Capitolo 3), confutando la sua distorsione — vincendo, Eos non diventa stabile, ma entra in un periodo di INCERTEZZA che lo rende vulnerabile (ha appena perso un secondo sistema di credenze, senza ancora un ancoraggio proprio). (3) È proprio in quella finestra di vulnerabilità che la fazione ORIGINALE (quella respinta dopo il Limbo, che nel frattempo ha preparato la propria sottomissione forzata, Piano B) lo cattura con la forza, lo rende inerme e lo sfrutta come puro catalizzatore per i propri poteri — non le serve la sua volontà, solo il suo potere. (4) L'incontro decisivo del Capitolo IV è quindi sempre un'operazione di salvataggio/rottura rituale contro la fazione ORIGINALE, non un dialogo con Eos (è inerme, non partecipa attivamente). Una volta liberato, la sua stabilità morale resta intatta — non è stato convertito, solo prosciugato — coerente con "il culto ha ottenuto il potere senza aver vinto la sua volontà" (`architettura-campagna.md` §7-D). Diagramma del Gate D aggiornato per riflettere la sequenza. Dettagli in [Campaign Bible §39, §48](./campaign-bible.md). |
 
 Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le decisioni narrative sono antecedenti.
 
@@ -199,6 +200,14 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 ## 14. Principio operativo
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
+
+## 48. Gate E — l'incontro decisivo: la sequenza del Capitolo IV (13 ottobre 2026)
+
+Sessione di design diretta con l'autore, dettagli completi nel diagramma aggiornato in [Campaign Bible §39](#39-gate-d--diagramma-degli-stati-di-eos-scelte-dei-pg-conseguenze-13-ottobre-2026). Sintesi:
+
+Chiude il Gate E precisando nel tempo il meccanismo di DEC-0056: non due forme parallele e indipendenti, ma una vera sequenza drammatica in tre atti. Primo, dopo la crisi del Limbo o della Cripta del Debito, Eos aderisce volontariamente alla fazione opposta al ramo preso, per curiosità. Secondo, i PG affrontano quella fazione a uno snodo cardine del Capitolo 3, confutando la sua distorsione — ma vincere non stabilizza Eos: lo lascia in un periodo di incertezza, senza ancora un ancoraggio morale proprio, genuinamente vulnerabile. Terzo, è proprio in quella finestra che la fazione ORIGINALE — quella respinta dopo il Limbo, che nel frattempo ha preparato la propria sottomissione forzata (Piano B) — lo cattura con la forza, lo rende inerme e lo sfrutta come puro catalizzatore per i propri poteri, senza bisogno della sua volontà.
+
+L'incontro decisivo del Capitolo IV, richiesto dal Gate E, è quindi sempre di questo tipo: un'operazione di salvataggio e rottura rituale contro la fazione originale, non un confronto dialogico con Eos (che resta inerme, non partecipa attivamente alla scena). Una volta liberato, la sua stabilità morale resta intatta — non è stato convertito, solo prosciugato — risolvendo in modo pulito la vecchia tensione di `architettura-campagna.md` §7-D: "ottenuto il potere di Eos" non equivale a "controllo della sua volontà autonoma" (DEC-0057).
 
 ## 47. Gate E — chi controlla Eos al Capitolo IV, e come (13 ottobre 2026)
 
@@ -271,40 +280,41 @@ flowchart TD
     B -->|"PG/custodi orientano<br/>verso il Bene"| C1["Crisi del Limbo<br/>(ramo Bene Assoluto)"]
     B -->|"PG/custodi orientano<br/>verso il Male"| C2["Crisi della Cripta del Debito<br/>(ramo Male Assoluto)"]
 
-    C1 -->|"PG confutano l'Assoluto:<br/>male/sofferenza hanno un<br/>ruolo nell'ordine naturale"| D1["Dubbio piantato SUL BENE<br/>Eos si allontana, curioso<br/>del polo opposto (DEC-0056)"]
-    C1 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D1x["? aperto"]
+    C1 -->|"PG confutano l'Assoluto"| D1["Dubbio piantato SUL BENE<br/>Eos curioso del polo opposto"]
+    C1 -.->|"PG non confutano<br/>(DA DEFINIRE)"| D1x["? aperto"]
+    C2 -->|"PG confutano l'Assoluto"| D2["Dubbio piantato SUL MALE<br/>Eos curioso del polo opposto"]
+    C2 -.->|"PG non confutano<br/>(DA DEFINIRE)"| D2x["? aperto"]
 
-    C2 -->|"PG confutano l'Assoluto:<br/>la grazia immeritata ha un<br/>ruolo nell'ordine naturale"| D2["Dubbio piantato SUL MALE<br/>Eos si allontana, curioso<br/>del polo opposto (DEC-0056)"]
-    C2 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D2x["? aperto"]
+    D1 --> E1{"Downtime II<br/>i PG intercettano<br/>il Velo in tempo?"}
+    D2 --> E2{"Downtime II<br/>i PG intercettano<br/>l'Alba in tempo?"}
 
-    D1 --> E1["Downtime II (ramo Bene)<br/>Velo: prima occasione di<br/>aderenza VOLONTARIA (curiosità)<br/>Alba: persa la presa ideologica,<br/>punta alla sottomissione forzata"]
-    D2 --> E2["Downtime II (ramo Male)<br/>Alba: prima occasione di<br/>aderenza VOLONTARIA (curiosità)<br/>Velo: persa la presa ideologica,<br/>punta alla sottomissione forzata"]
+    E1 -->|"Sì"| F3["Spinta diretta<br/>verso la Neutralità"]
+    E1 -->|"No"| F1["Eos aderisce al Male Assoluto<br/>per curiosità (volontario, Velo)"]
+    E2 -->|"Sì"| F6["Spinta diretta<br/>verso la Neutralità"]
+    E2 -->|"No"| F4["Eos aderisce al Bene Assoluto<br/>per curiosità (volontario, Alba)"]
 
-    E1 -->|"Eos aderisce al Male<br/>Assoluto per curiosità"| F1["Volontario: Velo"]
-    E1 -->|"Alba sottomette Eos con<br/>know-how ancestrale + reliquie"| F2["Forzato: Alba"]
-    E1 -->|"PG intercettano prima<br/>di entrambi"| F3["Spinta verso<br/>la Neutralità"]
+    F1 -->|"Capitolo 3: snodo cardine --<br/>PG confutano la distorsione<br/>del Velo"| G1["Eos quasi neutro,<br/>ma INCERTO e vulnerabile<br/>(DEC-0057)"]
+    F4 -->|"Capitolo 3: snodo cardine --<br/>PG confutano la distorsione<br/>dell'Alba"| G2["Eos quasi neutro,<br/>ma INCERTO e vulnerabile<br/>(DEC-0057)"]
 
-    E2 -->|"Eos aderisce al Bene<br/>Assoluto per curiosità"| F4["Volontario: Alba"]
-    E2 -->|"Velo sottomette Eos con<br/>know-how ancestrale + reliquie"| F5["Forzato: Velo"]
-    E2 -->|"PG intercettano prima<br/>di entrambi"| F6["Spinta verso<br/>la Neutralità"]
+    G1 -->|"L'Alba (fazione originale,<br/>Piano B pronto) lo cattura:<br/>inerme, catalizzatore puro"| H1["Capitolo 4 -- Incontro decisivo:<br/>salvataggio/rottura rituale<br/>contro l'Alba"]
+    G2 -->|"Il Velo (fazione originale,<br/>Piano B pronto) lo cattura:<br/>inerme, catalizzatore puro"| H2["Capitolo 4 -- Incontro decisivo:<br/>salvataggio/rottura rituale<br/>contro il Velo"]
 
-    F1 --> G{"Climax<br/>(Capitoli 3-4)"}
-    F2 --> G
-    F3 --> G
-    F4 --> G
-    F5 --> G
-    F6 --> G
+    F3 --> I{"Capitolo 3-4"}
+    F6 --> I
+    H1 --> I
+    H2 --> I
 
-    G -->|"PG aiutano Eos a confutare<br/>l'assoluto residuo e a<br/>reintegrare le due metà"| H1["FINALE: vera Neutralità<br/>(il Registro dell'Equilibrio si salda)"]
-    G -->|"il culto (volontario o<br/>forzato) dirige Eos verso<br/>il proprio fine (vince il Gate C)"| H2["FINALE: Assoluto consolidato<br/>sotto il controllo del culto"]
+    I -->|"PG aiutano Eos a confutare<br/>l'assoluto residuo e a<br/>reintegrare le due metà"| J1["FINALE: vera Neutralità<br/>(il Registro dell'Equilibrio si salda)"]
+    I -->|"la fazione che lo detiene<br/>completa il proprio rituale"| J2["FINALE: Assoluto consolidato<br/>sotto il controllo del culto"]
 ```
 
 Note di lettura:
 
 - Il bivio in **B** è l'unica vera ramificazione (quale assoluto) — coerente con il vincolo d'autore in `architettura-campagna.md` §1 ("crisi del Limbo o equivalente negativo"): uno dei due rami si manifesta sempre entro la fine del Downtime I, nessun terzo ramo "nessuna crisi" è attualmente previsto.
-- **D1/D2 → E1/E2** codifica il meccanismo asimmetrico confermato dall'autore (DEC-0056): il dubbio piantato dalla crisi riguarda specificamente l'Assoluto ORIGINALE di Eos, rendendolo curioso del polo opposto — quindi è sempre la fazione OPPOSTA al ramo preso a ottenere la prima occasione di aderenza volontaria, mentre la fazione originale (persa la presa ideologica) deve ricorrere alla sottomissione forzata. Risolve la domanda rimasta aperta dal 9 ottobre in `architettura-campagna.md` §8.
-- **H1** ed **H2** non sono gli unici esiti testuali possibili (un epilogo potrebbe avere gradazioni), ma sono i due poli chiari richiesti dal Gate D: trovare la Neutralità, o restare bloccati in un Assoluto sotto controllo altrui (volontario o forzato).
-- Le transizioni marcate `?` (cosa succede se i PG non riescono a confutare l'Assoluto nel Limbo/nella Cripta) restano intenzionalmente aperte: potrebbero significare che il dubbio non si pianta affatto e Eos NON si allontana (resta un Assoluto sempre più radicato, dentro il gruppo), oppure che si allontana comunque ma più ostile alla possibilità di cambiare — nessuna delle due è stata scelta.
+- **E1/E2 → F1/F4** codifica il meccanismo asimmetrico (DEC-0056): il dubbio piantato dalla crisi riguarda specificamente l'Assoluto ORIGINALE di Eos, rendendolo curioso del polo opposto — è sempre la fazione OPPOSTA al ramo preso a ottenere la prima occasione di aderenza volontaria. Se i PG intercettano prima (**E1/E2 = Sì**), Eos evita del tutto questa seconda adesione e procede più diretto verso la Neutralità.
+- **F1/F4 → G1/G2 → H1/H2** è la sequenza confermata dall'autore (DEC-0057), non due forme parallele: i PG affrontano e sconfiggono la fazione a cui Eos ha volontariamente aderito (Capitolo 3), ma vincere non lo stabilizza — lo lascia incerto e vulnerabile, la finestra che la fazione ORIGINALE sfrutta per catturarlo con la forza e usarlo come catalizzatore inerme. L'incontro decisivo del Capitolo IV è quindi sempre un salvataggio/rottura rituale contro la fazione originale, non un dialogo con Eos.
+- **J1**/**J2** non sono gli unici esiti testuali possibili (un epilogo potrebbe avere gradazioni), ma sono i due poli richiesti dal Gate D: trovare la Neutralità, o restare bloccati in un Assoluto sotto controllo del culto.
+- Le transizioni marcate `?` (cosa succede se i PG non confutano l'Assoluto nel Limbo/nella Cripta) restano intenzionalmente aperte — non inventate, da decidere con la stesura del Capitolo 2.
 
 ## 38. Gate D — la via degli Assoluti: ramificazione, fase transitoria, finale possibile (13 ottobre 2026)
 

@@ -47,7 +47,7 @@ Un'Impronta è traccia eccezionale non creata tramite semplice prelievo ordinari
 
 Intrigo fra fazioni religiose e politiche, utilizzatori di reliquie e alleati ambigui. I PG devono decidere a chi consegnare prove, quale progetto sabotare, chi proteggere e quali costi accettare. Le conoscenze acquisite durante il downtime rendono possibili soluzioni non di forza. Il culto che avanza di più deve dipendere, per quanto praticabile, dalle azioni dei PG; evitare il sorpasso forzato e immotivato di un avversario.
 
-La rivelazione può essere che il culto prevalente sta costruendo un dispositivo/rituale/rete per appropriarsi del potere di Eos anche se lui è assente o riluttante — meccanismo da decidere.
+**[Rivisto 13/10/2026, DEC-0057]** Snodo cardine del capitolo: la fazione a cui Eos ha aderito volontariamente dopo la crisi del Limbo/Cripta del Debito (DEC-0056) viene affrontata e sconfitta qui, confutando la sua distorsione — non con la forza. Vincere non stabilizza Eos: lo lascia incerto e vulnerabile, l'apertura su cui si innesta il Capitolo IV.
 
 ### Downtime III — La Convergenza
 
@@ -55,9 +55,9 @@ La rivelazione può essere che il culto prevalente sta costruendo un dispositivo
 
 ### Capitolo IV — Spezzare il Giogo / Liberare Eos
 
-IPOTESI DI CLIMAX — Una delle fazioni, in base all'esito degli intrighi, ha ottenuto un controllo significativo su un canale che sfrutta il potere di Eos; ciò non deve equivalere automaticamente a possedere la sua volontà. I PG possono separare Eos dal dispositivo, distruggere o riconvertire una rete di ancore, privare il culto di risorse o ottenere la scelta autonoma di Eos.
+**RISOLTO (13/10/2026, DEC-0057)** — La fazione ORIGINALE (quella respinta dopo la crisi del Limbo/Cripta, sconfitta ideologicamente al Capitolo 3 non è lei: è l'altra) sfrutta proprio la finestra di incertezza di Eos per catturarlo con la forza (Piano B, know-how ancestrale + reliquie, DEC-0055/0056), renderlo inerme e usarlo come puro catalizzatore per i propri poteri. L'incontro decisivo è quindi sempre un'operazione di salvataggio/rottura rituale contro questa fazione, non un dialogo con Eos (inerme, non partecipa attivamente). Una volta liberato, la sua stabilità morale resta intatta — non convertito, solo prosciugato: questo risolve la domanda sotto (§7-D) in modo pulito, senza bisogno del modello misto.
 
-Vittoria non determinata solo dai punti ferita dell'antagonista: servono obiettivi, indizi preparatori, contromisure realistiche e possibili esiti costosi. La liberazione di Eos può richiedere pagare il prezzo degli accordi precedenti. Da decidere la condizione per cui il culto "ha ottenuto il potere" ma Eos non ha perso automaticamente la libertà morale.
+IPOTESI DI CLIMAX (9 ottobre 2026, letta oggi alla luce di DEC-0057) — I PG possono separare Eos dal dispositivo, distruggere o riconvertire una rete di ancore, privare il culto di risorse. Vittoria non determinata solo dai punti ferita dell'antagonista: servono obiettivi, indizi preparatori, contromisure realistiche e possibili esiti costosi. La liberazione di Eos può richiedere pagare il prezzo degli accordi precedenti.
 
 Il finale NON è ancora approvato; potrebbe richiedere una delle due fazioni prevalenti, oppure un esito differente se i PG le hanno entrambe neutralizzate.
 
@@ -113,7 +113,7 @@ I capitoli sono macro-archi, non quattro sessioni singole. Un numero piccolo di 
 - A — Il "primo downtime finisce al Limbo" è coerente come D1 di crescita seguito dal Capitolo II come crisi giocata; chiedere conferma se il Limbo stesso ricade nel confine temporale.
 - B — Eos adulto fugge: perché i PG non riescono o scelgono di non inseguirlo? Quale relazione emotiva li unisce o divide? Evitare l'inevitabilità di una cutscene.
 - C — La fase III può terminare con un culto vincitore senza railroad? Usare azioni antagoniste a condizioni e piani di riserva, riconoscere l'eventuale vittoria completa dei PG.
-- D — "Ottenuto il potere di Eos" deve essere distinto dal controllo della sua volontà autonoma, per preservare il modello misto se verrà approvato.
+- D — **RISOLTO (DEC-0057)**: "Ottenuto il potere di Eos" è distinto dal controllo della sua volontà autonoma per costruzione — la fazione finale lo usa come catalizzatore inerme, non come convertito. Vedi Capitolo IV sopra.
 - E — Le capacità di combattimento, guarigione, informazioni e movimento dei PG variano radicalmente per livelli e composizione; non scegliere le CD o CR ora.
 - F — La via Male Assoluto è meno sviluppata e non può diventare una semplice copia del Limbo con segni invertiti.
 - G — Tratti bene/male non implicano necessariamente luce/ombra o automaticamente la posizione dei genitori.
