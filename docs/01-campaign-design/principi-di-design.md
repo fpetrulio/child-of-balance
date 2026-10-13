@@ -119,3 +119,5 @@ CONFERMATO (13/10/2026) — Non tutte le creature dell'appendice meritano lo ste
 - **PNG rilevanti per la trama generale, e mostri unici** (varianti di mostri forti modificate per uno specifico evento, es. un capo nominato): testo stile wiki (background, carattere, come interpretarlo/ruolarlo, tattiche preferite) PIÙ un'illustrazione del personaggio, pensata anche per generare in seguito il token associato in Foundry.
 - **Mostri ricorrenti/generici** (es. zeloti di fanteria, agenti comuni): solo un'illustrazione, nessun testo wiki — sono interscambiabili per design, non serve biografia.
 - **PNG minori di mini-sottotrame**: trascurabili, nessun trattamento speciale richiesto.
+
+Formato dell'illustrazione (precisato 13/10/2026): nel PDF, l'illustrazione non è un ritratto statico in posa -- è una scena intera, il personaggio ripreso mentre fa qualcosa di caratterizzante (una delle sue tattiche preferite, un momento della sua storia), con un minimo di ambientazione/contesto visibile, come nelle illustrazioni dei manuali D&D pubblicati. Il token (ritaglio più stretto, pensato per Foundry) è un prodotto derivato separato, non il formato dell'illustrazione stessa.
