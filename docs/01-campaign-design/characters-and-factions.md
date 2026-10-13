@@ -31,7 +31,7 @@ NOTA — Il rapporto parentale è homebrew dei Forgotten Realms.
 - CONFERMATO — Un gruppo/circolo di druidi assiste alla nascita del nuovo Eos e aiuta i PG a fuggire quando l'insediamento viene attaccato.
 - CONFERMATO — Il destino di una parte degli altri presenti dopo l'assalto resta inizialmente incerto.
 - IPOTESI — Un druido sopravvissuto come mentore e testimone, possibile fonte di rivelazioni.
-- IPOTESI — "Santuario dei Grigi" come nome e High Forest come luogo.
+- CONFERMATO (DEC-0054, 13/10/2026) — Luogo: la High Forest (verificata via web — foresta antica reale, confina con Nether Mountains, High Moor, Evermoors e il deserto di Anauroch, storicamente sede di circoli druidici come i Druids of Tall Trees). "Santuario dei Grigi" resta il nome di lavoro, non ancora formalmente approvato come nome definitivo ma coerente col luogo ora confermato.
 - CONFERMATO (DEC-0053, 13/10/2026) — Motivazione della custodia: il primo Eos affidò loro il Canto del Seme Velato come mandato sacro prima di scegliere la morte (DEC-0007) — sono i custodi designati della profezia stessa, non solo testimoni casuali della nascita. Vedi [The Prophetic Song](./the-prophetic-song.md).
 - DA DEFINIRE — Membri, nomi, gerarchia, rituali, posizione, dinamica precisa dell'assalto.
 
@@ -43,6 +43,7 @@ NOTA — Il rapporto parentale è homebrew dei Forgotten Realms.
 - IPOTESI — Massima: «La luce non può essere condivisa. Deve guidare.»
 - IPOTESI — Origini fra ex chierici di Lathander, studiosi solari e guerrieri; uso di arcano, reliquie solari e rituali indipendenti dal padre di Eos.
 - CONFERMATO (DEC-0035, 12/10/2026) — Sostenitori divini alternativi: elementi rinnegati dei Sunmaster, il clero severo e legalista di Amaunator (antico dio-sole di cui Lathander è considerato una reincarnazione più compassionevole; rivalità religiosa reale e documentata tra i due culti, mai del tutto sopita dopo il Secondo Rimescolamento). Non agiscono per conto di Amaunator in modo sanzionato: vogliono usare Eos per chiudere lo scisma e rendere il culto di Amaunator l'unica fede solare legittima.
+- CONFERMATO (DEC-0054, 13/10/2026) — Precisazione verificata via web: nel canone più recente i Sunmaster sono ufficialmente un ramo riconciliato della stessa chiesa di Lathander (la "Brotherhood of the Glorious Sun"). L'Alba Incorrotta è quindi uno scisma dall'INTERNO di quella stessa chiesa — non estranei, ma dissidenti che rigettano la riconciliazione e vogliono un ritorno al rigido dogma di Amaunator. Elversult (Dragon Coast), storico centro spirituale del culto di Amaunator, può fungere da terreno ideologico/di reclutamento, pur restando l'Ordine una cellula clandestina senza sede pubblica.
 
 CRITICITÀ — Perché siano credibilmente mossi dal bene, mostrare altruismo autentico e risultati utili, pur in presenza di metodi coercitivi. Non confondere "bene assoluto" con "buono" garantito.
 
@@ -69,7 +70,8 @@ DA DEFINIRE — Leader, base, simboli e cellule specifiche (nomi, personalità, 
 - IPOTESI — Massima: «La luce promette. L'ombra mantiene.»
 - IPOTESI — Origini fra ex fedeli di Shar, studiosi dello Shadowfell e sopravvissuti a tragedie.
 - IPOTESI — Obiettivo specifico: quiete definitiva che sopprime anche memoria, speranza e libertà; magie oscure, rituali e alleanze extraplanari senza dipendenza da Shar.
-- CONFERMATO (DEC-0035, 12/10/2026) — Sostenitori divini alternativi: cellule rinnegate degli Shadovar di Thultanthar (Netheril esiliata nel Piano d'Ombra/Shadowfell), fedeli di Shar per cultura e religione di stato, ma mossi qui da ambizione imperiale netherese (ricreare il dominio assoluto di Netheril) più che da volontà di Shar — che, come Lathander, vuole proteggere il figlio, non vederlo strumentalizzato.
+- CONFERMATO (DEC-0035, 12/10/2026) — Sostenitori divini alternativi: cellule rinnegate degli Shadovar di Thultanthar, fedeli di Shar per cultura e religione di stato, ma mossi qui da ambizione imperiale netherese (ricreare il dominio assoluto di Netheril) più che da volontà di Shar — che, come Lathander, vuole proteggere il figlio, non vederlo strumentalizzato.
+- CORREZIONE DI LORE (DEC-0054, 13/10/2026) — Verificato via web: Thultanthar NON è più esiliata nel Piano d'Ombra. È tornata sul Piano Materiale nel 1372 DR e fluttua come "Città delle Ombre" sopra il deserto di Anauroch — confine orientale della stessa High Forest dove nasce Eos (§3), a un passo in volo dal santuario. Le cellule rinnegate del Velo operano dentro/intorno alla Città delle Ombre, contro la politica ufficiale della propria città (che ha relazioni più aperte con la superficie), non nascoste in un piano diverso. Supersede la dicitura "esiliati nel Piano d'Ombra/Shadowfell" in DEC-0035 e in `latex/manual/Introduzione.tex`.
 
 CRITICITÀ — Stabilire come Eos possa concretamente servire alla quiete e perché il culto non preferisca ucciderlo.
 
