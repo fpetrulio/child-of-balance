@@ -118,10 +118,85 @@ Il cuore di Aelothir: una sala ipogea sorretta da colonne a forma di radice, con
 
 **Scoperta pratica utile alla sezione in corso** (§8.9): un'iscrizione in questa sala, leggibile con Investigazione CD 11 senza bisogno di conoscenze linguistiche elfiche (è accompagnata da una mappa incisa, non solo testo), mostra la disposizione delle gallerie sottostanti — i PG ottengono un vantaggio concreto per la Parte 2: possono scegliere se procedere per la via più diretta (più rischiosa, più vicina a dove si trova la corruzione residua) o per una più lunga ma più sicura, una vera scelta con conseguenze, non solo colore.
 
-## 4. Parte 2 — più in profondità
+## 4. Parte 2 — più in profondità (~4 sessioni, checkpoint Livello 3)
 
-DA SCRIVERE (prossima sezione): Zone 5-9 (Sottocripta Allagato, il Capo Orco, la Soglia della Corruzione, il Lascito del Capitano, l'Uscita/imboscata finale), ~4 sessioni, checkpoint Livello 3. Segue la stessa metodologia applicata sopra — wiki + tabelle di conoscenza per ogni nuovo luogo, mostri motivati, approcci multipli, CD come barriera narrativa.
+Dalla Sala della Guarnigione (Zona 4), la mappa incisa trovata lì (§3, Zona 4) mostra due vie: una diretta ma più vicina alla fonte della corruzione residua (Zone 5→7→9), una più lunga che la aggira quasi del tutto (Zone 5→6→9, saltando la Zona 7 — ma anche l'informazione che vi si trova, vedi sotto). Una scelta reale, non cosmetica, coerente con `principi-di-design.md` §8.10.
+
+### Zona 5 — Il Sottocripta Allagato (mini-dungeon)
+
+Le gallerie più basse di Aelothir si allagarono secoli fa, quando una falda cedette dopo il crollo del 882 DR. L'acqua ferma ha portato con sé qualcos'altro: filamenti di un fungo pallido e luminescente che cresce lungo ogni superficie sommersa — l'eco più alta che Araumycos, l'immenso tappeto fungino che si stende nel Northdark sotto l'intera High Forest, riesce a spingere così vicino alla superficie. Non è Araumycos stesso (troppo in profondità, troppo pericoloso per questo livello), solo una sua propaggine sottile — ma è comunque viva, e reagisce alla presenza di estranei.
+
+**Prova di Natura rivela**
+
+| DC | Informazione |
+|----|----|
+| 10 | Il fungo luminescente non è velenoso al tatto, ma le sue spore, se disturbate, causano tosse e irritazione. |
+| 15 | Questo tipo di fungo cresce solo in presenza di una rete micotica molto più estesa nelle vicinanze — qualcosa di molto più grande si trova non lontano, sotto questo stesso livello. |
+| 22* | Il fungo reagisce al calore e al movimento brusco rilasciando spore in massa — muoversi con cautela (passo ridotto) riduce drasticamente il rischio. |
+
+Quattro sottozone, da attraversare nell'ordine che i PG scelgono (eccetto 5d, che è sempre l'ultima):
+
+**Zona 5a — Il Vestibolo Sommerso.** L'acqua stagnante arriva alla vita. **Lettura**: *"L'acqua ferma riflette una luce verde-blu che non viene da nessuna torcia: filamenti di fungo luminescente rivestono colonne e soffitto, pulsando debolmente come se respirassero."* Attraversarlo in silenzio richiede una prova di Furtività CD 11 a testa (il fungo reagisce al movimento, non serve essere visti); chi fallisce smuove una nuvola di spore — CD 13 Tempra o un livello di Indebolito (vedi condizioni standard 5e, nessuna regola nuova) fino al termine del riposo breve successivo.
+
+**Zona 5b — L'Archivio Sommerso.** Una sala laterale con scaffalature di pietra, in gran parte crollate, che un tempo contenevano rotoli e tavolette. Quasi tutto è andato perduto all'acqua, ma una prova di Investigazione CD 14 recupera una tavoletta d'avorio sigillata con cera magica, ancora leggibile: un rapporto di guarnigione datato poco prima della caduta, che nomina esplicitamente "il varco inferiore" e un ufficiale, il Capitano Ethandrel Nightsong — prima menzione diretta del nome che tornerà in Zona 8. **Scoperta pratica** (§8.9): la tavoletta indica anche dove si trova "il varco inferiore" sulla mappa — chi la legge ottiene vantaggio alla prova di Sopravvivenza per orientarsi in Zona 7, se e quando vi arrivano.
+
+**Zona 5c — Lo Sciame di Spore.** Non un combattimento con un mostro vero e proprio: una colonia di funghi particolarmente densa reagisce in massa se disturbata, riempiendo un tratto di corridoio di spore accecanti. **Approcci multipli**: forzare il passaggio trattenendo il respiro (prova di Costituzione CD 12, danno minimo se fallita — tosse e Svantaggio alla prossima prova per un turno, non altro); individuare un percorso alternativo più lungo lungo il soffitto, fuori dalla portata delle spore (Acrobazia CD 14, richiede di lasciare temporaneamente Eos con un alleato che resta a terra — buona occasione per far scattare "Eos piange" se il gruppo è già sotto pressione); o usare fuoco/luce intensa per bruciare localmente i filamenti e aprirsi un varco sicuro (nessuna prova, ma consuma una risorsa concreta — una torcia, una fiala d'olio, un trucchetto a consumo limitato).
+
+**Zona 5d — Il Punto di Risalita.** Dove il sottocripta risale verso le gallerie superiori. **Lettura**: *"L'acqua si fa più bassa, poi scompare del tutto. Una rampa di pietra consumata sale verso il buio, e per la prima volta da quando sono scesi, l'aria torna secca."* Nessun ostacolo qui — un respiro narrativo dopo tre sottozone di tensione, prima di Zona 6 o 7.
+
+### Zona 6 — Il Capo Orco
+
+Oltre il sottocripta, le gallerie tornano asciutte e si allargano in quello che fu un refettorio cerimoniale, oggi il cuore del campo del branco di Grulnak.
+
+**Chi è, cosa vuole, come reagisce** (`principi-di-design.md` §8.8): Grulnak non è un mostro da abbattere per principio — è un capo che ha già perso una guerra e non ne vuole un'altra. Sa (per voce dei suoi esploratori, non per esperienza diretta — nessun orco è mai tornato da "il varco inferiore") che qualcosa di innaturale si agita più a fondo, e ha proibito al branco di avvicinarvisi. Se i PG arrivano senza aver già affrontato le sentinelle di Zona 3 in modo ostile, Grulnak è disposto a trattare: lascia passare chi promette di non restare e di non guidare altri fino a loro, soprattutto se i PG condividono di essere in fuga da inseguitori — un nemico comune, anche non dichiarato come alleanza, pesa più di un confronto.
+
+**Approcci multipli**:
+- **Negoziazione (Persuasione o Intimidire, CD 16, inasprita rispetto alla Zona 3 perché Grulnak è più cauto e ha più da perdere)**: lascia passare i PG e, se trattato con rispetto, condivide liberamente quel che sa della Zona 7 ("il varco inferiore" — vedi sotto, scoperta pratica).
+- **Scontro**: Grulnak (statblocco DA SCRIVERE in Appendice A — un orco "elite", GS 2 circa, con più PF e un attacco secondario rispetto a un orco normale) più 3-4 orchi normali. Scontro prestabilito difficile per il livello, semplificabile sfruttando il terreno (il refettorio ha colonne e un focolare centrale) o isolando Grulnak dal resto del branco prima che si radunino.
+- **Sfruttare la paura condivisa**: se i PG hanno già appreso (Zona 5b, Zona 1) qualcosa sulla vera natura del pericolo sottostante, possono usarlo per impressionare o mettere in soggezione Grulnak senza bisogno di minacciare lui direttamente — una terza via fra negoziazione pura e intimidazione pura.
+
+**Scoperta pratica utile alla sezione successiva** (§8.9): se i PG ottengono la collaborazione di Grulnak (con qualunque approccio), questi li avverte esplicitamente di non toccare "le pietre che cantano" nel varco inferiore — un indizio diretto e concreto su come affrontare la Zona 7 (vedi sotto), non solo colore.
+
+### Zona 7 — La Soglia della Corruzione
+
+Qui la guarnigione di Aelothir morì davvero, nell'882 DR, tenendo questo singolo corridoio abbastanza a lungo da salvare chi fuggiva. Seicento anni dopo, qualcosa di quella notte non se n'è mai andato del tutto.
+
+**Lettura**
+
+> *Il corridoio termina in un arco basso, incrinato, oltre il quale la pietra stessa sembra sbagliata — venature nere corrono sotto la superficie come vasi sanguigni spenti. L'aria è immobile e fredda in un modo che non ha a che fare con la temperatura. Da qualche parte oltre l'arco, qualcosa respira.*
+
+**Prova di Religione o Arcana (CD 20, coerente con la scala già stabilita in §1) rivela**: le venature nere sono un residuo di corruzione demoniaca, non una creatura attiva di per sé — ma qualcosa di più piccolo e più astuto si nasconde oltre l'arco, intrappolato dagli stessi sigilli che proteggono Aelothir dall'esterno (§1, Arcana DC 26*).
+
+**L'incontro — non uno scontro automatico**: oltre l'arco, un **quasit** (statblocco standard, Manuale dei Mostri via Plutonium) è rimasto intrappolato qui dall'882 DR, troppo debole per rompere i sigilli da solo ma troppo paziente per smettere di provare. Non attacca subito: parla, in Infernale e in un Comune arcaico e forbito, offrendo scambi — conoscenza autentica (sa cose vere su Aelothir, sulla caduta di Eaerlann, persino un frammento distorto e parziale sulla natura di Eos, se i PG sono abbastanza incauti da nominarlo ad alta voce — **CD 10 per sapere "chi è Eos" NON esiste a questo punto della campagna: qualunque informazione il quasit offra su di lui è deliberatamente vaga, sbagliata in parte, o un bluff totale, mai una rivelazione vera** coerente con `principi-di-design.md` §8.12) in cambio di un favore apparentemente innocuo — portare con sé, anche solo per un tratto di strada, un piccolo oggetto che il quasit dice essere "solo un ricordo". Non lo è: è un frammento della stessa corruzione, e se un PG accetta, il Registro dell'Equilibrio (vedi `potere-di-eos-workshop.md` §16.5) ne prende nota per la prima volta nella campagna — una tentazione reale, coerente con `principi-di-design.md` §7, non un trabocchetto puramente meccanico.
+
+**Approcci multipli**: ignorare il quasit e proseguire (nessuna prova necessaria, il quasit non può lasciare i sigilli); combatterlo (GS 1, gestibile ma non banale, soprattutto se usa Invisibilità per colpire e ritirarsi); negoziare senza accettare l'oggetto (Intuizione CD 15 per riconoscere l'inganno, concede comunque un frammento di informazione vera in cambio di una domanda onesta, senza contropartita avvelenata); oppure — se i PG hanno appreso da Grulnak di "non toccare le pietre che cantano" — riconoscere e rinsaldare deliberatamente il sigillo che lo intrappola (Arcana CD 17), chiudendolo qui per sempre senza alcuno scambio.
+
+### Zona 8 — Il Lascito del Capitano
+
+Una piccola cella laterale, risparmiata dal crollo e dall'acqua, dove il Capitano Ethandrel Nightsong (nominato in Zona 5b, se trovato) si ritirò per gli ultimi momenti.
+
+**Lettura**
+
+> *Uno scheletro elfico in armatura consumata siede ancora contro la parete, una spada posata di traverso sulle ginocchia come se l'avesse appena riposta. Non c'è violenza nella posa — solo stanchezza.*
+
+**Tesoro, con parsimonia** (`principi-di-design.md` §8.5, scala DMG CR0-4): la spada di Ethandrel (un'arma +1 di fattura elfica, nessun potere aggiuntivo — oggetto comune, non uno snodo di trama) e una manciata di oggetti personali (gemme e monete per un valore complessivo coerente con la Treasure Hoard CR0-4 della DMG, nessun oggetto raro o superiore). Una prova di Storia o Religione CD 12 permette di riconoscere i simboli sull'armatura come appartenenti a un ufficiale di alto rango di Eaerlann, non a un semplice soldato — chiusura narrativa del personaggio accennato in Zona 5b, non obbligatoria per proseguire.
+
+### Zona 9 — L'Uscita (checkpoint — Livello 3, scontro clou del capitolo)
+
+Le gallerie risalgono e si aprono su un fianco di collina coperto di felci, non lontano dal rifugio di destinazione del Downtime I. I PG sono quasi arrivati.
+
+**Lettura**
+
+> *La luce dell'alba filtra attraverso le felci, la prima luce vera da quando sono scesi sottoterra. In fondo al pendio, oltre gli alberi, qualcosa che assomiglia a un insediamento si intravede nella nebbia mattutina — e sul sentiero, a poca distanza, tre figure in attesa si voltano verso di loro.*
+
+**Chi li aspetta e perché (coerente con DEC-0044)**: Thessaly Dawnbreaker, sopravvissuta all'assalto del Santuario, ha seguito tracce fisiche — non magia, bloccata dai sigilli di Aelothir che i PG non sapevano nemmeno di attraversare — risalendo dal luogo della strage fino a questo versante della collina, con due Zeloti dell'Alba al seguito (statblocchi già in Appendice A). Non è un contatto riuscito con Eos (coerente con DEC-0044: i culti restano senza successo fino al Limbo) — è un altro tentativo fallito, stavolta quasi riuscito, con mezzi non magici invece che magici.
+
+**Lo scontro**: Thessaly (GS 3) + 2 Zeloti dell'Alba (GS 1/2 ciascuno) contro un gruppo di Livello 3 è uno scontro severo di proposito — il clou del capitolo, coerente con `principi-di-design.md` §8.3 ("scontri prestabiliti pochi ma difficili"). Semplificabile: il pendio coperto di felci offre copertura; i PG arrivano da una direzione che Thessaly non si aspetta (dal sottosuolo, non dal sentiero regolare), concedendo un round di sorpresa se gestito con attenzione dai giocatori.
+
+**La rete di sicurezza (telegrafata, non gratuita)**: il rifugio nella nebbia è già all'erta — attendevano Fendrel e i druidi da ore, ormai preoccupati. Se lo scontro volge chiaramente al peggio (un PG a 0 PF, o il gruppo chiaramente sopraffatto), il GM può far intervenire due druidi armati del rifugio, richiamati dal rumore dello scontro — un soccorso reale ma non istantaneo (arrivano dopo 2-3 round, non al primo segno di difficoltà), e mai sostitutivo delle scelte dei giocatori se la battaglia è ancora gestibile.
+
+**Esito**: sconfitta o messa in fuga Thessaly (uccisa, catturata, o semplicemente respinta — tutte opzioni valide, da non fissare in anticipo), i PG raggiungono il rifugio. **Checkpoint — Livello 3.** Fine del Capitolo 1.
 
 ## 5. Stato del documento
 
-Parte 1 (Zone 1-4) scritta per intero, applicando `principi-di-design.md` §8.1-8.12. IPOTESI, non ancora promossa a CONFERMATO — da rivedere con l'autore prima di procedere con la Parte 2 e prima della promozione a `latex/manual/Capitolo1.tex`.
+Parte 1 (Zone 1-4) e Parte 2 (Zone 5-9, incluso il mini-dungeon di Zona 5) scritte per intero, applicando `principi-di-design.md` §8.1-8.12. IPOTESI, non ancora promossa a CONFERMATO. Statblocchi DA SCRIVERE in `latex/manual/AppendiceA.tex`: Grulnak (orco elite, GS ~2). Il quasit di Zona 7 e gli orchi comuni di Zona 3/6 usano statblocchi standard del Manuale dei Mostri (via Plutonium), nessun nuovo statblocco necessario. Thessaly Dawnbreaker e gli Zeloti dell'Alba di Zona 9 riusano gli statblocchi già scritti in Appendice A per l'assalto del Prologo. DA FARE prima della promozione a `latex/manual/Capitolo1.tex`: revisione dell'autore; eventuale mappa (rimandata, vedi `capitolo1-prologo.md` §7); dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto).
