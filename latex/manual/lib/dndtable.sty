@@ -48,13 +48,17 @@
     \tl_if_novalue:nF {#1}
       { \keys_set:nn { dnd / table } {#1} }
 
-    \par \vspace { 9pt plus 3pt minus 3pt } \noindent
+    \par \nobreak \vspace { 9pt plus 3pt minus 3pt } \nobreak \noindent
 
     \tl_if_empty:NF \l__dnd_table_header_tl
       {
         \group_begin:
           \DndFontTableTitle \l__dnd_table_header_tl
-          \par \vspace{ 5pt plus 2pt minus 2pt } \noindent
+          % \nobreak su entrambi i lati del vspace: impedisce che un'interruzione
+          % di colonna/pagina cada fra l'intestazione (header=) e la tabella --
+          % altrimenti il titolo resta orfano a fondo colonna e la tabella
+          % riparte sola in quella successiva.
+          \par \nobreak \vspace{ 5pt plus 2pt minus 2pt } \nobreak \noindent
         \group_end:
       }
 
