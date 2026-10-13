@@ -94,6 +94,8 @@ Rituali homebrew di Eos devono avere regole di interazione esplicite con *dispel
 
 ## 6. Il livello come conseguenza
 
+**AGGIORNAMENTO (13/10/2026, DEC-0051)** — Fascia confermata: 1-20 completo, distribuito su Capitolo 1 (1-3), Capitolo 2 (4-7), Capitolo 3 (7-15, il più lungo — porta le tre avventure dedicate di recupero reliquie più uno scontro cardine coi culti), Capitolo 4 (15-20, climax). Vedi [Campaign Bible §42](./campaign-bible.md). Il ragionamento sotto (9 ottobre, prima di questa decisione) resta come cronologia del percorso.
+
 NON FISSARE ORA "1–20" O "5–20": il valore richiesto dal finale dipende da cosa è effettivamente possibile per PG e avversari.
 
 Fascia possibile (solo confronto):
