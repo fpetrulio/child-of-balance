@@ -125,3 +125,23 @@ CONFERMATO (13/10/2026) — Non tutte le creature dell'appendice meritano lo ste
 - **PNG minori di mini-sottotrame**: trascurabili, nessun trattamento speciale richiesto.
 
 Formato dell'illustrazione (precisato 13/10/2026): nel PDF, l'illustrazione non è un ritratto statico in posa -- è una scena intera, il personaggio ripreso mentre fa qualcosa di caratterizzante (una delle sue tattiche preferite, un momento della sua storia), con un minimo di ambientazione/contesto visibile, come nelle illustrazioni dei manuali D&D pubblicati. Il token (ritaglio più stretto, pensato per Foundry) è un prodotto derivato separato, non il formato dell'illustrazione stessa.
+
+## 9. Struttura del manuale (14/10/2026)
+
+Verificato sull'anatomia reale dei manuali D&D pubblicati (Lost Mine of Phandelver: 4 capitoli da ~4 ore ciascuno; Strixhaven: 7 capitoli + appendice, ~20pp di ambientazione, ~32pp per avventura, ~42pp di PNG/mostri in appendice; densità illustrativa nei manuali core 3.5e/4e ~0.2-0.4 immagini/pagina, più alta — 0.6-0.7 — nei bestiari) — fonti: [A Guide to WOTC D&D Published Adventures](https://slyflourish.com/guide_to_published_adventures.html), [RPG Art Thru History](https://thealexandrian.net/wordpress/6478/roleplaying-games/rpg-art-thru-history).
+
+### 9.1 Apertura del manuale
+
+Un'avventura pubblicata apre sempre con: **Introduzione** breve (ambientazione, tono, livelli coperti, cosa serve per condurla) e **Sinossi dell'Avventura** — un riassunto ad alto livello del flusso atteso, capitolo per capitolo, anche quando l'avventura non è lineare. Non è decorazione: è lo strumento con cui il GM si orienta prima di leggere tutto il resto. **Gap noto nel nostro manuale**: `Introduzione.tex` ha ancora "Guida all'Avventura / Riassunto dell'Avventura" come TODO letterale (mai riempito), nonostante la sinossi esista già e sia CONFERMATA in `architettura-campagna.md` §0 (prodotta a chiusura del Gate E) -- mai promossa. Stesso tipo di divario già osservato altre volte fra draft e manuale: da colmare.
+
+### 9.2 Apertura di capitolo
+
+Ogni capitolo dovrebbe dichiarare, nelle prime righe o in un box GM, livelli coperti, numero di sessioni attese, e una frase di sinossi -- non solo un titolo. Lo facciamo già parzialmente con i box `DndSidebar` "Panoramica per il GM" messi all'inizio di ogni sezione maggiore; va reso sistematico su ogni capitolo futuro, non solo dove capita.
+
+### 9.3 Illustrazioni
+
+Non solo PNG rilevanti (§8.13): un'avventura pubblicata ha tipicamente anche un'illustrazione di apertura per capitolo (non legata a un singolo PNG, piuttosto al tono/luogo del capitolo) oltre alle illustrazioni di scena già previste per PNG/mostri unici. Non è un target numerico rigido da rincorrere meccanicamente, ma un capitolo senza nessuna illustrazione propria (solo testo e statblocchi) si nota, ed è coerente con la sensazione di "scarno" già sollevata per i contenuti testuali.
+
+### 9.4 Appendici
+
+Schema già seguito correttamente: creature/PNG (Appendice A), oggetti magici (Appendice B), mappe/handout (Appendice C), PNG e fazioni di sfondo (Appendice D) -- corrisponde alla scomposizione standard dei manuali pubblicati, nessun cambiamento necessario.
