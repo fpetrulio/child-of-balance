@@ -32,7 +32,8 @@ NOTA — Il rapporto parentale è homebrew dei Forgotten Realms.
 - CONFERMATO — Il destino di una parte degli altri presenti dopo l'assalto resta inizialmente incerto.
 - IPOTESI — Un druido sopravvissuto come mentore e testimone, possibile fonte di rivelazioni.
 - IPOTESI — "Santuario dei Grigi" come nome e High Forest come luogo.
-- DA DEFINIRE — Membri, nomi, gerarchia, rituali, motivazione per la custodia della nascita, posizione, dinamica precisa dell'assalto.
+- CONFERMATO (DEC-0053, 13/10/2026) — Motivazione della custodia: il primo Eos affidò loro il Canto del Seme Velato come mandato sacro prima di scegliere la morte (DEC-0007) — sono i custodi designati della profezia stessa, non solo testimoni casuali della nascita. Vedi [The Prophetic Song](./the-prophetic-song.md).
+- DA DEFINIRE — Membri, nomi, gerarchia, rituali, posizione, dinamica precisa dell'assalto.
 
 ## 4. Culto A: fazione benevolo-assolutista
 
