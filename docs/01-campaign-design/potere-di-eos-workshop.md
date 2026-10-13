@@ -304,6 +304,16 @@ CONFERMATO — I leader dei due culti non hanno mai incontrato Eos (requisito es
 
 Entrambe le tradizioni proteggono da QUALSIASI reliquia, non solo da quella della propria fazione (altrimenti l'Alba potrebbe comunque silenziare a comando i leader del Velo con il Cuore Bicolore, vanificando lo scopo); sono costose e lente da ottenere (anni di prova, non un rituale rapido) e quindi riservate ai vertici più fidati; sono completamente indipendenti da Eos, quindi nessun leader nemico lo ha mai incontrato né ne è consapevole.
 
-### 17.5 Stato aggiornato
+### 17.5 Formato di gioco delle 6 Impronte in Appendice B — DEC-0058
+
+CONFERMATO (Gate F) — Le sei Impronte sono formattate in \texttt{latex/manual/AppendiceB.tex} con il vero comando del template, \verb|\DndItemHeader|, usando la convenzione reale dei manuali D&D: nome, poi una riga in corsivo con tipo/rarità, poi testo libero. Tre decisioni prese in sessione, modellate su esempi reali di artefatti DMG (richiesta esplicita dell'autore, "prendi spunto da altri oggetti esistenti"):
+
+- **Sintonia.** Tutte e sei richiedono sintonia (``requires attunement''). Rinforza il tema del legame/tentazione personale nell'uso delle reliquie (§16.6) e impedisce che chiunque rubi una reliquia la usi da subito senza essersi mai sintonizzato.
+- **Tiro salvezza.** Nessuna delle due facce (Dono/Presa) concede un tiro salvezza — coerente con §17.3: sono armi assolute, non magie resistibili. L'unica difesa resta la Benedizione di Eos o le contromisure rituali antiche dei due culti (§17.4). Non vengono quindi introdotte CD: la domanda "che CD hanno le reliquie" ha risposta "nessuna", per scelta di design, non per omissione.
+- **Distruzione.** Restano indistruttibili per ora: nessuna sezione "Distruzione" (convenzione tipica degli artefatti DMG) è stata scritta nei blocchi oggetto. È un gancio narrativo lasciato volutamente aperto, non deciso — riconsiderabile più avanti se la trama ne avrà bisogno.
+
+L'economia delle cariche resta quella già fissata da §16.5/DEC-0031 (2 cariche massimo per reliquia, ricarica di 1 carica ogni 7 giorni condivisa fra tutte e sei, rito di un'ora entro 9 m da Eos) — ora esplicitata anche nel blocco oggetto di ciascuna reliquia (Dono e Presa costano 1 carica ciascuno).
+
+### 17.6 Stato aggiornato
 
 RESTA DA DEFINIRE (Gate C proprio, non toccato da questa sessione): esiti finali confermati per entrambi i culti, i tre obiettivi intermedi di ciascuno, mezzi/risorse/costi/limiti/compromessi, indizi tracciabili per i PG, debolezze, aspetti seducenti/apparentemente positivi, un Piano B per ciascuno, e la matrice Obiettivi→Operazioni→Indizi→Reazioni dei PG→Conseguenze richiesta dalla Narrative Roadmap. Questa sezione fornisce solo il materiale di supporto (dove sono le reliquie, chi può colpire chi) su cui quei piani si costruiranno.
