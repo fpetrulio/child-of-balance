@@ -26,12 +26,13 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Cosa sanno sulla profezia**: nulla di esplicito, solo l'istruzione lasciata con la coppa. Osvaldo ha sognato, tre notti prima dell'inizio dell'avventura, la coppa riempirsi di luce e ombra insieme — il presagio che lo convince che "il giorno" è arrivato.
 
-**Cronistoria** (prova di Storia/Religione, DC indicata per voce):
-- *circa -850 DR* (DC 20, quasi dimenticato): il Viandante soggiorna un inverno all'ospizio, allora gestito da tre eremiti senza nome collettivo; intaglia la coppa, la usa, la lascia.
-- *-820 DR* (DC 18): i tre eremiti, invecchiando, formalizzano l'Ordine, scegliendo il nome dal tiglio sotto cui il Viandante dormiva ogni notte.
-- *-200 DR* (DC 15): l'Ordine rifiuta di unirsi all'influenza crescente della Triade (Tyr/Torm/Helm) a Sundabar — primo scontro filosofico con la città, mai degenerato in rottura aperta.
-- *1235 DR* (DC 12, nota nelle cronache cittadine): durante un'epidemia a Sundabar, l'Ordine è l'unico gruppo religioso a non rifiutare cure a nessun malato, nemmeno ai sospetti untori.
-- *1486 DR* (DC 10, memoria recente): durante il Secondo Rimescolamento l'ospizio brucia parzialmente in un tumulto; il giovane Osvaldo salva la coppa dalle fiamme a mani nude — la cicatrice è ancora visibile.
+**Cronistoria** (prova di Storia/Religione — DC 10 per la versione sintetica sotto, DC 18+ per i dettagli più antichi o interni all'Ordine):
+
+L'Ordine affonda le radici in un inverno dimenticato, quasi -850 DR, quando tre eremiti senza nome collettivo gestivano poco più di una capanna per i moribondi ai margini di Sundabar. Fu in quell'inverno che il Viandante si fermò da loro — non chiese nulla, offrì solo le proprie mani per vegliare i malati, e bevve ogni sera da una coppa di tiglio che aveva intagliato lui stesso nei primi giorni del soggiorno. Quando se ne andò, a primavera, lasciò la coppa con un'unica istruzione: «Un giorno qualcuno verrà a chiederla. Datela senza esitare.» I tre eremiti, invecchiando, fondarono formalmente l'Ordine una generazione più tardi (-820 DR), scegliendo il nome dal tiglio sotto cui il Viandante dormiva ogni notte.
+
+Per secoli l'Ordine è rimasto ai margini della vita religiosa di Sundabar — una città che venera soprattutto disciplina, legge e guerra attraverso la Triade di Tyr, Torm ed Helm, e che onora i propri antenati nani nel tempio sotterraneo dei Morndinsamman. I Fratelli non hanno mai cercato di competere con questi centri di potere: intorno al -200 DR rifiutarono un invito a unirsi formalmente all'influenza crescente della Triade, preferendo restare un ordine umile e indipendente — una distanza filosofica con la città mai del tutto colmata, ma nemmeno mai degenerata in ostilità aperta.
+
+Il momento che la città ricorda meglio dell'Ordine risale al 1235 DR, quando un'epidemia devastò Sundabar e i Fratelli furono l'unico gruppo religioso a non rifiutare cure a nessun malato — nemmeno ai sospetti untori che altri avevano messo al bando. Più di recente, durante il Secondo Rimescolamento (1486 DR), un tumulto in città causò un incendio che danneggiò parzialmente l'ospizio: fu il giovane Fratello Osvaldo, allora poco più che un novizio, a correre fra le fiamme per salvare la coppa a mani nude. La cicatrice che porta ancora oggi sul palmo è la prova silenziosa di quanto quell'oggetto, pur comune in apparenza, non sia mai stato considerato sostituibile.
 
 **PNG famosi**: Sorella Ilvara Quenhollow, prima priora (circa -780 DR), autrice del codice etico dell'Ordine: «Né vita rubata, né morte negata.»
 
@@ -55,12 +56,11 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Cosa sanno sulla profezia**: istruzione orale tramandata di Decana in Decana: «Restituite la stola se il velo del mondo dovesse mai vacillare» — frase che Yllestra non ha mai capito fino a poche settimane fa, quando le sue novizie hanno iniziato a riportare sogni identici e indipendenti: un bambino avvolto in luce e ombra.
 
-**Cronistoria** (prova di Storia/Arcana, DC indicata per voce — l'Ordine stesso non parla volentieri di sé, +5 alla DC se la fonte non è una Sorella):
-- *data imprecisa, molto dopo -10500 DR* (DC 22): un gruppo informale di streghe errante scopre un lembo di terra ancora intriso della magia fatata di Miyeritar nel Moro Alto.
-- *-720 DR* (DC 20): l'Ospite Silenzioso soggiorna un inverno con questo gruppo, insegna le prime tecniche di occultamento costruite sulla magia fatata residua, lascia la stola.
-- *-690 DR* (DC 18): le streghe si formalizzano come le Sorelle del Passo Silenzioso, giurando di proteggere «chiunque abbia bisogno di non essere trovato» — una scelta deliberatamente amorale che causa tensioni interne fin dall'inizio.
-- *1358 DR, Anno dello Scudo* (DC 18, nota fra sage e studiosi di Arcana): la scoperta della "Marea Cedevole" (un libro che parla di una città-stato sepolta nel Moro Alto dove dei maghi imprigionarono una divinità minore per sottrarne il potere) spinge le Sorelle a ritirarsi più in profondità nelle proprie rovine, temendo di essere coinvolte nelle ricerche che seguirono.
-- *Presente*: Yllestra Vane è la 34ª Decana nella linea di successione.
+**Cronistoria** (prova di Storia/Arcana — DC 10 per i rumor generici sul Moro Alto, DC 20+ per qualunque dettaglio specifico sull'Ordine, che non parla volentieri di sé: +5 se la fonte non è una Sorella):
+
+Molto tempo dopo la caduta di Miyeritar — il regno fatato che le Guerre della Corona ridussero in cenere quasi diecimila anni fa, lasciando dietro di sé l'erma distesa che oggi chiamiamo Moro Alto — un gruppo informale di streghe erranti scoprì che un lembo di quella terra era rimasto intriso di magia fatata, sopravvissuta al crollo del regno come un'eco che si rifiuta di spegnersi. Fu lì, intorno al -720 DR, che l'Ospite Silenzioso trascorse un intero inverno con loro: insegnò le prime tecniche di occultamento costruite proprio su quella magia residua, e alla partenza lasciò una stola di lana grezza come unico ricordo del passaggio. Le streghe, una generazione più tardi (-690 DR), si formalizzarono come le Sorelle del Passo Silenzioso, giurando di proteggere «chiunque abbia bisogno di non essere trovato» — una formula deliberatamente priva di distinzioni morali, che ha generato tensioni interne fin dal primo giorno: proteggere un innocente in fuga e proteggere un colpevole in fuga richiedono, dopotutto, esattamente le stesse tecniche.
+
+L'Ordine visse un momento di crisi silenziosa nel 1358 DR (l'Anno dello Scudo), quando alcuni sage scoprirono un testo noto come la "Marea Cedevole": un resoconto di una città-stato sepolta proprio nel Moro Alto, dove secoli prima alcuni maghi avevano imprigionato una divinità minore per sottrarne il potere. Temendo che le ricerche che seguirono potessero far luce anche sul proprio nascondiglio, le Sorelle si ritirarono ancora più in profondità nelle rovine che chiamano casa — un'abitudine alla segretezza che non si è più allentata da allora. Oggi Yllestra Vane è la trentaquattresima Decana in una linea di successione che nessuna fonte esterna all'Ordine ha mai documentato per intero.
 
 **PNG famosi**: Decana Sorvynn "la Cieca" (secolo IX DR), leggendaria per aver nascosto un intero villaggio da un'orda orchesca per tre anni consecutivi senza che nessuno degli abitanti venisse mai scoperto.
 
@@ -86,12 +86,11 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Dettaglio speciale — unico indizio di provenienza condiviso esplicitamente**: Perrin non sa esattamente dove restituirla, solo: «Verso la High Forest, dove disse di essere nato.» È il solo PNG dei sei a fornire un'indicazione geografica diretta sulle origini del vecchio Eos.
 
-**Cronistoria** (prova di Storia/Religione locale, DC indicata per voce):
-- *-600 DR* (DC 20): fondazione come piccola gilda di soffiatori di vetro a Silverymoon, prima di qualsiasi inclinazione divinatoria.
-- *-430 DR* (DC 18): il Vetraio Grigio soggiorna una stagione, insegna tecniche di soffiatura che producono vetro capace di "catturare la luce in modo innaturale" — nasce da qui l'interesse divinatorio della gilda.
-- *-50 DR* (DC 15): la gilda si riorganizza formalmente nel Collegio dei Vetrai di Verità, orientato specificamente alla divinazione tramite vetro e cristallo.
-- *900 DR* (DC 12, nota localmente): alla costruzione del Vault of the Sages, il Collegio offre la propria prima lastra divinatoria "ufficiale" come contributo — rifiutata per "metodologia non verificabile", un'onta mai del tutto dimenticata.
-- *Presente*: Perrin Oakhollow è il quinto Maestro Vetraio dalla riorganizzazione del -50 DR.
+**Cronistoria** (prova di Storia, DC 8 per i fatti noti a Silverymoon, DC 15+ per i dettagli interni del Collegio):
+
+Il Collegio nacque come una modesta gilda di soffiatori di vetro a Silverymoon, attorno al -600 DR, senza alcuna inclinazione divinatoria — gente che vendeva bicchieri e finestre, non profezie. Tutto cambiò quando il Vetraio Grigio si fermò in città per una sola stagione, verso il -430 DR, e insegnò ai soffiatori una tecnica che nessuno aveva mai visto: un modo di lavorare il vetro che lo rendeva capace di "catturare la luce in modo innaturale", come se trattenesse per un istante ciò che rifletteva invece di lasciarlo semplicemente passare. Fu da quell'insegnamento, e dalla curiosità che suscitò, che nacque col tempo l'interesse divinatorio della gilda — un processo lento, culminato solo intorno al -50 DR nella riorganizzazione formale nel Collegio dei Vetrai di Verità.
+
+Il Collegio porta ancora, sepolta sotto il pragmatismo quotidiano, una piccola ferita d'orgoglio: quando nel 900 DR fu costruito il Vault of the Sages, la grande biblioteca che è ancora oggi il vanto di Silverymoon, i Vetrai offrirono la propria prima lastra divinatoria "ufficiale" come contributo alla collezione — e se la videro rifiutare, con la motivazione che la loro metodologia non era "verificabile" secondo gli standard arcani riconosciuti. Da allora il Collegio opera nell'orbita del Vault senza mai esserne entrato a far parte, consultato quando serve una conoscenza che il Vault stesso non riesce a offrire, ma mai pienamente accettato come pari. Perrin Oakhollow è il quinto Maestro Vetraio da quella riorganizzazione, e porta quella vecchia onta con lo stesso understatement pratico con cui parla di tecniche di soffiatura.
 
 **PNG famosi**: Maestra Vetraia Ondrella Phrein (circa 1050 DR), che predisse correttamente la rotta di un'invasione orchesca tre mesi prima dell'evento usando solo una lastra di vetro — non creduta fino a dopo i fatti.
 
@@ -117,12 +116,11 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Dettaglio aggiuntivo**: Haldor insiste che il PG porti anche un sacchetto di terra del frutteto, «perché il seme non deve viaggiare senza un po' di casa» — apparentemente superstizioso, potenzialmente rilevante più avanti per come si "attiva" il Seme di Tempesta.
 
-**Cronistoria** (prova di Storia/Natura, DC indicata per voce — la comunità non cerca notorietà, +5 alla DC se la fonte non è un Guardiano):
-- *-900 DR* (DC 20): una piccola comunità di coloni umani si stabilisce nella zona, scoprendo un frutteto già esistente e stranamente longevo.
-- *-850 DR* (DC 18): l'Uomo delle Stagioni passa un'estate insegnando tecniche di coltivazione "impossibili" (raccolti doppi senza decadimento del suolo) e lascia il seme.
-- *-600 DR* (DC 15): fondazione formale della comunità come "Guardiani", in risposta al tentativo fallito di un signore locale di reclamare il frutteto come proprietà feudale — primo atto di autonomia della comunità.
-- *1374 DR* (DC 10, nota localmente): alla fondazione/fortificazione di Loudwater nelle vicinanze, i Guardiani scelgono di non unirsi formalmente alla città, mantenendo piena autonomia, pur commerciando regolarmente con essa.
-- *Presente*: Haldor Vinesong è il settimo "anziano" della linea informale dall'ultima crisi di successione (1455 DR).
+**Cronistoria** (prova di Storia/Natura — DC 12 per quanto si dice a Loudwater, DC 20+ per i dettagli interni: la comunità non cerca notorietà):
+
+Quando una piccola comunità di coloni umani si stabilì in questa piega del Delimbiyr Vale, attorno al -900 DR, trovò un frutteto che non avevano piantato loro: già esistente, già stranamente longevo, come se fosse lì da sempre. Non ci vollero molte generazioni perché un druido chiamato l'Uomo delle Stagioni passasse un'intera estate con loro, insegnando tecniche di coltivazione che i coloni consideravano impossibili — raccolti doppi, ottenuti senza che il suolo mostrasse mai segni di esaurimento. Alla partenza lasciò un seme, con un'istruzione che la comunità ripete ancora oggi quasi parola per parola: «Non piantatelo per crescere. Piantatelo per aspettare.»
+
+L'autonomia della comunità non è mai stata scontata. Intorno al -600 DR un signore locale tentò di reclamare il frutteto come proprietà feudale — un tentativo che fallì, e che spinse la comunità a formalizzarsi per la prima volta come i "Guardiani", proprio per avere un nome e una voce riconoscibile da opporre a future pretese simili. Secoli dopo, quando Loudwater venne fondata e fortificata proprio accanto a loro (1374 DR), i Guardiani scelsero deliberatamente di non unirsi alla città — preferirono restare un'entità separata, pur commerciando con regolarità con i suoi mercati. Haldor Vinesong è il settimo "anziano" nella linea informale della comunità dall'ultima crisi di successione, nel 1455 DR, e come tutti i suoi predecessori non porta alcun titolo ufficiale — solo l'età, e il rispetto che comporta.
 
 **PNG famosi**: nessuno conosciuto fuori dalla comunità — i Guardiani non cercano notorietà, per scelta.
 
@@ -148,12 +146,11 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Dettaglio aggiuntivo**: Dessa affida al PG anche un messaggio sigillato, da consegnare «a chiunque sembri occuparsi del Santuario dei Grigi» all'arrivo — i PG non sono autorizzati ad apprirlo (contenuto riservato al GM, o rivelato ai druidi all'arrivo per colore narrativo).
 
-**Cronistoria** (prova di Storia, DC indicata per voce):
-- *-550 DR* (DC 18): fondazione come piccola guarnigione neutrale, nata dalla stanchezza di anni di guerra sul Moon Pass tra le fazioni che lo contendevano.
-- *-500 DR* (DC 15): il Mediatore risolve una disputa sanguinosa fra due clan rivali (probabili predecessori degli attuali Pugni Millenari e Sventra-Budella, anche se la Confraternita non ne ha certezza) e lascia il tamburo.
-- *-200 DR* (DC 12): formalizzazione del "Rito del Tamburo" — ogni disputa seria sul passo può essere risolta con un duello scandito dal tamburo invece di una battaglia campale, regola rispettata quasi sempre anche dalle tribù orchesche per pragmatismo reciproco.
-- *1489 DR* (DC 8, memoria recente e dolorosa, nota localmente): durante il Secondo Rimescolamento il passo vede un'ondata di violenza anomala; la Confraternita fatica a mantenere la tregua per la prima volta in secoli.
-- *Presente*: Dessa Kragan guida la Confraternita da 12 anni, prima donna Maestro d'Armi nella sua storia.
+**Cronistoria** (prova di Storia — DC 8 per quanto si sa nella regione del Moon Pass, DC 15+ per i dettagli specifici):
+
+La Confraternita nacque dalla stanchezza, non dall'idealismo: verso il -550 DR, dopo anni di guerra ininterrotta per il controllo del Moon Pass, un piccolo gruppo neutrale si stabilì nella gola con l'unico scopo di impedire che la prossima battaglia avesse luogo. Il loro primo vero successo arrivò una generazione più tardi, quando un viandante disarmato — il Mediatore, come lo ricordano ancora — risolse una disputa sanguinosa fra due clan rivali usando solo parole, e alla fine un singolo colpo di tamburo che, dicono le cronache della Confraternita, «fece tacere ogni rabbia nella valle». Lasciò il tamburo come simbolo e scomparve, e la Confraternita non ha mai dimenticato quella lezione: formalizzarono il "Rito del Tamburo" intorno al -200 DR, stabilendo che ogni disputa seria sul passo potesse essere risolta con un duello regolamentato scandito dal tamburo, invece che con una battaglia campale — una regola rispettata, quasi sempre, persino dalle tribù orchesche che si contendono la gola ancora oggi, per puro pragmatismo reciproco.
+
+Quella tregua secolare ha vacillato solo una volta in memoria vivente: durante il Secondo Rimescolamento, nel 1489 DR, un'ondata di violenza anomala travolse il passo e la Confraternita faticò, per la prima volta in secoli, a far rispettare il Rito. È una ferita ancora recente, di cui si parla poco ma che tutti nella regione ricordano. Dessa Kragan guida la Confraternita da dodici anni — la prima donna a ricoprire il ruolo di Maestro d'Armi nella sua intera storia.
 
 **PNG famosi**: Maestro d'Armi Borr Hammerfist (circa 700 DR), che mediò personalmente 40 dispute in trent'anni di servizio senza mai estrarre un'arma.
 
@@ -177,12 +174,11 @@ Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione
 
 **Cosa sanno sulla profezia**: nulla — Maela ha notato che la radice, per la prima volta, ha iniziato a "pulsare" leggermente al tatto, come un battito, tre giorni prima dell'inizio dell'avventura.
 
-**Cronistoria** (prova di Storia/Arcana/Natura, DC indicata per voce):
-- *-480 DR* (DC 18): un piccolo gruppo di studiosi arcani, esiliato da collegi più ortodossi per "sincretismo pericoloso" con la magia druidica, si stabilisce lungo il Surbrin.
-- *-450 DR* (DC 15): il Giardiniere passa una stagione aiutandoli a creare il giardino semi-sommerso, lascia la radice.
-- *-100 DR* (DC 12): il collegio adotta formalmente il nome "Custodi del Giardino Sommerso" dopo che il giardino sopravvive, inspiegabilmente intatto, a un'inondazione che distrugge gran parte degli insediamenti vicini.
-- *1375 DR circa* (DC 10): avvistamenti/contatti sporadici con membri dell'Emerald Enclave (attivo più a sud, nel Vilhon Reach) portano a una simpatia filosofica reciproca, mai formalizzata in alleanza.
-- *Presente*: Maela Thistlewood è la più giovane Arcidruido nella storia del collegio, nominata solo 3 anni fa in circostanze controverse — il suo predecessore scomparve durante un esperimento mai spiegato.
+**Cronistoria** (prova di Storia/Arcana — DC 10 per i fatti noti lungo il Surbrin, DC 15+ per i dettagli interni):
+
+I Custodi iniziarono come un gruppo di esiliati: studiosi arcani cacciati dai propri collegi d'origine, accusati di praticare un "sincretismo pericoloso" fondendo la propria magia con tecniche druidiche considerate incompatibili. Si stabilirono lungo il Surbrin attorno al -480 DR, e fu lì, solo una generazione dopo, che il Giardiniere li raggiunse e passò un'intera stagione ad aiutarli a costruire quello che sarebbe diventato il loro giardino semi-sommerso — un esperimento di coltivazione ibrida che nessun collegio "rispettabile" avrebbe mai approvato. Alla partenza strappò una radice da una delle piante più antiche del giardino, lasciandola con parole che i Custodi ripetono ancora: «Questa non è per crescere qui. È per tornare altrove, un giorno.»
+
+Il nome "Custodi del Giardino Sommerso" divenne ufficiale solo molto più tardi, intorno al -100 DR, dopo che un'inondazione devastante travolse gran parte degli insediamenti della zona — risparmiando, inspiegabilmente, il loro giardino, come se qualcosa lo proteggesse dall'interno. Più di recente, attorno al 1375 DR, contatti sporadici con membri dell'Emerald Enclave (il movimento druidico-arcano attivo più a sud, nel Vilhon Reach) hanno prodotto una simpatia filosofica reciproca, mai formalizzata in una vera alleanza — i Custodi restano, per scelta e per storia, un'entità a sé. Maela Thistlewood è oggi la più giovane Arcidruido nella storia del collegio, nominata appena tre anni fa in circostanze che nessuno ha mai chiarito del tutto: il suo predecessore scomparve durante un esperimento di cui non è rimasta traccia.
 
 **PNG famosi**: Arcidruido Sylvaneth Moonwhisper (circa 50 DR), che per prima documentò scientificamente la "crescita impossibile" del giardino, gettando le basi del metodo sincretico del collegio.
 
@@ -204,6 +200,69 @@ I veri padroni dei due culti restano segreti (DEC-0035) — quanto segue riguard
 
 **Velo dell'Ultima Quiete**: approccio più furtivo — agenti già mescolati tra mercanti/viandanti di passaggio nei giorni precedenti, pronti a colpire dall'interno quando l'attacco dell'Alba crea confusione (le due fazioni non collaborano, ma nessuna delle due si fa scrupolo di sfruttare il caos causato dall'altra). Guidati da **Nyx Kelvorn**, agente ombra della Città delle Ombre (pelle grigio-cenere, occhi senza iride ben visibile, si muove in modo innaturalmente silenzioso), con 2-3 agenti infiltrati.
 
-## 4. Stato del documento
+## 4. PNG del santuario (per la scena)
 
-DA FARE: confermare il set di sei hook con l'autore; scrivere la prosa scenica del prologo (arrivo, presagi, nascita, rivelazione parziale della profezia, assalto, fuga, esito); statblock di Thessaly Dawnbreaker, Nyx Kelvorn e dei loro seguaci (livello 1-3, DEC-0051); mappa del santuario; conversione in journal Foundry.
+**Fendrel Greyoak** — elfo, anziano (per standard elfici: aspetto sulla cinquantina, età reale ignota anche ai confratelli), guida del circolo druidico del Santuario dei Grigi. È lui, fra tutti, il più vicino al segreto della stirpe — ha passato decenni a seguirne le tracce secondo un dovere tramandato dai suoi predecessori — ma nemmeno lui conosce la vera natura di Eos (DEC-0049): sa solo che "quando nascerà, dovrà essere protetto, e il mondo non deve saperlo troppo presto." Porta un bastone di quercia grigia consumato da generazioni di mani, e un anello di ferro annerito al dito — l'unico oggetto che non si separa mai da lui. È lui a officiare la nascita, a rivelare l'estratto della profezia, e a morire nell'assalto.
+
+**Garrick e Wren Alderleaf** — una giovane coppia umana di un villaggio ai margini della High Forest, contadini, assolutamente ordinari. Non sanno di discendere dalla stirpe del primo Eos (DEC-0052) finché Fendrel e il circolo non li raggiungono, mesi prima, con una richiesta che li ha lasciati confusi e spaventati: venire al Santuario per il parto di Wren, "per ragioni che diventeranno chiare." Entrambi muoiono nell'assalto, vittime come altri membri del circolo — non per un motivo mistico legato alla nascita, semplicemente nel posto sbagliato nel momento sbagliato.
+
+## 5. La scena: prosa del prologo
+
+### 5.1 Arrivo e presagi
+
+I sei PG arrivano al Santuario dei Grigi nell'arco della stessa giornata, ciascuno dalla propria direzione, ciascuno scortando il proprio incarico (§1). Non è un caso che convergano insieme: nelle ultime settimane Fendrel ha inviato discreti messaggeri a tutte le organizzazioni che sapeva custodire un dono del "Viandante" (con nomi diversi per ciascuna) — senza spiegare perché, solo con urgenza. Chi non ha ricevuto un messaggero diretto (es. i PG il cui PNG ha agito di propria iniziativa sulla base di un presagio) arriva comunque nello stesso finestra temporale, parte dello stesso schema più grande.
+
+**[Leggi ad alta voce]**
+
+> *La High Forest si chiude intorno al sentiero come un sipario verde, e per le ultime due ore non avete incrociato altro che il canto di uccelli che non riconoscete. Poi, senza preavviso, gli alberi si diradano in una radura bassa, cinta da pietre grigie coperte di muschio antico — non rovine, non esattamente: più come se la pietra stessa fosse cresciuta lì, piano, insieme alla foresta. Al centro, un albero enorme, il tronco diviso in due branche gemelle che si inarcano senza toccarsi mai, come due mani che non osano stringersi. Una sorgente scorre silenziosa ai suoi piedi. Druidi in vesti grigio-verdi si muovono fra le pietre con un'urgenza contenuta, a stento mascherata da normalità. Uno di loro — alto, con un bastone di quercia consumato e un anello di ferro annerito — si volta verso di voi prima ancora che possiate chiamare, come se vi stesse aspettando da ore.*
+
+Fendrel riconosce ogni PG per l'oggetto che porta (anche senza che venga mostrato) e li accoglie per nome o per organizzazione di provenienza, con un sollievo che non nasconde del tutto: «Siete arrivati. Bene. Restate — stanotte avrete bisogno di essere qui.» Non spiega altro, per ora, se non interrogato direttamente: in quel caso, risponde con onestà parziale — "una nascita importante, stanotte, forse domani" — senza nominare Eos, la profezia, o i culti.
+
+**Presagi notturni (prima della nascita)**: nei giorni precedenti l'arrivo dei PG, e culminando la notte stessa, il Santuario ha visto segni che nessun druido ricorda di aver visto prima: un'aurora boreale innaturale visibile anche a quella latitudine, colorata di oro e viola insieme; gli animali della foresta (anche predatori) radunati in cerchi silenziosi intorno alla radura, senza aggredirsi fra loro; i fiori dell'albero gemello sbocciano fuori stagione, metà dorati e metà neri. I PG possono notare questi segni arrivando, o vederli culminare durante la notte della nascita stessa.
+
+### 5.2 La nascita
+
+Wren Alderleaf entra in travaglio quella notte stessa — un parto normale nella sua meccanica (nessun prodigio nell'atto in sé, coerente con DEC-0052), ma circondato da un'attesa che pesa nell'aria. I PG, in quanto ospiti/scorte di fiducia, sono ammessi a restare nei pressi (non necessariamente nella tenda del parto stessa, a discrezione del gruppo e del GM) — abbastanza vicini da essere testimoni diretti di quello che segue.
+
+**[Leggi ad alta voce]**
+
+> *Il grido di un neonato squarcia la notte — e nello stesso istante, l'aurora sopra la radura si piega, per un solo battito di cuore, in due direzioni opposte: oro verso est, viola verso ovest, come se il cielo stesso avesse trattenuto il fiato e ora lo rilasciasse. I druidi intorno a voi cadono in ginocchio, alcuni in lacrime, nessuno in grado di spiegare perché. Fendrel esce dalla tenda con un fagotto fra le braccia, il volto di chi ha appena visto qualcosa che aspettava da tutta la vita — e che non sa ancora se sia una benedizione o una condanna.*
+
+Il bambino è sano, piccolo, in apparenza del tutto normale — tranne per gli occhi, che alcuni PG particolarmente attenti (Percezione passiva alta, o un check esplicito) notano cambiare colore per un istante, da un grigio neutro a un riflesso dorato-violaceo, prima di tornare normali. Nessun PNG presente lo commenta ad alta voce; è troppo presto, e troppo carico di significato non detto.
+
+### 5.3 La rivelazione e l'inizio dell'assalto
+
+Fendrel porta il neonato ai PG direttamente, un momento prima che tutto precipiti.
+
+**[Leggi ad alta voce]**
+
+> *«Ascoltatemi, e ascoltatemi bene, perché non avrò il tempo di ripetermi.» La voce di Fendrel trema, non di paura — di urgenza. «Esiste un canto antico, custodito da questo circolo da prima che io nascessi. Parla di un seme che torna a respirare, e di chi lo cercherà per guidarlo, per spegnerlo, per possederlo. Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io, non del tutto. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi. Non so perché. Non so se è giusto chiedervelo. Ma ve lo chiedo comunque.»*
+
+Nell'istante stesso in cui Fendrel finisce di parlare, le prime urla si alzano dal limite della radura — i "pellegrini" della Fratellanza del Sole Glorioso, in realtà la squadra di Thessaly Dawnbreaker (§3), gettano via i mantelli dorati e caricano. Il caos del loro assalto è immediatamente sfruttato dagli agenti infiltrati di Nyx Kelvorn, già mescolati fra i presenti da giorni, che colpiscono dall'interno — nessuna delle due fazioni collabora con l'altra, ma nessuna esita a usare la confusione causata dall'altra a proprio vantaggio.
+
+Fendrel spinge il neonato fra le braccia del PG più vicino. «Andate. ORA.» — e si volta a sbarrare il passo a due assalitori dell'Alba, guadagnando ai PG i secondi necessari per orientarsi. Muore lì, pochi istanti dopo, senza che i PG possano intervenire in tempo per salvarlo (a meno che non scelgano esplicitamente di provarci, pagando un costo narrativo/tattico reale per farlo — vedi §5.4, scelte).
+
+### 5.4 La fuga: scelte e distribuzione delle reliquie
+
+Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile di petto (architettura-campagna.md §4-5). L'obiettivo non è annientare gli assalitori, è portare in salvo Eos, se stessi, e il più possibile di persone/prove/conoscenza — con scelte reali su cosa è raggiungibile e cosa no.
+
+**Elementi in gioco, da presentare come scelte sotto pressione (non un copione fisso)**:
+
+- **Garrick e Wren Alderleaf**: nella tenda del parto, raggiungibili solo deviando dal percorso di fuga più diretto. Se i PG tentano di salvarli, affrontano un rischio tattico reale (un gruppo di assalitori si frappone); se riescono comunque a non farcela (esito per cui propendere, coerente con DEC-0052 — ma non reso impossibile a priori: un successo eccezionale dei PG è un'eccezione narrativa da gestire con cura, non un esito vietato), muoiono comunque poco dopo per ferite riportate nell'assalto, non per un vincolo di trama rigido.
+- **Il Cuore Bicolore**: sull'altare centrale del Santuario. Un infiltrato dell'Alba, già presente da giorni, lo raggiunge per primo — i PG possono intervenire, ma rischiano di perdere tempo prezioso altrove (DEC-0038).
+- **Il Velo Strappato**: addosso a un druido caduto presto nel combattimento. Un assalitore mascherato del Velo lo strappa nel caos — difficile da impedire senza esporsi.
+- **Lo Specchio Incrinato**: Fendrel stesso, nei suoi ultimi istanti (o un altro druido superstite, se i PG hanno agito per salvarlo), lo affida deliberatamente a uno dei PG insieme al neonato — l'unica reliquia consegnata con intenzione, non presa nel caos.
+- **Il Seme di Tempesta**: rotola nel sottobosco durante la fuga — recuperabile solo con un'azione dedicata e rischiosa, facile da lasciare perduto.
+- **Il Tamburo Silenzioso**: portato da un druido che fugge in direzione opposta ai PG — il suo destino resta aperto, non risolto in questa scena.
+- **La Radice Incantata**: un druido anziano (non Fendrel) la divide in due talee davanti agli occhi dei PG, affidandole a due messaggeri diversi che si separano subito dopo — i PG vedono questo accadere, ma non necessariamente possono intervenire.
+- **Altri sopravvissuti del circolo**: alcuni fuggono con successo, altri restano dispersi/incerti (coerente con Characters & Factions §3) — buon materiale per PNG ricorrenti futuri.
+
+**Esiti divergenti**: il Capitolo 1 non ha un'unica fuga "corretta". Le scelte dei PG determinano quante persone sopravvivono, quali reliquie restano a portata (nessuna, salvo lo Specchio Incrinato, è obbligatoriamente persa o salvata), e con quale margine lasciano il Santuario. Questo apre naturalmente a conseguenze diverse più avanti (chi altro sopravvive per essere un futuro PNG, quanto rapidamente i culti consolidano la propria reliquia, ecc.) — nessuna di queste va fissata ora, vanno tracciate in base a cosa accade realmente al tavolo.
+
+### 5.5 Esito
+
+I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo si chiude non con una vittoria, ma con la responsabilità appena iniziata: dirigersi verso un rifugio sicuro (un'altra comunità druidica/affine, DA DEFINIRE in dettaglio per il Downtime I) per cominciare, senza sapere bene cosa li aspetta, a crescere un bambino che nessuno di loro capisce davvero.
+
+## 6. Stato del documento
+
+DA FARE: mappa del Santuario dei Grigi; statblock di Thessaly Dawnbreaker, Nyx Kelvorn e dei loro seguaci (livello 1-3, DEC-0051); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
