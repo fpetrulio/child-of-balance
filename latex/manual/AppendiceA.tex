@@ -2,65 +2,164 @@
 \label{chap:appendiceA}
 
 \begin{DndComment}[]{Nota editoriale}
-  I mostri standard vengono importati nel mondo del GM tramite Plutonium (vedi Technical Specification) e non vanno ridistribuiti qui: questa appendice contiene solo PNG/creature originali per la campagna. Gli statblocchi sotto (Capitolo 1, Prologo) usano formattazione semplice, non il box \texttt{DndMonster} completo del template -- un miglioramento estetico possibile in seguito, non bloccante.
+  I mostri standard vengono importati nel mondo del GM tramite Plutonium (vedi Technical Specification) e non vanno ridistribuiti qui: questa appendice contiene solo PNG/creature originali per la campagna. Statblocchi nel vero ambiente \texttt{DndMonster} del template (vedi \texttt{TEMPLATE-REFERENCE.tex} per la guida completa ai comandi).
 \end{DndComment}
 
 \section{Gli assalitori del Santuario dei Grigi}
 
 Nota di bilanciamento per il GM: questi avversari NON sono pensati per uno scontro bilanciato contro un gruppo di livello 1-3 -- sono deliberatamente soverchianti. Il loro ruolo è rendere evidente, entro un paio di round, che la fuga è l'unica opzione sensata, non offrire un combattimento vincibile di petto.
 
-\subsection*{Thessaly Dawnbreaker (Sunmaster Rinnegata)}
-\textit{Umano di taglia media, legale neutrale}
+\begin{DndMonster}[float*=b,width=\textwidth + 8pt]{Thessaly Dawnbreaker}
+  \begin{multicols}{2}
+    \DndMonsterType{Umano di taglia media, legale neutrale}
 
-\textbf{CA} 16 (cotta di maglia, scudo) \quad \textbf{PF} 65 (10d8+20) \quad \textbf{Velocità} 9 m
+    \DndMonsterBasics[
+        armor-class = {16 (cotta di maglia, scudo)},
+        hit-points  = {\DndDice{10d8 + 20}},
+        speed       = {9 m},
+      ]
 
-\textbf{FOR} 13 (+1) \quad \textbf{DES} 10 (+0) \quad \textbf{COS} 14 (+2) \quad \textbf{INT} 12 (+1) \quad \textbf{SAG} 16 (+3) \quad \textbf{CAR} 15 (+2)
+    \DndMonsterAbilityScores[
+        str = 13, dex = 10, con = 14, int = 12, wis = 16, cha = 15,
+      ]
 
-\textbf{Tiri Salvezza} Saggezza +6, Carisma +5 \quad \textbf{Abilità} Religione +4, Intuizione +6, Persuasione +5 \quad \textbf{Sensi} Percezione passiva 13 \quad \textbf{Linguaggi} Comune, Celestiale \quad \textbf{GS} 3 (700 PE)
+    \DndMonsterDetails[
+        saving-throws = {Sag +6, Car +5},
+        skills = {Religione +4, Intuizione +6, Persuasione +5},
+        senses = {Percezione passiva 13},
+        languages = {Comune, Celestiale},
+        challenge = 3,
+      ]
 
-\textit{Incantatrice.} Incantatrice di 6° livello (CD 14, +6 per colpire). Prepara: trucchetti \textit{fiamma sacra}, \textit{resistenza}, \textit{luce}; 1° livello (4 slot) \textit{comando}, \textit{cura ferite}, \textit{scudo della fede}; 2° livello (3 slot) \textit{arma spirituale}, \textit{mani risananti}; 3° livello (2 slot) \textit{dissolvi magie}, \textit{luce del giorno}.
+    \DndMonsterAction{Incantatrice}
+    Thessaly è un'incantatrice di 6° livello (CD 14, +6 per colpire con incantesimi). Ha preparato i seguenti incantesimi da chierico:
+    \begin{DndMonsterSpells}
+      \DndMonsterSpellLevel{fiamma sacra, resistenza, luce}
+      \DndMonsterSpellLevel[1][4]{comando, cura ferite, scudo della fede}
+      \DndMonsterSpellLevel[2][3]{arma spirituale, mani risananti}
+      \DndMonsterSpellLevel[3][2]{dissolvi magie, luce del giorno}
+    \end{DndMonsterSpells}
 
-\textit{Zelo Incorrotto.} Vantaggio ai tiri salvezza contro essere spaventata o affascinata.
+    \DndMonsterAction{Zelo Incorrotto}
+    Thessaly ha vantaggio ai tiri salvezza contro essere spaventata o affascinata.
 
-\textit{Multiattacco.} Due attacchi con la mazza chiodata.
+    \DndMonsterSection{Azioni}
 
-\textit{Mazza Chiodata.} Attacco da mischia: +3, portata 1,5 m. \textit{Colpito:} 5 (1d8+1) contundenti.
+    \DndMonsterAction{Multiattacco}
+    Thessaly effettua due attacchi con la mazza chiodata.
 
-\textit{Arma Spirituale (azione bonus).} Spada di luce dorata entro 9 m: +6 per colpire. \textit{Colpito:} 8 (1d8+4) radiosi.
+    \DndMonsterAction{Mazza Chiodata}
+    Attacco con Arma da Mischia: +3 per colpire, portata 1,5 m, un bersaglio. \textit{Colpito:} 5 (1d8+1) danni contundenti.
 
-\subsection*{Nyx Kelvorn (Agente Ombra del Velo)}
-\textit{Umano toccato dall'ombra di taglia media, neutrale malvagio}
+    \DndMonsterAction{Arma Spirituale (azione bonus)}
+    Evoca una spada di luce dorata che attacca un bersaglio entro 9 m.
 
-\textbf{CA} 15 (cuoio borchiato) \quad \textbf{PF} 52 (8d8+16) \quad \textbf{Velocità} 9 m
+    \DndMonsterAction{Arma Spirituale}
+    Attacco con Arma da Mischia: +6 per colpire, portata 9 m, un bersaglio. \textit{Colpito:} 8 (1d8+4) danni radiosi.
+  \end{multicols}
+\end{DndMonster}
 
-\textbf{FOR} 10 (+0) \quad \textbf{DES} 18 (+4) \quad \textbf{COS} 14 (+2) \quad \textbf{INT} 13 (+1) \quad \textbf{SAG} 12 (+1) \quad \textbf{CAR} 14 (+2)
+\begin{DndMonster}[float*=b,width=\textwidth + 8pt]{Nyx Kelvorn}
+  \begin{multicols}{2}
+    \DndMonsterType{Umano toccato dall'ombra di taglia media, neutrale malvagio}
 
-\textbf{Tiri Salvezza} Destrezza +7, Intelligenza +4 \quad \textbf{Abilità} Furtività +10, Inganno +5, Percezione +4 \quad \textbf{Resistenze} necrotico \quad \textbf{Sensi} scurovisione 36 m, Percezione passiva 14 \quad \textbf{Linguaggi} Comune, Netherese arcaico \quad \textbf{GS} 4 (1.100 PE)
+    \DndMonsterBasics[
+        armor-class = {15 (cuoio borchiato)},
+        hit-points  = {\DndDice{8d8 + 16}},
+        speed       = {9 m},
+      ]
 
-\textit{Passo d'Ombra (azione bonus).} Teletrasporto fino a 9 m in un'area d'ombra o oscurità non magica visibile.
+    \DndMonsterAbilityScores[
+        str = 10, dex = 18, con = 14, int = 13, wis = 12, cha = 14,
+      ]
 
-\textit{Figlio della Città delle Ombre.} Vantaggio ai tiri salvezza contro essere accecato.
+    \DndMonsterDetails[
+        saving-throws = {Des +7, Int +4},
+        skills = {Furtività +10, Inganno +5, Percezione +4},
+        damage-resistances = {necrotico},
+        senses = {scurovisione 36 m, Percezione passiva 14},
+        languages = {Comune, Netherese arcaico},
+        challenge = 4,
+      ]
 
-\textit{Multiattacco.} Due attacchi con il pugnale d'ombra.
+    \DndMonsterAction{Passo d'Ombra (azione bonus)}
+    Nyx si teletrasporta fino a 9 m in un'area d'ombra o oscurità non magica che può vedere.
 
-\textit{Pugnale d'Ombra.} Mischia o distanza: +7, portata 1,5 m o gittata 6/18 m. \textit{Colpito:} 7 (1d4+4) perforanti più 7 (2d6) necrotici.
+    \DndMonsterAction{Figlio della Città delle Ombre}
+    Nyx ha vantaggio ai tiri salvezza contro essere accecato.
 
-\textit{Avvolgere nell'Oscurità (1/giorno).} Come l'incantesimo \textit{oscurità}, senza componenti materiali.
+    \DndMonsterSection{Azioni}
 
-\subsection*{Zelota dell'Alba}
-\textit{Umano di taglia media, legale neutrale} --- \textbf{CA} 14 \quad \textbf{PF} 22 (4d8+4) \quad \textbf{Velocità} 9 m
+    \DndMonsterAction{Multiattacco}
+    Nyx effettua due attacchi con il pugnale d'ombra.
 
-FOR 13 (+1), DES 12 (+1), COS 12 (+1), INT 10 (+0), SAG 13 (+1), CAR 11 (+0) \quad \textbf{Abilità} Religione +2 \quad \textbf{GS} 1/2 (100 PE)
+    \DndMonsterMelee[
+      name = Pugnale~d'Ombra,
+      mod = +7,
+      range = 6/18,
+      dmg = \DndDice{1d4+4},
+      dmg-type = perforanti,
+      plus-dmg = \DndDice{2d6},
+      plus-dmg-type = necrotici,
+    ]
 
-\textit{Martello da Guerra.} +3 per colpire. \textit{Colpito:} 6 (1d8+2) contundenti.
+    \DndMonsterAction{Avvolgere nell'Oscurità (1/giorno)}
+    Come l'incantesimo \textit{oscurità}, senza componenti materiali.
+  \end{multicols}
+\end{DndMonster}
 
-\textit{Raggio di Luce (1/riposo breve).} Gittata 18 m: +3 per colpire. \textit{Colpito:} 9 (2d8) radiosi.
+\begin{DndMonster}[float=!b,width=\columnwidth]{Zelota dell'Alba}
+  \DndMonsterType{Umano di taglia media, legale neutrale}
 
-\subsection*{Agente Ombra del Velo}
-\textit{Umano di taglia media, neutrale malvagio} --- \textbf{CA} 13 \quad \textbf{PF} 16 (3d8+3) \quad \textbf{Velocità} 9 m
+  \DndMonsterBasics[
+      armor-class = {14 (cotta di maglia leggera)},
+      hit-points  = {\DndDice{4d8 + 4}},
+      speed       = {9 m},
+    ]
 
-FOR 10 (+0), DES 15 (+2), COS 12 (+1), INT 11 (+0), SAG 12 (+1), CAR 10 (+0) \quad \textbf{Abilità} Furtività +6, Rapidità di Mano +4 \quad \textbf{GS} 1/4 (50 PE)
+  \DndMonsterAbilityScores[
+      str = 13, dex = 12, con = 12, int = 10, wis = 13, cha = 11,
+    ]
 
-\textit{Pugnale.} +4 per colpire. \textit{Colpito:} 5 (1d4+2) perforanti.
+  \DndMonsterDetails[
+      skills = {Religione +2},
+      challenge = {1/2},
+    ]
 
-\textit{Attacco Furtivo (1/turno).} +2d6 danni con vantaggio, o se un alleato è entro 1,5 m dal bersaglio.
+  \DndMonsterSection{Azioni}
+
+  \DndMonsterAction{Martello da Guerra}
+  Attacco con Arma da Mischia: +3 per colpire, portata 1,5 m, un bersaglio. \textit{Colpito:} 6 (1d8+2) danni contundenti.
+
+  \DndMonsterAction{Raggio di Luce (1/riposo breve)}
+
+  \DndMonsterAction{Raggio di Luce}
+  Attacco a Distanza: +3 per colpire, gittata 18 m, un bersaglio. \textit{Colpito:} 9 (2d8) danni radiosi.
+\end{DndMonster}
+
+\begin{DndMonster}[float=!b,width=\columnwidth]{Agente Ombra del Velo}
+  \DndMonsterType{Umano di taglia media, neutrale malvagio}
+
+  \DndMonsterBasics[
+      armor-class = {13 (cuoio)},
+      hit-points  = {\DndDice{3d8 + 3}},
+      speed       = {9 m},
+    ]
+
+  \DndMonsterAbilityScores[
+      str = 10, dex = 15, con = 12, int = 11, wis = 12, cha = 10,
+    ]
+
+  \DndMonsterDetails[
+      skills = {Furtività +6, Rapidità di Mano +4},
+      challenge = {1/4},
+    ]
+
+  \DndMonsterSection{Azioni}
+
+  \DndMonsterAction{Pugnale}
+  Attacco con Arma da Mischia o a Distanza: +4 per colpire, portata 1,5 m o gittata 6/18 m, un bersaglio. \textit{Colpito:} 5 (1d4+2) danni perforanti.
+
+  \DndMonsterAction{Attacco Furtivo (1/turno)}
+  +2d6 danni se l'agente ha vantaggio al tiro per colpire, o se un alleato è entro 1,5 m dal bersaglio.
+\end{DndMonster}
