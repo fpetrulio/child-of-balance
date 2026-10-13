@@ -10,7 +10,18 @@ Le sei Impronte di Eos, prima di essere reliquie, sono oggetti semplici e comuni
 
 Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione (un vero ingaggio, non una scelta spontanea) — diventando quindi parte della scena della nascita non per curiosità personale, ma per lavoro. I sei racconti, confrontati fra loro più avanti nella campagna (dopo il Limbo, Downtime II), formano un quadro coerente: lo stesso uomo, visto da sei angolazioni diverse, non più vecchio in nessuna di esse nonostante il tempo passato fra una visita e l'altra.
 
-## 1. I sei incarichi
+**Tabella di riferimento rapido — Le Sei Custodie**
+
+| Reliquia futura | Organizzazione | Luogo | PNG | Oggetto (prima della nascita) |
+|---|---|---|---|---|
+| Cuore Bicolore | Fratelli del Tiglio Quieto | Sundabar | Fratello Osvaldo Tegan | Coppa di tiglio intagliata |
+| Velo Strappato | Sorelle del Passo Silenzioso | Moro Alto (rovine di Miyeritar) | Decana Yllestra Vane (+ Sael) | Stola di lana grezza |
+| Specchio Incrinato | Collegio dei Vetrai di Verità | Silverymoon | Perrin Oakhollow | Lastra di vetro opaco |
+| Seme di Tempesta | Guardiani del Frutteto Eterno | Loudwater, Delimbiyr Vale | Haldor Vinesong | Seme mai germinato |
+| Tamburo Silenzioso | Confraternita del Passo Fermo | Moon Pass, Nether Mountains | Dessa Kragan | Tamburo da mano |
+| Radice Incantata | Custodi del Giardino Sommerso | Mornbryn's Shield, Surbrin | Arcidruido Maela Thistlewood | Radice contorta |
+
+## 1. I sei incarichi (dettaglio)
 
 ### 1.1 — Il Cuore Bicolore: Fratelli del Tiglio Quieto
 
@@ -206,43 +217,51 @@ I veri padroni dei due culti restano segreti (DEC-0035) — quanto segue riguard
 
 **Garrick e Wren Alderleaf** — una giovane coppia umana di un villaggio ai margini della High Forest, contadini, assolutamente ordinari. Non sanno di discendere dalla stirpe del primo Eos (DEC-0052) finché Fendrel e il circolo non li raggiungono, mesi prima, con una richiesta che li ha lasciati confusi e spaventati: venire al Santuario per il parto di Wren, "per ragioni che diventeranno chiare." Entrambi muoiono nell'assalto, vittime come altri membri del circolo — non per un motivo mistico legato alla nascita, semplicemente nel posto sbagliato nel momento sbagliato.
 
-## 5. La scena: prosa del prologo
+## 5. La scena: il Santuario dei Grigi
 
-### 5.1 Arrivo e presagi
+**Panoramica per il GM**: i PG arrivano, assistono alla nascita, ricevono un estratto della profezia da Fendrel, e devono fuggire quando il Santuario viene assalito da entrambi i culti in contemporanea. Non è una sola stanza da descrivere: è un piccolo sito con cinque zone (mappa DA FARE, vedi §6), ciascuna rilevante in un momento diverso della scena. L'assalto (§5.6) non è legato a una sola zona: si muove attraverso tutte.
 
-I sei PG arrivano al Santuario dei Grigi nell'arco della stessa giornata, ciascuno dalla propria direzione, ciascuno scortando il proprio incarico (§1). Non è un caso che convergano insieme: nelle ultime settimane Fendrel ha inviato discreti messaggeri a tutte le organizzazioni che sapeva custodire un dono del "Viandante" (con nomi diversi per ciascuna) — senza spiegare perché, solo con urgenza. Chi non ha ricevuto un messaggero diretto (es. i PG il cui PNG ha agito di propria iniziativa sulla base di un presagio) arriva comunque nello stesso finestra temporale, parte dello stesso schema più grande.
+### Zona 1 — Il Sentiero dei Pellegrini
 
-**[Leggi ad alta voce]**
+Il percorso di accesso alla radura, l'ultimo tratto di foresta prima del Santuario. È qui che ciascun PG arriva, dalla propria direzione, con il proprio incarico.
 
-> *La High Forest si chiude intorno al sentiero come un sipario verde, e per le ultime due ore non avete incrociato altro che il canto di uccelli che non riconoscete. Poi, senza preavviso, gli alberi si diradano in una radura bassa, cinta da pietre grigie coperte di muschio antico — non rovine, non esattamente: più come se la pietra stessa fosse cresciuta lì, piano, insieme alla foresta. Al centro, un albero enorme, il tronco diviso in due branche gemelle che si inarcano senza toccarsi mai, come due mani che non osano stringersi. Una sorgente scorre silenziosa ai suoi piedi. Druidi in vesti grigio-verdi si muovono fra le pietre con un'urgenza contenuta, a stento mascherata da normalità. Uno di loro — alto, con un bastone di quercia consumato e un anello di ferro annerito — si volta verso di voi prima ancora che possiate chiamare, come se vi stesse aspettando da ore.*
+**Lettura**
 
-Fendrel riconosce ogni PG per l'oggetto che porta (anche senza che venga mostrato) e li accoglie per nome o per organizzazione di provenienza, con un sollievo che non nasconde del tutto: «Siete arrivati. Bene. Restate — stanotte avrete bisogno di essere qui.» Non spiega altro, per ora, se non interrogato direttamente: in quel caso, risponde con onestà parziale — "una nascita importante, stanotte, forse domani" — senza nominare Eos, la profezia, o i culti.
+> *La High Forest si apre in una radura bassa, cinta da pietre grigie coperte di muschio antico. Druidi in vesti grigio-verdi si muovono fra le pietre con un'urgenza contenuta, a stento mascherata da normalità. Uno di loro, alto, un bastone di quercia consumato in mano, si volta verso il sentiero ancora prima che chiunque chiami.*
 
-**Presagi notturni (prima della nascita)**: nei giorni precedenti l'arrivo dei PG, e culminando la notte stessa, il Santuario ha visto segni che nessun druido ricorda di aver visto prima: un'aurora boreale innaturale visibile anche a quella latitudine, colorata di oro e viola insieme; gli animali della foresta (anche predatori) radunati in cerchi silenziosi intorno alla radura, senza aggredirsi fra loro; i fiori dell'albero gemello sbocciano fuori stagione, metà dorati e metà neri. I PG possono notare questi segni arrivando, o vederli culminare durante la notte della nascita stessa.
+È Fendrel Greyoak (§4) ad accogliere ogni PG, riconoscendolo dall'oggetto che porta anche senza che venga mostrato: «Siete arrivati. Bene. Restate — stanotte avrete bisogno di essere qui.» Non spiega altro se non interrogato: in quel caso risponde con onestà parziale — "una nascita importante, stanotte" — senza nominare Eos, la profezia, o i culti. Nelle settimane precedenti ha inviato discreti messaggeri a tutte le organizzazioni custodi di un dono del "Viandante" (con nomi diversi per ciascuna); chi non ha ricevuto un messaggero diretto arriva comunque nella stessa finestra temporale, richiamato dal proprio presagio.
 
-### 5.2 La nascita
+### Zona 2 — La Radura e l'Albero Gemello
 
-Wren Alderleaf entra in travaglio quella notte stessa — un parto normale nella sua meccanica (nessun prodigio nell'atto in sé, coerente con DEC-0052), ma circondato da un'attesa che pesa nell'aria. I PG, in quanto ospiti/scorte di fiducia, sono ammessi a restare nei pressi (non necessariamente nella tenda del parto stessa, a discrezione del gruppo e del GM) — abbastanza vicini da essere testimoni diretti di quello che segue.
+Il cuore del Santuario: un albero enorme, il tronco diviso in due branche gemelle che si inarcano senza toccarsi mai, come due mani che non osano stringersi, con una sorgente silenziosa ai suoi piedi. Alla base dell'albero, un modesto altare di pietra non lavorata regge il frammento di legno di cuore che diventerà il Cuore Bicolore — offerta cerimoniale per la nascita imminente, non ancora una reliquia.
 
-**[Leggi ad alta voce]**
+Qui si concentrano i presagi: nei giorni precedenti, culminando la notte dell'arrivo dei PG, un'aurora innaturale colora il cielo d'oro e viola insieme; animali della foresta, anche predatori, si radunano in cerchi silenziosi senza aggredirsi; i fiori dell'albero sbocciano fuori stagione, metà dorati e metà neri.
 
-> *Il grido di un neonato squarcia la notte — e nello stesso istante, l'aurora sopra la radura si piega, per un solo battito di cuore, in due direzioni opposte: oro verso est, viola verso ovest, come se il cielo stesso avesse trattenuto il fiato e ora lo rilasciasse. I druidi intorno a voi cadono in ginocchio, alcuni in lacrime, nessuno in grado di spiegare perché. Fendrel esce dalla tenda con un fagotto fra le braccia, il volto di chi ha appena visto qualcosa che aspettava da tutta la vita — e che non sa ancora se sia una benedizione o una condanna.*
+### Zona 3 — La Tenda del Parto
 
-Il bambino è sano, piccolo, in apparenza del tutto normale — tranne per gli occhi, che alcuni PG particolarmente attenti (Percezione passiva alta, o un check esplicito) notano cambiare colore per un istante, da un grigio neutro a un riflesso dorato-violaceo, prima di tornare normali. Nessun PNG presente lo commenta ad alta voce; è troppo presto, e troppo carico di significato non detto.
+Un semplice ricovero di pelli e rami intrecciati, appena fuori dalla radura principale. Qui Wren Alderleaf partorisce quella notte stessa — un parto normale nella sua meccanica (nessun prodigio nell'atto in sé, DEC-0052), circondato però da un'attesa che pesa nell'aria. I PG, in quanto ospiti di fiducia, possono restare nei pressi (a discrezione del gruppo), abbastanza vicini da essere testimoni diretti.
 
-### 5.3 La rivelazione e l'inizio dell'assalto
+**Lettura**
 
-Fendrel porta il neonato ai PG direttamente, un momento prima che tutto precipiti.
+> *Il grido di un neonato squarcia la notte. Per un solo battito di cuore, l'aurora sopra la radura si piega in due direzioni opposte: oro a est, viola a ovest. I druidi presenti cadono in ginocchio, alcuni in lacrime, nessuno capace di spiegare perché. Fendrel esce dalla tenda con un fagotto fra le braccia.*
 
-**[Leggi ad alta voce]**
+Il bambino è sano, piccolo, in apparenza del tutto normale — tranne per gli occhi, che un PG attento (Percezione passiva alta, o una prova esplicita) nota cambiare colore per un istante, da grigio neutro a un riflesso dorato-violaceo, prima di tornare normali. Nessun PNG presente lo commenta ad alta voce.
 
-> *«Ascoltatemi, e ascoltatemi bene, perché non avrò il tempo di ripetermi.» La voce di Fendrel trema, non di paura — di urgenza. «Esiste un canto antico, custodito da questo circolo da prima che io nascessi. Parla di un seme che torna a respirare, e di chi lo cercherà per guidarlo, per spegnerlo, per possederlo. Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io, non del tutto. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi. Non so perché. Non so se è giusto chiedervelo. Ma ve lo chiedo comunque.»*
+### Zona 4 — Il Circolo di Pietre
 
-Nell'istante stesso in cui Fendrel finisce di parlare, le prime urla si alzano dal limite della radura — i "pellegrini" della Fratellanza del Sole Glorioso, in realtà la squadra di Thessaly Dawnbreaker (§3), gettano via i mantelli dorati e caricano. Il caos del loro assalto è immediatamente sfruttato dagli agenti infiltrati di Nyx Kelvorn, già mescolati fra i presenti da giorni, che colpiscono dall'interno — nessuna delle due fazioni collabora con l'altra, ma nessuna esita a usare la confusione causata dall'altra a proprio vantaggio.
+L'anello di pietre muschiate dove vive il resto della comunità druidica: tende, un piccolo erbario, una forgia fredda per gli attrezzi. È qui che Fendrel, appena uscito dalla Zona 3, raggiunge i PG per la rivelazione — ed è qui che l'assalto li coglie.
 
-Fendrel spinge il neonato fra le braccia del PG più vicino. «Andate. ORA.» — e si volta a sbarrare il passo a due assalitori dell'Alba, guadagnando ai PG i secondi necessari per orientarsi. Muore lì, pochi istanti dopo, senza che i PG possano intervenire in tempo per salvarlo (a meno che non scelgano esplicitamente di provarci, pagando un costo narrativo/tattico reale per farlo — vedi §5.4, scelte).
+**Fendrel parla** (dialogo del PNG, non box di lettura: lasciare che i giocatori interrompano con domande — Fendrel risponde quanto può, brevemente, prima che le urla della Zona 5 lo zittiscano):
 
-### 5.4 La fuga: scelte e distribuzione delle reliquie
+> «Ascoltatemi, perché non avrò il tempo di ripetermi. Esiste un canto antico, custodito da questo circolo da prima che io nascessi. Parla di un seme che torna a respirare, e di chi lo cercherà per guidarlo, per spegnerlo, per possederlo. Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi.»
+
+Nell'istante in cui Fendrel finisce di parlare, le prime urla si alzano dalla Zona 5 — l'assalto comincia (§5.6). Fendrel spinge il neonato fra le braccia del PG più vicino («Andate. ORA.») e si volta a sbarrare il passo a due assalitori, guadagnando ai PG i secondi necessari per orientarsi. Muore lì poco dopo, senza che i PG possano intervenire in tempo — a meno che non scelgano esplicitamente di provarci, pagando un costo tattico reale (§5.7).
+
+### Zona 5 — I Margini del Bosco
+
+Il limite esterno della radura, dove il sentiero d'accesso incontra la foresta fitta. Qui hanno campeggiato, nei giorni precedenti, i finti "pellegrini" della Fratellanza del Sole Glorioso — in realtà la squadra di Thessaly Dawnbreaker (§3) — e qui si innesca l'assalto, quando gettano via i mantelli dorati e caricano verso il centro del Santuario.
+
+### 5.6 L'assalto
 
 Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile di petto (architettura-campagna.md §4-5). L'obiettivo non è annientare gli assalitori, è portare in salvo Eos, se stessi, e il più possibile di persone/prove/conoscenza — con scelte reali su cosa è raggiungibile e cosa no.
 
@@ -259,10 +278,12 @@ Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile
 
 **Esiti divergenti**: il Capitolo 1 non ha un'unica fuga "corretta". Le scelte dei PG determinano quante persone sopravvivono, quali reliquie restano a portata (nessuna, salvo lo Specchio Incrinato, è obbligatoriamente persa o salvata), e con quale margine lasciano il Santuario. Questo apre naturalmente a conseguenze diverse più avanti (chi altro sopravvive per essere un futuro PNG, quanto rapidamente i culti consolidano la propria reliquia, ecc.) — nessuna di queste va fissata ora, vanno tracciate in base a cosa accade realmente al tavolo.
 
-### 5.5 Esito
+### 5.7 Esito
 
 I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo si chiude non con una vittoria, ma con la responsabilità appena iniziata: dirigersi verso un rifugio sicuro (un'altra comunità druidica/affine, DA DEFINIRE in dettaglio per il Downtime I) per cominciare, senza sapere bene cosa li aspetta, a crescere un bambino che nessuno di loro capisce davvero.
 
-## 6. Stato del documento
+## 7. Stato del documento
 
-DA FARE: mappa del Santuario dei Grigi; statblock di Thessaly Dawnbreaker, Nyx Kelvorn e dei loro seguaci (livello 1-3, DEC-0051); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
+**Convenzioni di scrittura adottate (13/10/2026)**, verificate su guida ufficiale D&D Beyond ("Let's Design an Adventure", Shawn Merwin): i box di lettura (**Lettura**) sono in terza persona, mai "voi" — descrivono solo ciò che i personaggi possono percepire, restano sotto le 100 parole/4 frasi; il dialogo dei PNG (come Fendrel in Zona 4) è un box separato, non una "Lettura" scenica, e va lasciato interrompibile dai giocatori; la struttura segue zone di mappa numerate (`\DndArea`/`\DndSubArea` nel template LaTeX), non beat narrativi lineari.
+
+DA FARE: mappa del Santuario dei Grigi (le 5 zone sopra); statblock di Thessaly Dawnbreaker, Nyx Kelvorn e dei loro seguaci (livello 1-3, DEC-0051, formato 5e standard); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
