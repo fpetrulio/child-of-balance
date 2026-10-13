@@ -282,8 +282,93 @@ Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile
 
 I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo si chiude non con una vittoria, ma con la responsabilità appena iniziata: dirigersi verso un rifugio sicuro (un'altra comunità druidica/affine, DA DEFINIRE in dettaglio per il Downtime I) per cominciare, senza sapere bene cosa li aspetta, a crescere un bambino che nessuno di loro capisce davvero.
 
+## 6. Statblock (formato 5e 2014 standard)
+
+**Nota di bilanciamento per il GM**: questi avversari NON sono pensati per uno scontro bilanciato contro un gruppo di livello 1-3 — sono deliberatamente "soverchianti" (architettura-campagna.md §4-5): il loro ruolo è rendere evidente, entro un paio di round, che la fuga è l'unica opzione sensata, non offrire un combattimento vincibile di petto. Usarli per creare pressione, inseguimento e scelte tattiche (chi/cosa salvare), non per un vero "boss fight".
+
+### Thessaly Dawnbreaker (Sunmaster Rinnegata)
+
+*Umano di taglia media, legale neutrale*
+
+- **Classe Armatura** 16 (cotta di maglia, scudo)
+- **Punti Ferita** 65 (10d8 + 20)
+- **Velocità** 9 m
+
+| FOR | DES | COS | INT | SAG | CAR |
+|---|---|---|---|---|---|
+| 13 (+1) | 10 (+0) | 14 (+2) | 12 (+1) | 16 (+3) | 15 (+2) |
+
+- **Tiri Salvezza** Saggezza +6, Carisma +5
+- **Abilità** Religione +4, Intuizione +6, Persuasione +5
+- **Sensi** Percezione passiva 13
+- **Linguaggi** Comune, Celestiale
+- **Grado di Sfida** 3 (700 PE)
+
+***Incantatrice.*** Thessaly è un'incantatrice di 6° livello (CD tiro salvezza incantesimi 14, +6 per colpire con incantesimi). Ha preparato: trucchetti (a volontà) *fiamma sacra*, *resistenza*, *luce*; 1° livello (4 slot) *comando*, *cura ferite*, *scudo della fede*; 2° livello (3 slot) *arma spirituale*, *mani risananti*; 3° livello (2 slot) *dissolvi magie*, *luce del giorno*.
+
+***Zelo Incorrotto.*** Vantaggio ai tiri salvezza contro essere spaventata o affascinata.
+
+***Multiattacco.*** Thessaly effettua due attacchi con la mazza chiodata.
+
+***Mazza Chiodata.*** Attacco con arma da mischia: +3 per colpire, portata 1,5 m. *Colpito:* 5 (1d8+1) danni contundenti.
+
+***Arma Spirituale (incantesimo, azione bonus).*** Evoca una spada di luce dorata che attacca un bersaglio entro 9 m: +6 per colpire. *Colpito:* 8 (1d8+4) danni radiosi.
+
+### Nyx Kelvorn (Agente Ombra del Velo)
+
+*Umano (toccato dall'ombra) di taglia media, neutrale malvagio*
+
+- **Classe Armatura** 15 (cuoio borchiato)
+- **Punti Ferita** 52 (8d8 + 16)
+- **Velocità** 9 m
+
+| FOR | DES | COS | INT | SAG | CAR |
+|---|---|---|---|---|---|
+| 10 (+0) | 18 (+4) | 14 (+2) | 13 (+1) | 12 (+1) | 14 (+2) |
+
+- **Tiri Salvezza** Destrezza +7, Intelligenza +4
+- **Abilità** Furtività +10, Inganno +5, Percezione +4
+- **Resistenze ai danni** necrotico
+- **Sensi** scurovisione 36 m, Percezione passiva 14
+- **Linguaggi** Comune, Netherese (arcaico)
+- **Grado di Sfida** 4 (1.100 PE)
+
+***Passo d'Ombra (azione bonus).*** Nyx si teletrasporta fino a 9 m in un'area d'ombra o oscurità non magica che può vedere.
+
+***Figlio della Città delle Ombre.*** Vantaggio ai tiri salvezza contro essere accecato.
+
+***Multiattacco.*** Nyx effettua due attacchi con il pugnale d'ombra.
+
+***Pugnale d'Ombra.*** Attacco con arma da mischia o a distanza: +7 per colpire, portata 1,5 m o gittata 6/18 m. *Colpito:* 7 (1d4+4) danni perforanti più 7 (2d6) danni necrotici.
+
+***Avvolgere nell'Oscurità (incantesimo, 1/giorno).*** Come l'incantesimo *oscurità*, senza componenti materiali.
+
+### Zelota dell'Alba (x3-4, i "fedeli" della squadra di Thessaly)
+
+*Umano di taglia media, legale neutrale*
+
+- **CA** 14 (cotta di maglia leggera) · **PF** 22 (4d8+4) · **Velocità** 9 m
+- FOR 13 (+1), DES 12 (+1), COS 12 (+1), INT 10 (+0), SAG 13 (+1), CAR 11 (+0)
+- **Abilità** Religione +2 · **GS** 1/2 (100 PE)
+
+***Martello da Guerra.*** +3 per colpire. *Colpito:* 6 (1d8+2) danni contundenti.
+
+***Raggio di Luce (1/riposo breve).*** Raggio radioso, gittata 18 m: +3 per colpire. *Colpito:* 9 (2d8) danni radiosi.
+
+### Agente Ombra del Velo (x2-3, gli infiltrati di Nyx)
+
+*Umano di taglia media, neutrale malvagio*
+
+- **CA** 13 (cuoio) · **PF** 16 (3d8+3) · **Velocità** 9 m
+- FOR 10 (+0), DES 15 (+2), COS 12 (+1), INT 11 (+0), SAG 12 (+1), CAR 10 (+0)
+- **Abilità** Furtività +6, Rapidità di Mano +4 · **GS** 1/4 (50 PE)
+
+***Pugnale.*** +4 per colpire. *Colpito:* 5 (1d4+2) danni perforanti.
+
+***Attacco Furtivo (1/turno).*** +2d6 danni se l'agente ha vantaggio al tiro per colpire, o se un alleato dell'agente è entro 1,5 m dal bersaglio.
+
 ## 7. Stato del documento
 
 **Convenzioni di scrittura adottate (13/10/2026)**, verificate su guida ufficiale D&D Beyond ("Let's Design an Adventure", Shawn Merwin): i box di lettura (**Lettura**) sono in terza persona, mai "voi" — descrivono solo ciò che i personaggi possono percepire, restano sotto le 100 parole/4 frasi; il dialogo dei PNG (come Fendrel in Zona 4) è un box separato, non una "Lettura" scenica, e va lasciato interrompibile dai giocatori; la struttura segue zone di mappa numerate (`\DndArea`/`\DndSubArea` nel template LaTeX), non beat narrativi lineari.
 
-DA FARE: mappa del Santuario dei Grigi (le 5 zone sopra); statblock di Thessaly Dawnbreaker, Nyx Kelvorn e dei loro seguaci (livello 1-3, DEC-0051, formato 5e standard); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
+DA FARE: mappa del Santuario dei Grigi (le 5 zone sopra); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
