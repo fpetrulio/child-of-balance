@@ -179,6 +179,7 @@ PRECISAZIONE — Non è stata scartata la battaglia iniziale spettacolare; riman
 | DEC-0053 | 2026-10-13 CONFERMATO (Gate E) | Diffusione del Canto del Seme Velato: composto/ricevuto dal primo Eos prima di scegliere la morte, affidato al proprio circolo druidico come mandato sacro. I culti non hanno il testo originale — ciascuno ha costruito una propria lettura parziale e distorta da tradizioni indipendenti che nei secoli hanno registrato frammenti della stessa verità (presagi astronomici di Amaunator per l'Alba Incorrotta, lore ombra netherese per il Velo), spiegando perché le loro interpretazioni divergano pur rispondendo allo stesso evento. I PG ricevono dai druidi solo l'estratto rilevante al proprio mandato, non il testo integrale. Presentazione in sessione: recitata incompleta da un druido in fuga/morente durante la fuga del Capitolo 1; il testo integrale resta una scoperta successiva eventuale. Dettagli in [The Prophetic Song](./the-prophetic-song.md). |
 | DEC-0054 | 2026-10-13 CONFERMATO (Gate E) | Geografia canonica verificata via web: il santuario della nascita è nella High Forest (foresta antica reale, confina con Anauroch). Correzione di lore: Thultanthar NON è più esiliata nel Piano d'Ombra — è tornata sul Piano Materiale nel 1372 DR come "Città delle Ombre" sopra il deserto di Anauroch, confine orientale della stessa High Forest; le cellule rinnegate del Velo operano lì, contro la politica ufficiale della propria città, non nascoste in un altro piano (supersede la dicitura precedente in DEC-0035 e nel manuale). Precisazione sull'Alba Incorrotta: i Sunmaster sono ora un ramo ufficialmente riconciliato della chiesa di Lathander stessa ("Brotherhood of the Glorious Sun") — l'Alba è uno scisma dall'interno di quella chiesa, non da estranei; Elversult (Dragon Coast) come possibile terreno ideologico/di reclutamento. Dettagli in [Characters & Factions §3-5](./characters-and-factions.md). |
 | DEC-0055 | 2026-10-13 CONFERMATO (Gate E) | Cronologia canonica, verificata via web: il presente della campagna è il 1492 DR (standard 5e, dopo il Secondo Rimescolamento). Il primo Eos muore nel -339 DR (Anno delle Ragnatele Spezzate, caduta di Netheril/Follia di Karsus) — oltre 1800 anni prima, abbastanza antico da rendere la sua conoscenza quasi del tutto perduta, ma nello stesso istante storico in cui: il culto di Amaunator (ancora dominante, non rimpiazzato da Lathander) lo conosceva direttamente, dando all'Alba Incorrotta un know-how ancestrale genuino; gli Shadovar si ritirarono nel Piano d'Ombra portando con sé la stessa conoscenza, preservata nell'isolamento fino al ritorno del 1372 DR (DEC-0054), dando al Velo dell'Ultima Quiete il proprio know-how ancestrale. Il nuovo Eos cresce molto più in fretta di un umano: da neonato ad adolescente in non più di 3 anni — un segnale fisico vistoso della sua natura non del tutto umana, visibile ai PG ben prima di qualsiasi manifestazione magica. Comprime il Downtime I a circa 3 anni di tempo reale. Dettagli in [Characters & Factions §1](./characters-and-factions.md). |
+| DEC-0056 | 2026-10-13 CONFERMATO (Gate E) | Risolve la domanda aperta dal 9 ottobre in `architettura-campagna.md` §8 (che tipo di controllo ha il culto vincente su Eos al Capitolo IV): meccanismo asimmetrico legato al ramo preso ai Capitoli 1-2. La crisi del Limbo/Cripta del Debito pianta dubbio specificamente sull'Assoluto ORIGINALE di Eos (quello verso cui i PG/custodi lo hanno orientato) — uscendone, Eos è curioso del polo OPPOSTO, non ancora provato. In Downtime II, la fazione opposta al ramo originale ottiene quindi la prima occasione di aderenza VOLONTARIA per curiosità (modello C di §8); la fazione originale, avendo perso la presa ideologica, deve invece SOTTOMETTERLO con la forza, usando il proprio know-how ancestrale (DEC-0055) ed eventualmente le reliquie (modello A/B di §8). Se ramo Bene (Limbo): il Velo ha la prima occasione di curiosità, l'Alba deve sottomettere. Se ramo Male (Cripta del Debito): l'Alba ha la prima occasione di curiosità, il Velo deve sottomettere. Il modello di controllo finale (§8) è quindi un ibrido dipendente dal ramo, non fisso. Dettagli in [Campaign Bible §39](#39-gate-d--diagramma-degli-stati-di-eos-scelte-dei-pg-conseguenze-13-ottobre-2026) (diagramma aggiornato) e [Characters & Factions §4-5](./characters-and-factions.md) (Piani B precisati). |
 
 Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le decisioni narrative sono antecedenti.
 
@@ -198,6 +199,14 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 ## 14. Principio operativo
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
+
+## 47. Gate E — chi controlla Eos al Capitolo IV, e come (13 ottobre 2026)
+
+Sessione di design diretta con l'autore, dettagli completi in [Campaign Bible §39](#39-gate-d--diagramma-degli-stati-di-eos-scelte-dei-pg-conseguenze-13-ottobre-2026) (diagramma aggiornato) e [Characters & Factions §4-5](./characters-and-factions.md). Sintesi:
+
+Risolve una domanda rimasta aperta fin dal 9 ottobre in `architettura-campagna.md` §8: quale forma ha il controllo del culto vincente su Eos nel finale — prigionia fisica, rete di risonanza, adesione ideologica genuina, o un modello combinato? La risposta dell'autore è un meccanismo asimmetrico, non una scelta fissa: la crisi del Limbo o della Cripta del Debito pianta dubbio specificamente sull'Assoluto ORIGINALE di Eos (quello verso cui i PG/custodi lo hanno orientato ai Capitoli 1-2) — uscendone, Eos è curioso del polo che non ha ancora provato. È quindi sempre la fazione OPPOSTA al ramo preso a ottenere, in Downtime II, la prima occasione di aderenza VOLONTARIA per curiosità; la fazione originale, avendo perso la propria presa ideologica, deve ricorrere alla sottomissione forzata, usando il know-how ancestrale della propria tradizione (DEC-0055) ed eventualmente le reliquie (DEC-0056).
+
+Questo dà al Capitolo IV una vera posta in gioco duplice: non solo QUALE culto vince, ma COME — un'adesione volontaria di Eos a un Assoluto (dilemma morale: lui stesso ci crede) è un problema diverso da una sottomissione forzata (dilemma tattico: va liberato contro la sua volontà attuale, coerente con l'agency autonoma di Eos adulto, DEC-0010). Entrambe le forme restano fedeli al principio che "il culto ha ottenuto il potere" non equivale automaticamente a "Eos ha perso la libertà morale" (architettura-campagna.md §7-D).
 
 ## 46. Gate E — cronologia canonica (13 ottobre 2026)
 
@@ -257,37 +266,44 @@ OUTPUT richiesto dalla [Narrative Roadmap, Gate D](../00-project-management/narr
 
 ```mermaid
 flowchart TD
-    A["Eos neonato (Capitolo 1)<br/>protetto dai PG"] --> B["Eos bambino/ragazzo<br/>(Capitolo 1-2, Downtime I)<br/>potere istintivo, educazione in corso"]
+    A["Eos neonato (Capitolo 1)<br/>protetto dai PG"] --> B["Eos bambino/ragazzo<br/>(Capitolo 1-2, Downtime I, ~3 anni)<br/>potere istintivo, educazione in corso"]
 
     B -->|"PG/custodi orientano<br/>verso il Bene"| C1["Crisi del Limbo<br/>(ramo Bene Assoluto)"]
     B -->|"PG/custodi orientano<br/>verso il Male"| C2["Crisi della Cripta del Debito<br/>(ramo Male Assoluto)"]
 
-    C1 -->|"PG confutano l'Assoluto:<br/>male/sofferenza hanno un<br/>ruolo nell'ordine naturale"| D1["Dubbio piantato<br/>Eos si allontana in buona fede"]
+    C1 -->|"PG confutano l'Assoluto:<br/>male/sofferenza hanno un<br/>ruolo nell'ordine naturale"| D1["Dubbio piantato SUL BENE<br/>Eos si allontana, curioso<br/>del polo opposto (DEC-0056)"]
     C1 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D1x["? aperto"]
 
-    C2 -->|"PG confutano l'Assoluto:<br/>la grazia immeritata ha un<br/>ruolo nell'ordine naturale"| D2["Dubbio piantato<br/>Eos si allontana in buona fede"]
+    C2 -->|"PG confutano l'Assoluto:<br/>la grazia immeritata ha un<br/>ruolo nell'ordine naturale"| D2["Dubbio piantato SUL MALE<br/>Eos si allontana, curioso<br/>del polo opposto (DEC-0056)"]
     C2 -.->|"PG non confutano<br/>l'Assoluto (DA DEFINIRE)"| D2x["? aperto"]
 
-    D1 --> E["Downtime II<br/>Eos separato dal gruppo"]
-    D2 --> E
+    D1 --> E1["Downtime II (ramo Bene)<br/>Velo: prima occasione di<br/>aderenza VOLONTARIA (curiosità)<br/>Alba: persa la presa ideologica,<br/>punta alla sottomissione forzata"]
+    D2 --> E2["Downtime II (ramo Male)<br/>Alba: prima occasione di<br/>aderenza VOLONTARIA (curiosità)<br/>Velo: persa la presa ideologica,<br/>punta alla sottomissione forzata"]
 
-    E -->|"Alba Incorrotta intercetta<br/>(mentore, certezze morali nette)"| F1["Spinta verso<br/>il Bene Assoluto"]
-    E -->|"Velo dell'Ultima Quiete intercetta<br/>(agente ombra, Legge del Prezzo<br/>come verità liberatoria)"| F2["Spinta verso<br/>il Male Assoluto"]
-    E -->|"PG raggiungono Eos per primi<br/>o contrastano l'influenza del culto"| F3["Spinta verso<br/>la vera Neutralità"]
+    E1 -->|"Eos aderisce al Male<br/>Assoluto per curiosità"| F1["Volontario: Velo"]
+    E1 -->|"Alba sottomette Eos con<br/>know-how ancestrale + reliquie"| F2["Forzato: Alba"]
+    E1 -->|"PG intercettano prima<br/>di entrambi"| F3["Spinta verso<br/>la Neutralità"]
+
+    E2 -->|"Eos aderisce al Bene<br/>Assoluto per curiosità"| F4["Volontario: Alba"]
+    E2 -->|"Velo sottomette Eos con<br/>know-how ancestrale + reliquie"| F5["Forzato: Velo"]
+    E2 -->|"PG intercettano prima<br/>di entrambi"| F6["Spinta verso<br/>la Neutralità"]
 
     F1 --> G{"Climax<br/>(Capitoli 3-4)"}
     F2 --> G
     F3 --> G
+    F4 --> G
+    F5 --> G
+    F6 --> G
 
     G -->|"PG aiutano Eos a confutare<br/>l'assoluto residuo e a<br/>reintegrare le due metà"| H1["FINALE: vera Neutralità<br/>(il Registro dell'Equilibrio si salda)"]
-    G -->|"un culto cattura/dirige Eos<br/>(vince il proprio piano del Gate C)"| H2["FINALE: Assoluto consolidato<br/>sotto il controllo del culto"]
+    G -->|"il culto (volontario o<br/>forzato) dirige Eos verso<br/>il proprio fine (vince il Gate C)"| H2["FINALE: Assoluto consolidato<br/>sotto il controllo del culto"]
 ```
 
 Note di lettura:
 
 - Il bivio in **B** è l'unica vera ramificazione (quale assoluto) — coerente con il vincolo d'autore in `architettura-campagna.md` §1 ("crisi del Limbo o equivalente negativo"): uno dei due rami si manifesta sempre entro la fine del Downtime I, nessun terzo ramo "nessuna crisi" è attualmente previsto.
-- **E → F1/F2/F3** non sono esclusivi fra loro nello stesso playthrough: entrambi i culti possono tentare il contatto in Downtime II indipendentemente da quale crisi sia avvenuta in **C1/C2** (un culto può provare a "recuperare" Eos verso il proprio assoluto anche se il dubbio lo aveva already spinto nella direzione opposta) — il peso relativo delle tre spinte in **F** decide quanto sarà difficile il climax in **G**, non lo decide in modo binario.
-- **H1** ed **H2** non sono gli unici esiti testuali possibili (un epilogo potrebbe avere gradazioni), ma sono i due poli chiari richiesti dal Gate D: trovare la Neutralità, o restare bloccati in un Assoluto sotto controllo altrui.
+- **D1/D2 → E1/E2** codifica il meccanismo asimmetrico confermato dall'autore (DEC-0056): il dubbio piantato dalla crisi riguarda specificamente l'Assoluto ORIGINALE di Eos, rendendolo curioso del polo opposto — quindi è sempre la fazione OPPOSTA al ramo preso a ottenere la prima occasione di aderenza volontaria, mentre la fazione originale (persa la presa ideologica) deve ricorrere alla sottomissione forzata. Risolve la domanda rimasta aperta dal 9 ottobre in `architettura-campagna.md` §8.
+- **H1** ed **H2** non sono gli unici esiti testuali possibili (un epilogo potrebbe avere gradazioni), ma sono i due poli chiari richiesti dal Gate D: trovare la Neutralità, o restare bloccati in un Assoluto sotto controllo altrui (volontario o forzato).
 - Le transizioni marcate `?` (cosa succede se i PG non riescono a confutare l'Assoluto nel Limbo/nella Cripta) restano intenzionalmente aperte: potrebbero significare che il dubbio non si pianta affatto e Eos NON si allontana (resta un Assoluto sempre più radicato, dentro il gruppo), oppure che si allontana comunque ma più ostile alla possibilità di cambiare — nessuna delle due è stata scelta.
 
 ## 38. Gate D — la via degli Assoluti: ramificazione, fase transitoria, finale possibile (13 ottobre 2026)

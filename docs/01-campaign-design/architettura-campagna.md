@@ -121,7 +121,9 @@ I capitoli sono macro-archi, non quattro sessioni singole. Un numero piccolo di 
 
 ## 8. Decisione da chiedere prima del dettaglio
 
-Quale grado di relazione fra Eos e il potere nelle mani della fazione vincente è desiderato nel Capitolo IV?
+**RISOLTO (13/10/2026, DEC-0056)** — Meccanismo asimmetrico, non una scelta fissa fra le opzioni sotto: la fazione OPPOSTA al ramo preso ai Capitoli 1-2 ottiene la prima occasione di adesione VOLONTARIA (modello C) per curiosità, dato che la crisi del Limbo/Cripta del Debito pianta dubbio specificamente sull'Assoluto originale; la fazione originale, persa la presa ideologica, ricorre invece alla sottomissione forzata con know-how ancestrale e reliquie (modello A/B). Entrambi i modelli convivono nello stesso playthrough, su fazioni diverse. Vedi [Campaign Bible §47](./campaign-bible.md).
+
+Quale grado di relazione fra Eos e il potere nelle mani della fazione vincente è desiderato nel Capitolo IV? (domanda originale, 9 ottobre 2026, risposta sopra)
 
 - (A) Un culto tiene fisicamente Eos prigioniero e sfrutta solo risonanza coatta.
 - (B) Un culto controlla una grande rete alimentata dalle Impronte e usa il potere di Eos anche se Eos resta libero/irreperibile.
