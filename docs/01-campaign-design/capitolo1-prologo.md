@@ -219,7 +219,40 @@ I veri padroni dei due culti restano segreti (DEC-0035) — quanto segue riguard
 
 ## 5. La scena: il Santuario dei Grigi
 
-**Panoramica per il GM**: i PG arrivano, assistono alla nascita, ricevono un estratto della profezia da Fendrel, e devono fuggire quando il Santuario viene assalito da entrambi i culti in contemporanea. Non è una sola stanza da descrivere: è un piccolo sito con cinque zone (mappa DA FARE, vedi §6), ciascuna rilevante in un momento diverso della scena. L'assalto (§5.6) non è legato a una sola zona: si muove attraverso tutte.
+**Panoramica per il GM**: i PG arrivano, assistono alla nascita, ricevono un estratto della profezia da Fendrel, e devono fuggire quando il Santuario viene assalito da entrambi i culti in contemporanea. Non è una sola stanza da descrivere: è un piccolo sito con cinque zone (disposizione spaziale sotto; immagine vera e propria rimandata, vedi §7), ciascuna rilevante in un momento diverso della scena. L'assalto (§5.6) non è legato a una sola zona: si muove attraverso tutte. Nessuna zona è presente per "fare numero" o imitare un dungeon: ciascuna esiste per una ragione narrativa concreta già fissata nel testo (punto d'arrivo, tenda del parto, cuore cerimoniale, comunità abitata, accampamento dei falsi pellegrini) — niente trappole, passaggi segreti o stanze misteriose aggiunti senza motivo.
+
+**Disposizione del Santuario (schema spaziale, IPOTESI — sintesi esplicita di relazioni già implicite nel testo sopra, da confermare)**:
+
+```
+                      bosco fitto
+                          |
+      Zona 5 — Margini del Bosco
+      (accampamento dei falsi pellegrini,
+       dove il sentiero incontra la foresta)
+                          |
+      Zona 1 — Sentiero dei Pellegrini
+          (ultimo tratto, nel bosco)
+                          |
+   ┌──────────────────────────────────────┐
+   │    Zona 4 — Il Circolo di Pietre      │
+   │   (tende, erbario, comunità druidica) │
+   │                                       │
+   │        Zona 2 — La Radura e           │
+   │     l'Albero Gemello (il centro)      │
+   │                                       │
+   └───────────────────┬───────────────────┘
+                        |
+        Zona 3 — La Tenda del Parto
+      (appena fuori dall'anello di pietre,
+       fuori vista per intimità)
+```
+
+- **Zona 5 → Zona 1**: il sentiero nasce esattamente dove il bosco incontra il Santuario — coerente con "il limite esterno della radura, dove il sentiero d'accesso incontra la foresta fitta" (Zona 5 sopra). È lì che l'Alba ha piantato il finto campo pellegrino, mimetizzato fra i visitatori legittimi.
+- **Zona 1 → Zona 4**: il sentiero sbocca direttamente nella radura cinta di pietre — il testo di lettura della Zona 1 descrive già "una radura bassa, cinta da pietre grigie coperte di muschio antico": è la stessa Zona 4 vista dall'esterno. Nessun tratto neutro fra arrivo e comunità.
+- **Zona 4 contiene Zona 2**: l'Albero Gemello e l'altare sono il cuore del Circolo di Pietre, non un luogo separato — chi sta nell'anello vede l'albero.
+- **Zona 3**: appena fuori dal perimetro dell'anello (coerente con "appena fuori dalla radura principale" sopra), raggiungibile in pochi passi da Zona 4 — coerente con "Fendrel, appena uscito dalla Zona 3, raggiunge i PG" in Zona 4.
+
+**Conseguenza tattica per l'assalto (§5.6)**: la minaccia erompe da Zona 5 — la stessa direzione da cui i PG sono arrivati e da cui, d'istinto, cercherebbero di fuggire. L'unica via d'uscita nota attraversa il punto di contatto nemico: "tornare dritti per la strada da cui sono venuti" non è un'opzione sicura. I PG devono scegliere fra forzare il passaggio, cercare una rotta alternativa nel bosco (improvvisata, più lenta, prova di Sopravvivenza/Natura), o coprire un varco mentre altri evacuano — materiale diretto per le "scelte sotto pressione" di §5.6.
 
 ### Zona 1 — Il Sentiero dei Pellegrini
 
@@ -371,4 +404,4 @@ I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e i
 
 **Convenzioni di scrittura adottate (13/10/2026)**, verificate su guida ufficiale D&D Beyond ("Let's Design an Adventure", Shawn Merwin): i box di lettura (**Lettura**) sono in terza persona, mai "voi" — descrivono solo ciò che i personaggi possono percepire, restano sotto le 100 parole/4 frasi; il dialogo dei PNG (come Fendrel in Zona 4) è un box separato, non una "Lettura" scenica, e va lasciato interrompibile dai giocatori; la struttura segue zone di mappa numerate (`\DndArea`/`\DndSubArea` nel template LaTeX), non beat narrativi lineari.
 
-DA FARE: mappa del Santuario dei Grigi (le 5 zone sopra); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
+Disposizione spaziale delle 5 zone (§5, IPOTESI) aggiunta il 13/10/2026 — sintesi esplicita di relazioni già implicite nel testo, da confermare prima di promuoverla a CONFERMATO nel manuale. DA FARE: immagine vera e propria della mappa (rimandata su richiesta dell'autore — niente generatori AI generici per le mappe, solo tool dedicati tipo Dungeondraft/Wonderdraft o una pipeline procedurale compatibile Foundry, da valutare più avanti); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
