@@ -201,6 +201,12 @@ Le date DEC-0006 a DEC-0011 indicano la trascrizione della ricostruzione; le dec
 
 Per i nuovi sviluppi: prima verificare documenti Drive/archivio e registro delle decisioni; etichettare nuove idee e tenerle separate dal canone fino all'approvazione; aggiornare Campaign Bible e documenti secondari dopo le decisioni consolidate.
 
+## 49. Risoluzione del Gate E — output finale (13 ottobre 2026)
+
+Sessione di design diretta con l'autore, dettagli completi in [Architettura della Campagna §0](./architettura-campagna.md#0-output-del-gate-e--sinossi-timeline-tabella-dei-capitoli-13-ottobre-2026). Sintesi:
+
+Compilata la sinossi di una pagina, la timeline con milestone (calendario di Faerûn verificato via web dove applicabile) e la tabella dei capitoli con scopo/conflitto/conseguenze richieste dalla Narrative Roadmap — non nuove decisioni, solo sintesi di tutto quanto confermato oggi e nei gate precedenti (DEC-0037 a DEC-0057). Il Gate E della Narrative Roadmap è RISOLTO: un percorso narrativo principale completo, con ramificazioni gestibili (quale Assoluto, chi intercetta Eos, esito finale), non più una serie di concept slegati.
+
 ## 48. Gate E — l'incontro decisivo: la sequenza del Capitolo IV (13 ottobre 2026)
 
 Sessione di design diretta con l'autore, dettagli completi nel diagramma aggiornato in [Campaign Bible §39](#39-gate-d--diagramma-degli-stati-di-eos-scelte-dei-pg-conseguenze-13-ottobre-2026). Sintesi:

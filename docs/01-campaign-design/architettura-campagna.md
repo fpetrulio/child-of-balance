@@ -4,6 +4,45 @@ Quattro capitoli e tre downtime · Progetto narrativo 0.1 · 9 ottobre 2026
 
 STATUS: MISTO. Distinguere le decisioni espresse dall'autore (VINCOLI CONFERMATI) dalle interpretazioni dell'assistente (PROPOSTE STRUTTURALI).
 
+## 0. Output del Gate E — sinossi, timeline, tabella dei capitoli (13 ottobre 2026)
+
+Compilazione finale richiesta dalla [Narrative Roadmap, Gate E](../00-project-management/narrative-roadmap.md#5-gate-e--struttura-della-campagna): non nuove decisioni, solo sintesi di quanto confermato nei Gate A-E (Campaign Bible §16-48). Il resto del documento, sotto, resta cronologia del percorso creativo (9 ottobre 2026 in avanti).
+
+### Sinossi
+
+Eos, figlio impossibile di Lathander e Shar, è già vissuto una volta — millenni fa, come druido elfo — prima di scegliere la morte nel -339 DR, alla caduta di Netheril. Ora rinasce per discendenza diretta nella propria stirpe mortale, nella High Forest. I PG assistono alla nascita e fuggono con il neonato quando il santuario viene assalito da due culti clandestini che se ne contendono il potere: l'Ordine dell'Alba Incorrotta (scismatici della chiesa di Lathander, bramano una fede solare rigida) e il Velo dell'Ultima Quiete (Shadovar rinnegati, bramano restaurare l'impero di Netheril). Nessun PNG rintracciabile sa chi sia davvero Eos; i PG agiscono solo perché la profezia dice di salvarlo e accudirlo.
+
+Eos cresce molto più in fretta di un umano — da neonato ad adolescente in tre anni, primo segno della sua natura non del tutto umana. È intrinsecamente duale: due metà immature, riflesso dei suoi genitori opposti, che devono imparare ad accettarsi a vicenda per trovare la vera Neutralità. L'educazione che i PG gli danno lo spinge verso uno dei due Assoluti — Bene (giudizio preventivo, segregazione nel Limbo) o Male (Legge del Prezzo, prigione di debito infinito) — entrambi deviazioni dalla sua vera natura. La crisi che ne segue pianta un dubbio specifico sull'Assoluto scelto, ed Eos si allontana dal gruppo, curioso proprio del polo che non ha ancora provato.
+
+In quell'assenza, la fazione opposta al ramo preso lo intercetta e lui le si unisce volontariamente, per curiosità. I PG devono affrontarla e confutarne la distorsione — ma la vittoria lo lascia incerto e vulnerabile, non stabile. È in quella finestra che la fazione ORIGINALE, respinta dopo la crisi ma mai sconfitta, lo cattura con la forza, lo rende inerme e lo sfrutta come catalizzatore per i propri fini. Il finale è un salvataggio: spezzare il rituale che lo lega, confrontare chi lo detiene, e infine aiutare Eos — se i PG ci riescono — a trovare la vera Neutralità, accettando che non c'è Luce senza Ombra. Se fallisse, l'Assoluto si consolida sotto il controllo del culto: un epilogo cupo fra i possibili, non l'unico.
+
+### Timeline (calendario di Faerûn, verificato via web dove applicabile)
+
+| Anno (DR) | Evento |
+|---|---|
+| -339 | Morte del primo Eos, caduta di Netheril (Follia di Karsus) — lo stesso istante in cui il culto di Amaunator comincia a spegnersi e Thultanthar si ritira nel Piano d'Ombra. Entrambi i culti futuri derivano da qui il proprio know-how ancestrale. |
+| 1372 | Thultanthar torna sul Piano Materiale come Città delle Ombre, sopra l'Anauroch. |
+| 1484-1489 | Secondo Rimescolamento. |
+| **1492 (presente)** | **Capitolo 1**: nascita del nuovo Eos nella High Forest, assalto al santuario, fuga dei PG con il neonato. |
+| 1492-~1495 (Downtime I, ~3 anni) | Eos cresce da neonato ad adolescente; l'educazione dei PG lo orienta verso un Assoluto. |
+| ~1495 | **Capitolo 2**: crisi del Limbo o della Cripta del Debito; dubbio piantato; Eos si allontana. |
+| Downtime II | Eos separato; la fazione opposta lo intercetta; primi segnali (miracoli/sparizioni) raggiungono i PG. |
+| — | **Capitolo 3**: i PG affrontano e confutano la fazione a cui Eos ha aderito volontariamente; lui resta incerto e vulnerabile. |
+| Downtime III | Preparazione del salvataggio finale. |
+| — | **Capitolo 4**: la fazione originale cattura Eos con la forza; incontro decisivo — salvataggio e rottura rituale; finale (vera Neutralità o Assoluto consolidato). |
+
+### Tabella dei capitoli
+
+| Capitolo | Livelli | Scopo | Conflitto centrale | Conseguenze |
+|---|---|---|---|---|
+| 1 — Il Figlio Conteso | 1-3 | Salvare il neonato Eos, fuggire dal santuario | Assalto dei due culti; cosa/chi salvare nel caos | PG diventano i soli custodi; distribuzione delle 6 reliquie (2 ai culti, 1 ai PG, 3 perdute); estratto della profezia ricevuto |
+| *Downtime I (~3 anni)* | — | Crescere ed educare Eos | Scelte morali di custodia | Determina verso quale Assoluto Eos scivola |
+| 2 — Il Prezzo dell'Assoluto | 4-7 | Affrontare la crisi del Limbo o della Cripta del Debito | Confutare l'Assoluto, portare Eos ad accettare la propria dualità | Dubbio piantato; Eos si allontana, curioso del polo opposto |
+| *Downtime II* | — | Ricevere le prime informazioni chiave | — | Notizie di miracoli/sparizioni; apre il Capitolo 3 |
+| 3 — La Guerra Invisibile | 7-15 | Recuperare le 3 reliquie disperse/contese; affrontare la fazione a cui Eos ha aderito volontariamente | Intrighi, indagini, infiltrazioni, scontro cardine con quella fazione | Fazione confutata/sconfitta ideologicamente; Eos incerto e vulnerabile |
+| *Downtime III* | — | Preparare il salvataggio finale | — | Alleati e risorse per il Capitolo 4 |
+| 4 — Spezzare il Giogo | 15-20 | Salvare Eos, recuperare la reliquia cardine rimanente | Rottura rituale contro la fazione originale che lo ha catturato | Vera Neutralità, o Assoluto consolidato sotto controllo del culto |
+
 Documento creativo di lavoro. NON sostituisce la Campaign Bible. Sistema D&D 5e 2014, lore Forgotten Realms.
 
 > **AGGIORNAMENTO (13/10/2026, DEC-0049)** — I downtime NON sono sessioni giocate: sono periodi dove l'avventura si sviluppa fuori dal controllo dei PG, che scelgono solo attività passive (ricerche, allenamento, progetti) senza avventura associata. Le descrizioni di Downtime I/II/III in §2 e il "modello di downtime" in §3 risalgono al 9 ottobre e descrivono in più punti contenuto attivamente giocato (indagini, negoziazioni, missioni) — vanno rilette alla luce di questo principio: quel materiale è contenuto per i CAPITOLI (specialmente III), non per i downtime. Vedi [Campaign Bible §40-41](./campaign-bible.md) per il dettaglio.
