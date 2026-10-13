@@ -2,7 +2,7 @@
 
 Child of Balance · Gate F, seguito del Prologo · bozza 13 ottobre 2026
 
-Stato: IPOTESI IN SVILUPPO — scritto insieme all'autore, non ancora promosso a canonico definitivo. Continua direttamente da [`capitolo1-prologo.md`](./capitolo1-prologo.md) §5.6-5.7 (l'assalto e la fuga dal Santuario dei Grigi). Applica il framework di [`principi-di-design.md`](./principi-di-design.md) §8 per intero (ritmo sessione/livello, scontri motivati, esplorazione su prove, stile wiki per i luoghi interni, CD come barriera narrativa).
+Stato: CONFERMATO (13/10/2026, DEC-0059) — promosso per intero in `latex/manual/Capitolo1.tex`. Continua direttamente da [`capitolo1-prologo.md`](./capitolo1-prologo.md) §5.6-5.7 (l'assalto e la fuga dal Santuario dei Grigi). Applica il framework di [`principi-di-design.md`](./principi-di-design.md) §8 per intero (ritmo sessione/livello, scontri motivati, esplorazione su prove, stile wiki per i luoghi interni, CD come barriera narrativa).
 
 ## 0. Perché esiste questa sezione
 
@@ -199,4 +199,4 @@ Le gallerie risalgono e si aprono su un fianco di collina coperto di felci, non 
 
 ## 5. Stato del documento
 
-Parte 1 (Zone 1-4) e Parte 2 (Zone 5-9, incluso il mini-dungeon di Zona 5) scritte per intero, applicando `principi-di-design.md` §8.1-8.12. IPOTESI, non ancora promossa a CONFERMATO. Statblocchi: Grulnak (orco elite, GS 2) già scritto in Appendice A. Il quasit di Zona 7 e gli orchi comuni di Zona 3/6 usano statblocchi standard del Manuale dei Mostri (via Plutonium), nessun nuovo statblocco necessario. Nyx Kelvorn e gli Agenti Ombra del Velo di Zona 9 (rivisto 13/10/2026 da Thessaly/Alba a Nyx/Velo, nota di design in Zona 9) riusano gli statblocchi già scritti in Appendice A per l'assalto del Prologo. DA FARE prima della promozione a `latex/manual/Capitolo1.tex`: revisione dell'autore; eventuale mappa (rimandata, vedi `capitolo1-prologo.md` §7); dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto).
+Parte 1 (Zone 1-4) e Parte 2 (Zone 5-9, incluso il mini-dungeon di Zona 5) scritte per intero, applicando `principi-di-design.md` §8.1-8.12, e promosse per intero in `latex/manual/Capitolo1.tex` (13/10/2026, DEC-0059). Statblocchi: Grulnak (orco elite, GS 2) in Appendice A. Il quasit di Zona 7 e gli orchi comuni di Zona 3/6 usano statblocchi standard del Manuale dei Mostri (via Plutonium). Nyx Kelvorn e gli Agenti Ombra del Velo di Zona 9 riusano gli statblocchi già scritti in Appendice A per l'assalto del Prologo. DA FARE: eventuale mappa (rimandata, vedi `capitolo1-prologo.md` §7); dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto); conversione Foundry/The Forge.

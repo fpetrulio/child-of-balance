@@ -91,6 +91,8 @@ Livello iniziale CONFERMATO a 1 (DEC-0033, 12/10/2026). Resta da decidere: fasci
 
 ## 6. Gate F — Primo vertical slice giocabile
 
+**STATO (13/10/2026): RISOLTO IN GRAN PARTE.** Capitolo 1 completo dal Prologo al checkpoint di Livello 3, promosso per intero in `latex/manual/Capitolo1.tex` (DEC-0059): Prologo "Nascita e fuga" (scena della nascita, attacco al santuario, fuga) seguito dal viaggio nelle rovine di Aelothir (9 zone su due parti, ancorate alla lore reale di Eaerlann/Ascalhorn, checkpoint Livello 2 e 3), fino all'arrivo al rifugio del Downtime I. Statblocchi originali (Thessaly Dawnbreaker, Nyx Kelvorn, Grulnak e seguaci) con testo wiki e illustrazioni di scena in Appendice A; i due culti principali con storia/dogmi/simbologia/personaggi estesi e stemmi in Appendice D. Restano DA FARE prima della chiusura completa del gate: mappa del Santuario (rimandata su richiesta dell'autore), dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto), conversione Foundry/The Forge (sotto, non ancora tentata).
+
 Prologo "Nascita e fuga": ingresso dei PG, scena della nascita, indizi, attacco al santuario e fuga significativa da una forza soverchiante, Eos neonato affidato al gruppo, esiti divergenti.
 
 **OUTPUT:** capitolo in Markdown canonico approvato, journal GM/player, mappe originali autorizzate, NPC originali, incontri calibrati su livello scelto, battaglia scenografica e via di fuga giocabile, pacchetto Foundry con scene e handout.
