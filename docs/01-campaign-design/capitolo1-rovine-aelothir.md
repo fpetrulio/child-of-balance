@@ -164,7 +164,7 @@ Il cuore di Aelothir: una sala ipogea sorretta da colonne a forma di radice, con
 
 ## 4. Parte 2 — più in profondità (~4 sessioni, checkpoint Livello 3)
 
-Dalla Sala della Guarnigione (Zona 8), la mappa incisa trovata lì (§3, Zona 8) mostra due vie: una diretta ma più vicina alla fonte della corruzione residua (Zone 9→11→13), una più lunga che la aggira quasi del tutto (Zone 9→10→13, saltando la Zona 11 — ma anche l'informazione che vi si trova, vedi sotto). Una scelta reale, non cosmetica, coerente con `principi-di-design.md` §8.10.
+Dalla Sala della Guarnigione (Zona 8), la mappa incisa trovata lì (§3, Zona 8) mostra due vie, entrambe passanti per l'Avamposto dei Profughi e il Capo Orco (Zone 9→10→11, sempre attraversate): da lì, una via diretta ma più vicina alla fonte della corruzione residua (Zone 12→13), una più lunga che la aggira quasi del tutto saltando le Zone 12-13 (e l'informazione che vi si trova, vedi sotto) per ricongiungersi direttamente alla Zona 14. Entrambe convergono poi su Zone 14→15→16→17. Una scelta reale, non cosmetica, coerente con `principi-di-design.md` §8.10.
 
 ### Zona 9 — Il Sottocripta Allagato (mini-dungeon)
 
@@ -186,22 +186,44 @@ Quattro sottozone, da attraversare nell'ordine che i PG scelgono (eccetto 9d, ch
 
 **Zona 9c — Lo Sciame di Spore.** Non un combattimento con un mostro vero e proprio: una colonia di funghi particolarmente densa reagisce in massa se disturbata, riempiendo un tratto di corridoio di spore accecanti. **Approcci multipli**: forzare il passaggio trattenendo il respiro (prova di Costituzione CD 12, danno minimo se fallita — tosse e Svantaggio alla prossima prova per un turno, non altro); individuare un percorso alternativo più lungo lungo il soffitto, fuori dalla portata delle spore (Acrobazia CD 14, richiede di lasciare temporaneamente Eos con un alleato che resta a terra — buona occasione per far scattare "Eos piange" se il gruppo è già sotto pressione); o usare fuoco/luce intensa per bruciare localmente i filamenti e aprirsi un varco sicuro (nessuna prova, ma consuma una risorsa concreta — una torcia, una fiala d'olio, un trucchetto a consumo limitato).
 
-**Zona 9d — Il Punto di Risalita.** Dove il sottocripta risale verso le gallerie superiori. **Lettura**: *"L'acqua si fa più bassa, poi scompare del tutto. Una rampa di pietra consumata sale verso il buio, e per la prima volta da quando sono scesi, l'aria torna secca."* Nessun ostacolo qui — un respiro narrativo dopo tre sottozone di tensione, prima di Zona 10 o 11.
+**Zona 9d — Il Punto di Risalita.** Dove il sottocripta risale verso le gallerie superiori. **Lettura**: *"L'acqua si fa più bassa, poi scompare del tutto. Una rampa di pietra consumata sale verso il buio, e per la prima volta da quando sono scesi, l'aria torna secca."* Nessun ostacolo qui — un respiro narrativo dopo tre sottozone di tensione, prima di Zona 10.
 
-### Zona 10 — Il Capo Orco
+### Zona 10 — L'Avamposto dei Profughi
 
-Oltre il sottocripta, le gallerie tornano asciutte e si allargano in quello che fu un refettorio cerimoniale, oggi il cuore del campo del branco di Grulnak.
+Prima di raggiungere Grulnak in persona, i PG attraversano il vero campo del branco -- non un singolo capo con guardie, ma una piccola comunità di profughi.
+
+**Lettura**
+
+> *Tende ricavate da pelli e teli consumati, un paio di focolari spenti per non tradire fumo, una manciata di orchi -- non solo guerrieri: un anziano, due cuccioli che si azzittiscono di scatto vedendo estranei. Nessuno impugna un'arma per primo.*
+
+**Chi sono e come reagiscono** (`principi-di-design.md` §8.8): il resto del branco di Grulnak, inclusi i non combattenti che la Zona 6 non lascia intuire. Non attaccano -- nessuno qui vuole un altro scontro, e la presenza di non combattenti scoraggia i PG più dei guerrieri. Un anziano, se avvicinato con rispetto (Persuasione o Intuizione CD 13, nessuna ostilità di base), racconta una versione orale e distorta della storia di Aelothir tramandata fra loro: parla di "spiriti di pietra che non dormono mai" e di un predecessore del branco, anni prima del loro arrivo, che scese troppo a fondo e "non tornò con la sua voce" -- un riferimento sfocato al Capitano Ethandrel Nightsong (Zona 14) o forse a qualcosa di peggio, mai chiarito del tutto.
+
+**Scoperta pratica** (§8.9): questa conversazione, se ottenuta, dà ai PG un secondo accenno indipendente (oltre a Grulnak in Zona 11) che qualcosa oltre la Soglia della Corruzione merita cautela -- utile anche a chi sceglie la via lunga e salta la Zona 11 stessa, perché arriva comunque con un'idea approssimativa del pericolo.
+
+### Zona 11 — Il Capo Orco
+
+Oltre l'avamposto dei profughi, le gallerie tornano asciutte e si allargano in quello che fu un refettorio cerimoniale, oggi il cuore del campo del branco di Grulnak.
 
 **Chi è, cosa vuole, come reagisce** (`principi-di-design.md` §8.8): Grulnak non è un mostro da abbattere per principio — è un capo che ha già perso una guerra e non ne vuole un'altra. Sa (per voce dei suoi esploratori, non per esperienza diretta — nessun orco è mai tornato da "il varco inferiore") che qualcosa di innaturale si agita più a fondo, e ha proibito al branco di avvicinarvisi. Se i PG arrivano senza aver già affrontato le sentinelle di Zona 6 in modo ostile, Grulnak è disposto a trattare: lascia passare chi promette di non restare e di non guidare altri fino a loro, soprattutto se i PG condividono di essere in fuga da inseguitori — un nemico comune, anche non dichiarato come alleanza, pesa più di un confronto.
 
 **Approcci multipli**:
-- **Negoziazione (Persuasione o Intimidire, CD 16, inasprita rispetto alla Zona 6 perché Grulnak è più cauto e ha più da perdere)**: lascia passare i PG e, se trattato con rispetto, condivide liberamente quel che sa della Zona 11 ("il varco inferiore" — vedi sotto, scoperta pratica).
-- **Scontro**: Grulnak (Appendice A) più 3-4 orchi normali. Scontro prestabilito difficile per il livello, semplificabile sfruttando il terreno (il refettorio ha colonne e un focolare centrale) o isolando Grulnak dal resto del branco prima che si radunino.
-- **Sfruttare la paura condivisa**: se i PG hanno già appreso (Zona 9b, Zona 1) qualcosa sulla vera natura del pericolo sottostante, possono usarlo per impressionare o mettere in soggezione Grulnak senza bisogno di minacciare lui direttamente — una terza via fra negoziazione pura e intimidazione pura.
+- **Negoziazione (Persuasione o Intimidire, CD 16, inasprita rispetto alla Zona 6 perché Grulnak è più cauto e ha più da perdere)**: lascia passare i PG e, se trattato con rispetto, condivide liberamente quel che sa della Zona 13 ("il varco inferiore" — vedi sotto, scoperta pratica).
+- **Scontro**: Grulnak (Appendice A) più 3-4 orchi normali. Scontro prestabilito difficile per il livello, semplificabile sfruttando il terreno (il refettorio ha colonne e un focolare centrale) o isolando Grulnak dal resto del branco prima che si radunino. Nota: se i PG hanno appena attaccato l'Avamposto dei Profughi (Zona 10), Grulnak combatte senza alcuna disponibilità a trattare -- una scelta con conseguenze reali, non solo un'etichetta.
+- **Sfruttare la paura condivisa**: se i PG hanno già appreso (Zona 9b, Zona 10, Zona 1) qualcosa sulla vera natura del pericolo sottostante, possono usarlo per impressionare o mettere in soggezione Grulnak senza bisogno di minacciare lui direttamente — una terza via fra negoziazione pura e intimidazione pura.
 
-**Scoperta pratica utile alla sezione successiva** (§8.9): se i PG ottengono la collaborazione di Grulnak (con qualunque approccio), questi li avverte esplicitamente di non toccare "le pietre che cantano" nel varco inferiore — un indizio diretto e concreto su come affrontare la Zona 11 (vedi sotto), non solo colore.
+**Scoperta pratica utile alla sezione successiva** (§8.9): se i PG ottengono la collaborazione di Grulnak (con qualunque approccio), questi li avverte esplicitamente di non toccare "le pietre che cantano" nel varco inferiore — un indizio diretto e concreto su come affrontare la Zona 13 (vedi sotto), non solo colore.
 
-### Zona 11 — La Soglia della Corruzione
+### Zona 12 — Il Corridoio dei Segni
+
+Il tratto di galleria fra il campo di Grulnak e la Soglia della Corruzione, dove persino gli orchi -- non un popolo timido -- hanno lasciato segnali di allarme crescenti.
+
+**Lettura**
+
+> *Segni rozzi intagliati nella pietra si fanno più fitti man mano che si procede: croci, mani aperte, simboli che non servono spiegazione per essere capiti come "non oltre". L'ultimo, proprio prima di una curva, è stato inciso più volte, come se chi lo tracciava avesse bisogno di convincere se stesso.*
+
+Nessun ostacolo, nessun nemico -- una zona di puro approfondimento atmosferico. Sopravvivenza o Religione CD 13 nota che i segni più vecchi risalgono a generazioni prima dell'arrivo del branco di Grulnak -- qualcun altro, molto tempo fa, marcava già questo confine. CD 18 (la stessa soglia delle conoscenze quasi-segrete, Appendice D) riconosce che gli orchi hanno arretrato il proprio confine più volte negli ultimi vent'anni, ritirandosi gradualmente da questa sezione -- "il sussurro", come lo chiamano loro, si fa più forte, non più debole.
+
+### Zona 13 — La Soglia della Corruzione
 
 Qui la guarnigione di Aelothir morì davvero, nell'882 DR, tenendo questo singolo corridoio abbastanza a lungo da salvare chi fuggiva. Seicento anni dopo, qualcosa di quella notte non se n'è mai andato del tutto.
 
@@ -215,7 +237,7 @@ Qui la guarnigione di Aelothir morì davvero, nell'882 DR, tenendo questo singol
 
 **Approcci multipli**: ignorare il quasit e proseguire (nessuna prova necessaria, il quasit non può lasciare i sigilli); combatterlo (GS 1, gestibile ma non banale, soprattutto se usa Invisibilità per colpire e ritirarsi); negoziare senza accettare l'oggetto (Intuizione CD 15 per riconoscere l'inganno, concede comunque un frammento di informazione vera in cambio di una domanda onesta, senza contropartita avvelenata); oppure — se i PG hanno appreso da Grulnak di "non toccare le pietre che cantano" — riconoscere e rinsaldare deliberatamente il sigillo che lo intrappola (Arcana CD 17), chiudendolo qui per sempre senza alcuno scambio.
 
-### Zona 12 — Il Lascito del Capitano
+### Zona 14 — Il Lascito del Capitano
 
 Una piccola cella laterale, risparmiata dal crollo e dall'acqua, dove il Capitano Ethandrel Nightsong (nominato in Zona 9b, se trovato) si ritirò per gli ultimi momenti.
 
@@ -225,7 +247,27 @@ Una piccola cella laterale, risparmiata dal crollo e dall'acqua, dove il Capitan
 
 **Tesoro, con parsimonia** (`principi-di-design.md` §8.5, scala DMG CR0-4): la spada di Ethandrel (un'arma +1 di fattura elfica, nessun potere aggiuntivo — oggetto comune, non uno snodo di trama) e una manciata di oggetti personali (gemme e monete per un valore complessivo coerente con la Treasure Hoard CR0-4 della DMG, nessun oggetto raro o superiore). Una prova di Storia o Religione CD 12 permette di riconoscere i simboli sull'armatura come appartenenti a un ufficiale di alto rango di Eaerlann, non a un semplice soldato — chiusura narrativa del personaggio accennato in Zona 9b, non obbligatoria per proseguire.
 
-### Zona 13 — L'Uscita (checkpoint — Livello 3, scontro clou del capitolo)
+### Zona 15 — Il Rifugio di Fortuna
+
+Una piccola alcova difendibile, poco oltre la cella di Ethandrel -- non benedetta come la Sala della Guarnigione (Zona 8), solo abbastanza stretta e appartata da offrire un riparo plausibile.
+
+**Lettura**
+
+> *Una fessura nella roccia si allarga in uno spazio appena sufficiente per il gruppo, un solo accesso stretto alle spalle. Non è un luogo sacro -- è solo difendibile, ed è più di quanto abbiano avuto da ore.*
+
+**Una vera scelta, non un vicolo cieco**: qui i PG possono scegliere di concedersi un riposo breve prima dell'ultimo tratto. Non è garantito al sicuro come il cerchio di pietra di Zona 8 -- se il gruppo si trattiene più di un'ora, Sopravvivenza CD 13 (del GM, in segreto) stabilisce se una pattuglia residua del branco li nota di passaggio, senza necessariamente attaccare. Il vero costo del riposo è narrativo: Nyx Kelvorn (Zona 17) ha più tempo per scegliere la propria posizione -- riposare qui rende il gruppo più fresco per lo scontro finale, ma toglie l'elemento sorpresa parziale che altrimenti avrebbero (vedi Zona 16). Un vero compromesso, non una trappola: nessuna delle due scelte è "corretta".
+
+### Zona 16 — Tracce di un Inseguitore
+
+L'ultimo tratto prima della risalita in superficie, dove il terreno inizia a mostrare segni che non appartengono ad Aelothir.
+
+**Lettura**
+
+> *Un brandello di tessuto scuro, impigliato in una radice sporgente, non è elfico né orchesco -- un tessuto moderno, tagliato con cura. Un'impronta parziale nel fango, con una suola che nessuno del branco porterebbe.*
+
+**Scoperta pratica** (§8.9): Investigazione o Sopravvivenza CD 14 identifica le tracce come recenti -- qualcuno è passato di qui non più di poche ore fa, dall'esterno verso l'interno e poi di nuovo verso l'esterno, come chi esplora un'uscita prima di appostarsi. Chi supera questa prova PRIMA di raggiungere la Zona 17 ottiene vantaggio alla prova di iniziativa nello scontro che segue -- la preparazione qui si traduce direttamente nel round di sorpresa già previsto in Zona 17, non è un indizio fine a se stesso.
+
+### Zona 17 — L'Uscita (checkpoint — Livello 3, scontro clou del capitolo)
 
 Le gallerie risalgono e si aprono su un fianco di collina coperto di felci, non lontano dal rifugio di destinazione del Downtime I. I PG sono quasi arrivati.
 
@@ -243,4 +285,4 @@ Le gallerie risalgono e si aprono su un fianco di collina coperto di felci, non 
 
 ## 5. Stato del documento
 
-Parte 1 (Zone 1-8, espansa da 4 a 8 il 13/10/2026 per rispettare il target di 8-15 scene per level-up, §8.1) e Parte 2 (Zone 9-13, incluso il mini-dungeon di Zona 9 in 4 sottozone) scritte per intero, applicando `principi-di-design.md` §8.1-8.12, e promosse per intero in `latex/manual/Capitolo1.tex` (13/10/2026, DEC-0059; aggiornate con l'espansione di Parte 1). Statblocchi: Grulnak (orco elite, GS 2) in Appendice A. Il quasit di Zona 11 e gli orchi comuni di Zona 6/10 usano statblocchi standard del Manuale dei Mostri (via Plutonium). Nyx Kelvorn e gli Agenti Ombra del Velo di Zona 13 riusano gli statblocchi già scritti in Appendice A per l'assalto del Prologo. DA FARE: eventuale mappa (rimandata, vedi `capitolo1-prologo.md` §7); dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto); conversione Foundry/The Forge.
+Parte 1 (Zone 1-8, espansa da 4 a 8 il 13/10/2026 per rispettare il target di 8-15 scene per level-up, §8.1) e Parte 2 (Zone 9-17, espansa da 8 a 12 il 14/10/2026 per lo stesso motivo, incluso il mini-dungeon di Zona 9 in 4 sottozone) scritte per intero, applicando `principi-di-design.md` §8.1-8.12 e §9, e promosse per intero in `latex/manual/Capitolo1.tex`. Statblocchi: Grulnak (orco elite, GS 2) in Appendice A. Il quasit di Zona 13 e gli orchi comuni di Zona 6/10/11 usano statblocchi standard del Manuale dei Mostri (via Plutonium). Nyx Kelvorn e gli Agenti Ombra del Velo di Zona 17 riusano gli statblocchi già scritti in Appendice A per l'assalto del Prologo. DA FARE: eventuale mappa (rimandata, vedi `capitolo1-prologo.md` §7); dettaglio del rifugio del Downtime I (menzionato ma non ancora descritto); conversione Foundry/The Forge.
