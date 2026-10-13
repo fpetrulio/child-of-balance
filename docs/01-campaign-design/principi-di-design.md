@@ -56,3 +56,30 @@ CONFERMATO (12/10/2026, DEC-0025) — L'avventura deve ancorarsi quanto più pos
 ## 7. Tentazione e conseguenze (reliquie di Eos)
 
 CONFERMATO (12/10/2026, DEC-0032) — La campagna vuole insegnare ai PG ad accettare le conseguenze e l'equilibrio — non necessariamente diventare neutrali essi stessi, ma accettare la mortalità non solo come limite tra vita e morte, ma anche come **capacità**. I PG devono essere attivamente tentati e insidiati all'uso smodato delle reliquie di Eos (vedi `potere-di-eos-workshop.md` §16.4), e devono pagarne le conseguenze tramite il Registro dell'Equilibrio (§16.5): ogni squilibrio creato con il loro potere torna a saldarsi se/quando Eos trova la Neutralità. Non è una punizione da evitare a ogni costo — è la leva drammatica centrale: i giocatori devono percepire che ogni scorciatoia ha un prezzo reale e differito, non annullabile a piacere.
+
+## 8. Ritmo di sessione, livelli a checkpoint, scontri e ricompense
+
+CONFERMATO (13/10/2026) — Framework generale, non specifico a un capitolo: si riapplica a ogni sezione futura della campagna che richieda dimensionare quanto contenuto serve per coprire un certo arco di livelli.
+
+### 8.1 Ritmo sessione/livello
+
+Sessioni da 3-4 ore. Il level-up (a milestone, non per accumulo di PE) richiede più sessioni mano a mano che il livello cresce, anche a parità di "un livello" guadagnato. Stima di lavoro per i livelli più bassi: **3 sessioni per arrivare al 2° livello, 4 sessioni per arrivare al 3°**, in aumento ai livelli successivi. È una stima di dimensionamento dei contenuti, non una formula rigida — va ritarata sul ritmo reale osservato al tavolo.
+
+### 8.2 Level-up a checkpoint
+
+Ogni salita di livello deve coincidere con un checkpoint narrativo concreto e riconoscibile dai giocatori: raggiungere un luogo, sconfiggere un nemico significativo, ottenere un oggetto importante. Mai un level-up "a metà sessione" senza un evento in finzione che lo giustifichi.
+
+### 8.3 Scontri
+
+- Scontri prestabiliti (fissi nella struttura dell'avventura): pochi, ma difficili e significativi — coerente con §1.
+- Scontri opzionali: innescati dalle scelte imprudenti dei giocatori (rumore, fretta, mancanza di cautela), mai piazzati a caso — conseguenza naturale di un comportamento rischioso, non un incontro casuale slegato dal contesto (coerente con §1, "altri scontri possono nascere dalle scelte dei PG").
+- Anche lato GM, non solo lato giocatori: ogni scontro prestabilito va costruito in modo da restare semplificabile tramite escamotage, pianificazione o creatività (non solo "sulla carta", nella sua stessa progettazione).
+- Varietà: non solo mostri standard con tattiche standard — includere quando possibile mostri insoliti, abilità particolari, elementi a sorpresa che richiedono adattamento invece di routine.
+
+### 8.4 Condizioni narrative particolari
+
+Quando una scena richiede una condizione meccanica fuori standard (es. combattere o esplorare mentre si scorta un neonato), preferire sempre l'adattamento di una regola 5e già esistente a un sottosistema nuovo — esempio: "mano occupata" usa la stessa economia di tenere uno scudo o un oggetto, "rumore involontario" la stessa logica di furtività/percezione passiva. Introdurre una regola nuova SOLO se nessuna regola esistente calza, e in quel caso tenerla minima: una condizione, un trigger, un effetto — niente tracker complessi o sottosistemi paralleli.
+
+### 8.5 Ricompense e tesori
+
+Tesori con parsimonia, mai al punto da compromettere la difficoltà pianificata dell'avventura (coerente con §1: l'equipaggiamento è un vantaggio da guadagnare con indagine e preparazione, non un moltiplicatore gratuito di potenza). Riferimento di calibrazione (non da tirare alla lettera): le tabelle Treasure Hoard per fascia di Grado di Sfida della DMG 2014 (probabilità crescente di oggetti magici via via più rari man mano che sale la fascia) e le tabelle di oggetti magici per rarità (comune→leggendario, Tabelle A-I della DMG), ampliate in Xanathar's Guide to Everything con oggetti comuni aggiuntivi e linee guida di prezzo/vendita per rarità. Usarle per decidere QUANTO e QUANTO SPESSO, non come generatore casuale da seguire alla lettera.
