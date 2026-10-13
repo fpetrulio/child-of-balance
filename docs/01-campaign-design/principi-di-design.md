@@ -111,3 +111,11 @@ Un fallimento a una prova raramente dovrebbe significare "non succede nulla, rip
 ### 8.12 CD commisurate al livello, anche come barriera narrativa
 
 Calibrare le CD sia sulla difficoltà intrinseca dell'azione sia sul livello del gruppo. Le CD servono anche come barriera deliberata contro le rivelazioni premature: un'informazione che spoilera elementi centrali della trama (es. la vera natura di Eos) non va mai resa raggiungibile con una CD bassa solo perché i giocatori la chiedono alla prima occasione — resta coerente con la scala già fissata in Appendice D (DC 28-30+ per i segreti quasi impossibili): una domanda che "spoilera tutto" non è un'eccezione a quella scala, ne è il caso d'uso principale.
+
+### 8.13 Trattamento di PNG e mostri in Appendice A
+
+CONFERMATO (13/10/2026) — Non tutte le creature dell'appendice meritano lo stesso livello di dettaglio. Tre livelli, da applicare sempre insieme allo statblocco:
+
+- **PNG rilevanti per la trama generale, e mostri unici** (varianti di mostri forti modificate per uno specifico evento, es. un capo nominato): testo stile wiki (background, carattere, come interpretarlo/ruolarlo, tattiche preferite) PIÙ un'illustrazione del personaggio, pensata anche per generare in seguito il token associato in Foundry.
+- **Mostri ricorrenti/generici** (es. zeloti di fanteria, agenti comuni): solo un'illustrazione, nessun testo wiki — sono interscambiabili per design, non serve biografia.
+- **PNG minori di mini-sottotrame**: trascurabili, nessun trattamento speciale richiesto.
