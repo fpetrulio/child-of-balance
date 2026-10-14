@@ -124,6 +124,10 @@ Dettaglio per rarità (si somma esattamente alle righe sopra):
 
 **Le reliquie contano come oggetti magici**: le sei Impronte di Eos (Appendice B) rientrano in questo bilanciamento esattamente come qualunque altro oggetto magico — vanno conteggiate nel pool della fascia di livello in cui vengono introdotte, incontrate o usate dai PG, non trattate come un budget narrativo a parte e illimitato.
 
+**Parità fra percorsi alternativi (CONFERMATO 14/10/2026)**: quando una zona offre più approcci validi allo stesso obiettivo (§8.10), il numero totale di oggetti ottenibili deve essere lo stesso a prescindere dalla via scelta — l'oggetto specifico può cambiare per simboleggiare la scelta fatta, il conteggio no. I giocatori possono comunque mancare un oggetto, ma solo per disattenzione o un tiro fallito — mai semplicemente per aver scelto una via diversa ma ugualmente valida.
+
+**Ricompensa scalata sulla difficoltà reale, non autoindotta (CONFERMATO 14/10/2026)**: un oggetto migliore premia una prova o un rischio oggettivamente più alto (CD più alta, costo narrativo reale) — mai una difficoltà che i giocatori si creano da soli con scelte immotivate (es. attaccare un gruppo di mostri senza ragione narrativa). ``Migliore'' qui non significa più potente in assoluto: significa calibrato su una sfida specifica già scritta nelle zone successive (es. una pergamena contro il veleno poco prima di un'area con nemici velenosi), non potenza generica.
+
 ### 8.6 Esplorazione basata su prove
 
 L'esplorazione non è narrazione gratuita: ogni scoperta rilevante passa da una prova di abilità pertinente al contesto — Percezione, Investigazione, Sopravvivenza, Rapidità di Mano, Furtività, le abilità sociali, e le conoscenze (Storia, Natura, Religione, Arcana e qualunque altra sia connessa al luogo) a seconda di cosa si sta cercando di scoprire o fare. Non narrare mai come automaticamente ottenuta un'informazione o un passaggio che invece dovrebbe passare da un tiro.
