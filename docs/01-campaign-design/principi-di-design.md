@@ -88,6 +88,42 @@ Quando una scena richiede una condizione meccanica fuori standard (es. combatter
 
 Tesori con parsimonia, mai al punto da compromettere la difficoltà pianificata dell'avventura (coerente con §1: l'equipaggiamento è un vantaggio da guadagnare con indagine e preparazione, non un moltiplicatore gratuito di potenza). Riferimento di calibrazione (non da tirare alla lettera): le tabelle Treasure Hoard per fascia di Grado di Sfida della DMG 2014 (probabilità crescente di oggetti magici via via più rari man mano che sale la fascia) e le tabelle di oggetti magici per rarità (comune→leggendario, Tabelle A-I della DMG), ampliate in Xanathar's Guide to Everything con oggetti comuni aggiuntivi e linee guida di prezzo/vendita per rarità. Usarle per decidere QUANTO e QUANTO SPESSO, non come generatore casuale da seguire alla lettera.
 
+**Regola di bilanciamento oggetti magici (CONFERMATO 14/10/2026)** — tabella "Magic Items Awarded by Tier/Rarity" di Xanathar's Guide to Everything (p. 136), verificata nella sessione corrente. Da consultare ogni volta che si assegna un oggetto magico, per tenere traccia di quanto il gruppo ha accumulato rispetto alla fascia di livello corrente — non per generare oggetti a caso, ma per non sforare sistematicamente il budget atteso.
+
+**Minori vs maggiori**: il criterio reale non è "si usa in combattimento o no" (associazione intuitiva ma imprecisa), è la tabella DMG di provenienza — minori = Tabelle A-E, maggiori = Tabelle F-I. In pratica i minori tendono a essere consumabili (pozioni, pergamene) o oggetti permanenti di basso impatto (tutti gli oggetti di rarità Comune sono sempre minori, es. *Bag of Holding*, ferri di cavallo magici, armatura di mithral); i maggiori sono quasi sempre permanenti e pesano di più in combattimento, con eccezioni semi-consumabili ma potenti (es. l'anello dei tre desideri). Nessun oggetto maggiore è di rarità Comune.
+
+**Oggetti per fascia di livello** — totale cumulativo per l'intero gruppo, non per singolo PG (Jeremy Crawford, Sage Advice Compendium, gen. 2018: "the treasure rules assume a typical campaign... generates 100 magic items... [for] the party"):
+
+| Livello | Minori | Maggiori | Totale |
+|---|---|---|---|
+| 1-4 | 9 | 2 | 11 |
+| 5-10 | 28 | 6 | 34 |
+| 11-16 | 24 | 6 | 30 |
+| 17-20 | 19 | 6 | 25 |
+| **Totale campagna** | **80** | **20** | **100** |
+
+Dettaglio per rarità (si somma esattamente alle righe sopra):
+
+*Minori* — Comune / Non comune / Raro / Molto raro / Leggendario:
+
+| Livello | Comune | Non comune | Raro | Molto raro | Leggendario |
+|---|---|---|---|---|---|
+| 1-4 | 6 | 2 | 1 | 0 | 0 |
+| 5-10 | 10 | 12 | 5 | 1 | 0 |
+| 11-16 | 3 | 6 | 9 | 5 | 1 |
+| 17-20 | 0 | 0 | 4 | 9 | 6 |
+
+*Maggiori* — Non comune / Raro / Molto raro / Leggendario (mai Comune):
+
+| Livello | Non comune | Raro | Molto raro | Leggendario |
+|---|---|---|---|---|
+| 1-4 | 2 | 0 | 0 | 0 |
+| 5-10 | 5 | 1 | 0 | 0 |
+| 11-16 | 1 | 2 | 2 | 1 |
+| 17-20 | 0 | 1 | 2 | 3 |
+
+**Le reliquie contano come oggetti magici**: le sei Impronte di Eos (Appendice B) rientrano in questo bilanciamento esattamente come qualunque altro oggetto magico — vanno conteggiate nel pool della fascia di livello in cui vengono introdotte, incontrate o usate dai PG, non trattate come un budget narrativo a parte e illimitato.
+
 ### 8.6 Esplorazione basata su prove
 
 L'esplorazione non è narrazione gratuita: ogni scoperta rilevante passa da una prova di abilità pertinente al contesto — Percezione, Investigazione, Sopravvivenza, Rapidità di Mano, Furtività, le abilità sociali, e le conoscenze (Storia, Natura, Religione, Arcana e qualunque altra sia connessa al luogo) a seconda di cosa si sta cercando di scoprire o fare. Non narrare mai come automaticamente ottenuta un'informazione o un passaggio che invece dovrebbe passare da un tiro.
