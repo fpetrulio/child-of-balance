@@ -294,26 +294,48 @@ Nell'istante in cui Fendrel finisce di parlare, le prime urla si alzano dalla Zo
 
 Il limite esterno della radura, dove il sentiero d'accesso incontra la foresta fitta. Qui hanno campeggiato, nei giorni precedenti, i finti "pellegrini" della Fratellanza del Sole Glorioso — in realtà la squadra di Thessaly Dawnbreaker (§3) — e qui si innesca l'assalto, quando gettano via i mantelli dorati e caricano verso il centro del Santuario.
 
-### 5.6 L'assalto
+### 5.6 L'assalto — sequenza giocabile
 
-Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile di petto (architettura-campagna.md §4-5). L'obiettivo non è annientare gli assalitori, è portare in salvo Eos, se stessi, e il più possibile di persone/prove/conoscenza — con scelte reali su cosa è raggiungibile e cosa no.
+Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile di petto (architettura-campagna.md §4-5). L'obiettivo non è annientare gli assalitori, è portare in salvo Eos, se stessi, e il più possibile di persone/prove/conoscenza — con scelte reali su cosa è raggiungibile e cosa no. Struttura in tre fasi rapide più la scena di raccordo con la Via Sotterranea, applicando `principi-di-design.md` §8 (approcci multipli, fallimento come complicazione, scontri evitabili tramite creatività — non uno scontro vincibile di petto).
 
-**Elementi in gioco, da presentare come scelte sotto pressione (non un copione fisso)**:
+#### Fase 1 — Il Tradimento dei Mantelli Dorati
 
-- **Garrick e Wren Alderleaf**: nella tenda del parto, raggiungibili solo deviando dal percorso di fuga più diretto. Se i PG tentano di salvarli, affrontano un rischio tattico reale (un gruppo di assalitori si frappone); se riescono comunque a non farcela (esito per cui propendere, coerente con DEC-0052 — ma non reso impossibile a priori: un successo eccezionale dei PG è un'eccezione narrativa da gestire con cura, non un esito vietato), muoiono comunque poco dopo per ferite riportate nell'assalto, non per un vincolo di trama rigido.
-- **Il Cuore Bicolore**: sull'altare centrale del Santuario. Un infiltrato dell'Alba, già presente da giorni, lo raggiunge per primo — i PG possono intervenire, ma rischiano di perdere tempo prezioso altrove (DEC-0038).
-- **Il Velo Strappato**: addosso a un druido caduto presto nel combattimento. Un assalitore mascherato del Velo lo strappa nel caos — difficile da impedire senza esporsi.
-- **Lo Specchio Incrinato**: Fendrel stesso, nei suoi ultimi istanti (o un altro druido superstite, se i PG hanno agito per salvarlo), lo affida deliberatamente a uno dei PG insieme al neonato — l'unica reliquia consegnata con intenzione, non presa nel caos.
-- **Il Seme di Tempesta**: rotola nel sottobosco durante la fuga — recuperabile solo con un'azione dedicata e rischiosa, facile da lasciare perduto.
-- **Il Tamburo Silenzioso**: portato da un druido che fugge in direzione opposta ai PG — il suo destino resta aperto, non risolto in questa scena.
-- **La Radice Incantata**: un druido anziano (non Fendrel) la divide in due talee davanti agli occhi dei PG, affidandole a due messaggeri diversi che si separano subito dopo — i PG vedono questo accadere, ma non necessariamente possono intervenire.
-- **Altri sopravvissuti del circolo**: alcuni fuggono con successo, altri restano dispersi/incerti (coerente con Characters & Factions §3) — buon materiale per PNG ricorrenti futuri.
+**Lettura**
+
+> *Nello stesso istante in cui Fendrel cade, i "pellegrini" accampati ai Margini del Bosco gettano via i mantelli dorati. Lame nascoste scintillano. Dall'altra parte della radura, urla diverse si levano dall'interno del Circolo di Pietre — volti fidati si rivelano agenti del Velo, già infiltrati da giorni fra i presenti.*
+
+Prova di Percezione o Investigazione CD 10 (facile, serve solo a orientarsi, non a riuscire): un PG che la supera individua rapidamente quali zone del Santuario sono già compromesse e quali offrono ancora un passaggio relativamente libero — informazione utile per la Fase 2, non obbligatoria per procedere.
+
+#### Fase 2 — Attraverso il Caos (le scelte sotto pressione)
+
+Ogni deviazione dal percorso di fuga più diretto (Zona 4 → Zona 5 → bosco) costa tempo reale: più deviazioni i PG tentano, più la Fase 3 li coglie ancora dentro il Santuario invece che già al riparo degli alberi (vedi sotto). Nessuna di queste è obbligatoria, e il GM non le presenta tutte in sequenza — ne emergono naturalmente 2-3 a seconda di dove i PG si dirigono.
+
+| Dove | Cosa succede | Prova / conseguenza |
+|---|---|---|
+| Zona 2 (l'Albero Gemello) | Un infiltrato dell'Alba, già presente da giorni, raggiunge per primo l'altare e il Cuore Bicolore. | Atletica o Destrezza CD 16 (contrapposta) per strapparglielo in uno scontro rapido e rischioso; altrimenti lo porta via lui — coerente con DEC-0038 (un culto a testa). |
+| Zona 3 (la Tenda del Parto) | Garrick e Wren Alderleaf vengono raggiunti dagli assalitori. Deviare qui costa una Fase 2 intera. | Nessuna prova salva i genitori (DEC-0052, già morti poco dopo per ferite riportate — un successo eccezionale dei PG resta un'eccezione narrativa da gestire con cura, non un esito vietato). Chi arriva in tempo può però recuperare un effetto personale (Investigazione CD 10) — un gancio per una futura indagine sulla genealogia dei genitori (Characters \& Factions §1). |
+| Ovunque, durante la fuga | Il Seme di Tempesta rotola nel sottobosco durante il trambusto. | Percezione o Investigazione CD 12 per notarlo, più un'azione dedicata per recuperarlo — facile da lasciare perduto. |
+| Zona 5 (i Margini del Bosco) | Un assalitore mascherato del Velo strappa il Velo Strappato al corpo di un druido caduto; un druido anziano divide la Radice Incantata in due talee e le affida a due messaggeri che si separano subito; un altro druido fugge in direzione opposta portando il Tamburo Silenzioso. | Tutti e tre sono eventi witnessed, non impediti da una prova — tranne il druido col Tamburo: Atletica o Sopravvivenza CD 13 per raggiungerlo, ma devia dalla rotta di fuga principale (stesso costo della Zona 3). |
+
+Lo Specchio Incrinato non richiede prove: Fendrel (o chi per lui, se è già morto prima di poterlo fare) lo affida deliberatamente a un PG insieme al neonato nella rivelazione di Zona 4 — l'unica reliquia consegnata con intenzione, non presa nel caos.
+
+#### Fase 3 — La Corsa ai Margini
+
+Qui la campagna dimostra, meccanicamente e non solo a parole, perché la fuga è l'unica scelta sensata (nota di bilanciamento, §6 sotto). Non uno scontro vincibile di petto: una sequenza di 2-3 prove in rapida successione (Atletica, Acrobazia o Destrezza, CD crescente 12/14/16), rappresentando detriti, un assalitore che taglia la strada, il terreno ineguale della radura devastata. Ogni deviazione presa in Fase 2 aggiunge una prova alla sequenza (il tempo perso si traduce in ostacoli in più, non in un fallimento automatico). Un fallimento non significa morte: un colpo di striscio da un nemico soverchiante (danno minore, coerente con la loro reale potenza) che rende tangibile il pericolo senza trasformare la fuga in un combattimento vero.
 
 **Esiti divergenti**: il Capitolo 1 non ha un'unica fuga "corretta". Le scelte dei PG determinano quante persone sopravvivono, quali reliquie restano a portata (nessuna, salvo lo Specchio Incrinato, è obbligatoriamente persa o salvata), e con quale margine lasciano il Santuario. Questo apre naturalmente a conseguenze diverse più avanti (chi altro sopravvive per essere un futuro PNG, quanto rapidamente i culti consolidano la propria reliquia, ecc.) — nessuna di queste va fissata ora, vanno tracciate in base a cosa accade realmente al tavolo.
 
+#### Fase 4 — La Fuga nel Sottobosco (raccordo con la Via Sotterranea)
+
+**Lettura**
+
+> *Gli alberi inghiottono la luce del Santuario in fiamme alle loro spalle. Una figura emerge dal sottobosco prima che i PG possano orientarsi — una giovane druida, il viso rigato di terra e lacrime, un pugnale ancora stretto in mano. "Senna," si presenta, a fiato corto. "Fendrel... mi ha detto di aspettarvi qui, se fosse successo il peggio. C'è un'altra via. Seguitemi — in fretta."*
+
+Senna Loreleaf, druida minore del circolo, è la depositaria di riserva del segreto di Aelothir — Fendrel, prevedendo la propria morte, aveva affidato anche a lei (non solo rivelato ai PG in punto di morte) l'esistenza della via nascosta, proprio per non lasciare la fuga dipendente da un unico filo. Guida i PG al sinkhole sotto il tasso millenario (Zona 1 della Parte 1, sotto) senza ulteriori prove richieste — la sua presenza stessa è la chiusura della Fase 3, non un nuovo ostacolo.
+
 ### 5.7 Esito
 
-I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo si chiude non con una vittoria, ma con la responsabilità appena iniziata: dirigersi verso un rifugio sicuro (un'altra comunità druidica/affine, DA DEFINIRE in dettaglio per il Downtime I) per cominciare, senza sapere bene cosa li aspetta, a crescere un bambino che nessuno di loro capisce davvero.
+I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo non si chiude qui: con Senna come guida, comincia subito il viaggio attraverso le rovine di Aelothir (vedi `capitolo1-rovine-aelothir.md`) verso un rifugio sicuro, DA DEFINIRE in dettaglio per il Downtime I.
 
 ## 6. Statblock (formato 5e 2014 standard)
 
@@ -406,4 +428,6 @@ I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e i
 
 Disposizione spaziale delle 5 zone (§5, IPOTESI) aggiunta il 13/10/2026 — sintesi esplicita di relazioni già implicite nel testo, da confermare prima di promuoverla a CONFERMATO nel manuale. DA FARE: immagine vera e propria della mappa (rimandata su richiesta dell'autore — niente generatori AI generici per le mappe, solo tool dedicati tipo Dungeondraft/Wonderdraft o una pipeline procedurale compatibile Foundry, da valutare più avanti); dettaglio del rifugio/comunità di destinazione per il Downtime I; conversione in journal Foundry; promozione a `latex/manual/Capitolo1.tex` una volta confermata la prosa.
 
-Il seguito diretto della fuga (il viaggio verso il rifugio, pensato per riempire i livelli 1→3 come richiesto dall'autore, "non deve essere una cosa banale come il semplice viaggiare nelle wilderness") è ora in [`capitolo1-rovine-aelothir.md`](./capitolo1-rovine-aelothir.md) — le rovine di un avamposto elfico di Eaerlann, ancorate alla lore reale dei Forgotten Realms (fondazione di Eaerlann, caduta nell'882 DR per l'orda demoniaca di Ascalhorn/Hellgate Keep), Parte 1 scritta per intero (Zone 1-4, checkpoint Livello 2), Parte 2 ancora da scrivere.
+Il seguito diretto della fuga (il viaggio verso il rifugio, pensato per riempire i livelli 1→3 come richiesto dall'autore, "non deve essere una cosa banale come il semplice viaggiare nelle wilderness") è ora in [`capitolo1-rovine-aelothir.md`](./capitolo1-rovine-aelothir.md) — le rovine di un avamposto elfico di Eaerlann, ancorate alla lore reale dei Forgotten Realms (fondazione di Eaerlann, caduta nell'882 DR per l'orda demoniaca di Ascalhorn/Hellgate Keep). Nota: questo paragrafo e la nota "DA FARE" sopra restano come scritti il 13/10/2026 e non riflettono lo stato attuale -- Parte 1 e Parte 2 sono entrambe complete (rispettivamente 8 e 12 zone/sottozone) e promosse per intero in `latex/manual/Capitolo1.tex` (DEC-0059, DEC-0061, DEC-0062); solo mappa del Santuario e rifugio del Downtime I restano aperti.
+
+**Aggiornamento 14/10/2026 (DEC-0064)**: §5.6 "L'assalto" era un elenco astratto di scelte sotto pressione senza CD né sequenza di gioco; riscritto come sequenza giocabile in 4 fasi (innesco → attraversamento con CD concrete → corsa/fuga meccanica → raccordo con la guida superstite), introdotta la PNG minore Senna Loreleaf per dare un volto al passaggio verso la Via Sotterranea. Promosso in `latex/manual/Capitolo1.tex`.
