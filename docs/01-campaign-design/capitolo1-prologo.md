@@ -260,7 +260,7 @@ Il percorso di accesso alla radura, l'ultimo tratto di foresta prima del Santuar
 
 **Lettura**
 
-> *La High Forest si apre in una radura bassa, cinta da pietre grigie coperte di muschio antico. Druidi in vesti grigio-verdi si muovono fra le pietre con un'urgenza contenuta, a stento mascherata da normalità. Uno di loro, alto, un bastone di quercia consumato in mano, si volta verso il sentiero ancora prima che chiunque chiami.*
+> *La High Forest si apre in una radura bassa, cinta da pietre grigie coperte di muschio antico. Druidi in vesti grigio-verdi si muovono fra le pietre con un'urgenza contenuta, a stento mascherata da normalità. Uno di loro — alto, capelli e barba bianchi fino al petto, un intreccio di foglie sul capo, vesti pesanti ricamate di lune e rami — si volta verso il sentiero, un bastone di quercia consumato in mano, ancora prima che chiunque chiami.*
 
 È Fendrel Greyoak (§4) ad accogliere ogni PG, riconoscendolo dall'oggetto che porta anche senza che venga mostrato: «Siete arrivati. Bene. Restate — stanotte avrete bisogno di essere qui.» Non spiega altro se non interrogato: in quel caso risponde con onestà parziale — "una nascita importante, stanotte" — senza nominare Eos, la profezia, o i culti. Nelle settimane precedenti ha inviato discreti messaggeri a tutte le organizzazioni custodi di un dono del "Viandante" (con nomi diversi per ciascuna); chi non ha ricevuto un messaggero diretto arriva comunque nella stessa finestra temporale, richiamato dal proprio presagio.
 
@@ -272,7 +272,7 @@ Qui si concentrano i presagi: nei giorni precedenti, culminando la notte dell'ar
 
 ### Zona 3 — La Tenda del Parto
 
-Un semplice ricovero di pelli e rami intrecciati, appena fuori dalla radura principale. Qui Wren Alderleaf partorisce quella notte stessa — un parto normale nella sua meccanica (nessun prodigio nell'atto in sé, DEC-0052), circondato però da un'attesa che pesa nell'aria. I PG, in quanto ospiti di fiducia, possono restare nei pressi (a discrezione del gruppo), abbastanza vicini da essere testimoni diretti.
+Un semplice ricovero di pelli e rami intrecciati, appena fuori dalla radura principale. Qui Wren Alderleaf partorisce quella notte stessa — un parto normale nella sua meccanica (nessun prodigio nell'atto in sé, DEC-0052), circondato però da un'attesa che pesa nell'aria. I PG, in quanto ospiti di fiducia, possono restare nei pressi (a discrezione del gruppo), abbastanza vicini da essere testimoni diretti. Fuori dalla tenda, Garrick Alderleaf — robusto, mani callose da contadino, capelli castani raccolti alla meglio — fa avanti e indietro senza sosta, incapace di stare fermo: la prima e unica occasione per i PG di vederlo vivo e descriverlo.
 
 **Lettura**
 
@@ -302,7 +302,7 @@ Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile
 
 **Lettura**
 
-> *Nello stesso istante in cui Fendrel cade, i "pellegrini" accampati ai Margini del Bosco gettano via i mantelli dorati. Lame nascoste scintillano. Dall'altra parte della radura, urla diverse si levano dall'interno del Circolo di Pietre — volti fidati si rivelano agenti del Velo, già infiltrati da giorni fra i presenti.*
+> *Nello stesso istante in cui Fendrel cade, i "pellegrini" accampati ai Margini del Bosco gettano via i mantelli dorati. Lame nascoste scintillano. In testa al gruppo, una donna dai capelli dorati raccolti e un'armatura bianca e oro istoriata di simboli solari alza una mazza chiodata, il volto calmo più che furioso. Dall'altra parte della radura, urla diverse si levano dall'interno del Circolo di Pietre — volti fidati si rivelano agenti del Velo, già infiltrati da giorni fra i presenti.*
 
 Prova di Percezione o Investigazione CD 10 (facile, serve solo a orientarsi, non a riuscire): un PG che la supera individua rapidamente quali zone del Santuario sono già compromesse e quali offrono ancora un passaggio relativamente libero — informazione utile per la Fase 2, non obbligatoria per procedere.
 
