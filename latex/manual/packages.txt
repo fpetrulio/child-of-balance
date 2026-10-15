@@ -67,6 +67,9 @@ xstring
 
 # Document dependencies
 caption
+hyperref
 lipsum
 listings
 sttools
+url
+wrapfig
