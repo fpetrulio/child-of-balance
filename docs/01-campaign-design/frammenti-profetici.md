@@ -37,7 +37,7 @@ Nessun singolo testo rivela subito ai giocatori chi sia davvero Eos (coerente co
 
 ## Frammento 2 — la Profezia del Rifugio
 
-**Stato**: CONFERMATO (16/10/2026), testo fornito dall'autore. Destinata alla scena di arrivo al rifugio nelle nebbie, fine Capitolo 1 — scena ancora da scrivere (vedi sotto).
+**Stato**: CONFERMATO (16/10/2026), testo fornito dall'autore. Scena di arrivo al rifugio nelle nebbie scritta e promossa nel manuale (Capitolo 1, "Esito --- L'Arrivo al Rifugio").
 
 **Testo**:
 > "Verrà il giorno in cui i figli della terra celeranno tra le nebbie il seme della natura e lo specchio della verità. E tra le nebbie dimoreranno finché la verità non sarà riflessa, per vegliare sull'equilibrio, perché benedetti dallo stesso. Solo loro potranno guidarlo oltre la coltre dell'assoluto."
@@ -46,7 +46,7 @@ Nessun singolo testo rivela subito ai giocatori chi sia davvero Eos (coerente co
 
 **Funzione narrativa**: dà ai PG/al rifugio una motivazione concreta e sacra per fermarsi e crescere Eos (non solo "perché Fendrel l'ha chiesto") — il rifugio stesso esisteva, secondo la profezia, apposta per questo momento. Risponde direttamente alla richiesta dell'autore di una motivazione forte a rimanere.
 
-**DA FARE**: la scena di arrivo al rifugio (fine Capitolo 1 / apertura Downtime I) non è ancora scritta -- solo l'Esito attuale, due frasi. Questo frammento ne è il contenuto centrale. Resta ancora aperto l'espediente narrativo "mind-blowing" richiesto dall'autore per far sentire i PG personalmente parte della profezia (non solo il rifugio/Eos in astratto) -- questo frammento da solo risponde alla motivazione a restare, non ancora a quella richiesta specifica.
+**Scritta (16/10/2026)**: la scena introduce Ilyndra Farwatch, anziana druidessa guida del rifugio, che recita il frammento alla rivelazione di Eos e dello Specchio Incrinato. L'espediente "mind-blowing" richiesto dall'autore (far sentire i PG personalmente parte della profezia, non banale/non solo nomi o tratti): un anello di pietre del rifugio, da sempre creduto cerimoniale, esala un soffio di calore visibile per ciascun PG presente -- mai accaduto prima in tutte le generazioni del rifugio, confermato esplicitamente come inedito dalla reazione di Ilyndra. Conferma per numero, non per nome/tratto -- il rifugio "non sapeva chi, sapeva solo quanti". Dà anche la motivazione a restare: la profezia è un vincolo che il rifugio porta da sempre ("dimoreranno finché la verità non sarà riflessa"), non un invito opzionale.
 
 ## Frammento 3 (riservato) — Il Mito Primordiale
 

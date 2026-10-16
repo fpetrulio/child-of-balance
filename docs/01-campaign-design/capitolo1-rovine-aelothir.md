@@ -289,7 +289,27 @@ Le gallerie risalgono e si aprono su un fianco di collina coperto di felci, non 
 
 **Tesoro**: i due Agenti Ombra del Velo portano, come dotazione operativa standard di agenti dell'infiltrazione, una fiala di **Olio di Scivolosità** (Non comune) a testa -- uno strumento di fuga, coerente col loro ruolo, non un oggetto da combattimento offensivo. Applicato, libera automaticamente da prese/legami o dà vantaggio alle prove di Acrobazia/Atletica per 8 ore -- usabile nello scontro stesso se un PG viene afferrato, oltre a scorta generica per il Downtime I e l'inizio del Capitolo 2.
 
-**Esito**: sconfitto o messo in fuga Nyx (ucciso, catturato, o semplicemente respinto — tutte opzioni valide, da non fissare in anticipo; coerente con il suo stesso carattere, è il più probabile dei due agenti a ritirarsi prima della morte), i PG raggiungono il rifugio. **Checkpoint — Livello 3.** Fine del Capitolo 1.
+**Esito — L'Arrivo al Rifugio**: sconfitto o messo in fuga Nyx (ucciso, catturato, o semplicemente respinto — tutte opzioni valide, da non fissare in anticipo; coerente con il suo stesso carattere, è il più probabile dei due agenti a ritirarsi prima della morte), i PG scendono infine verso il rifugio. **Checkpoint — Livello 3.**
+
+**Lettura**
+
+> *La nebbia si apre come un sipario tirato a mano, non dissolta dal vento ma scostata, quasi con garbo. Il villaggio emerge a poco a poco: tetti di paglia grigia incappucciati di muschio, un fuoco comune che fuma pigro nonostante l'ora, e decine di sagome che smettono di muoversi tutte insieme, come se un solo pensiero le avesse attraversate nello stesso istante. In mezzo a loro, una donna anziana cammina a passo lento, un bastone di frassino nodoso che non usa per reggersi ma per indicare la strada a sé stessa, come chi non ha più bisogno di vedere per sapere dove andare.*
+
+I druidi del rifugio non reagiscono con sospetto né con la cautela che ci si aspetterebbe verso estranei arrivati dal sottosuolo all'alba, armati e segnati dalla notte appena vissuta. Reagiscono con qualcosa di più vicino al sollievo di chi aspetta da così tanto tempo un evento preciso da aver quasi smesso di crederci — e ora, di fronte a esso, non sa più se piangere o restare immobile.
+
+**Ilyndra Farwatch**, anziana druidessa e guida del rifugio da più inverni di quanti ne ricordi lei stessa, si fa avanti per prima. Il viso è una mappa di rughe sottili, scavate non dal tempo soltanto ma da decenni passati a scrutare l'orizzonte in attesa di qualcosa che non sapeva descrivere -- solo riconoscere, quando fosse arrivato. I suoi occhi, di un grigio quasi bianco, si posano prima sul fagotto che i PG portano, poi sul frammento di vetro incrinato che uno di loro stringe ancora, per riflesso più che per scelta. Le labbra di Ilyndra si muovono senza suono per un istante, come se stesse contando qualcosa fra sé -- poi parla, e la voce trema appena, non di paura.
+
+\textit{Ilyndra recita} (testo tramandato dal rifugio, non spiegato nemmeno da lei: lasciare che i giocatori interrompano con domande, a cui lei risponde con onestà parziale, mai con la soluzione intera):
+
+> «Verrà il giorno in cui i figli della terra celeranno tra le nebbie il seme della natura e lo specchio della verità. E tra le nebbie dimoreranno finché la verità non sarà riflessa, per vegliare sull'equilibrio, perché benedetti dallo stesso. Solo loro potranno guidarlo oltre la coltre dell'assoluto.»
+
+Quando Ilyndra finisce di parlare, qualcosa che nessuno del rifugio ha mai visto accadere — non una volta, in tutte le generazioni in cui questo luogo ha custodito la propria attesa — si muove ai margini del villaggio: un anello di pietre basse, da sempre creduto puramente cerimoniale, esala un filo di calore visibile, come fiato in una mattina fredda. Non una, non a caso: **una esalazione per ciascun PG presente**, né una di più né una di meno, contata e sentita da tutti nel silenzio che segue. Ilyndra si volta a guardarle con un'espressione che i PG non le hanno ancora visto — non stupore, ma qualcosa di più vicino al terrore sacro di chi scopre che la propria fede, coltivata per una vita intera nel dubbio, era semplicemente vera.
+
+**Scoperta pratica** (§8.9, effetto narrativo non meccanico): nessuna prova richiesta per percepire il peso del momento -- è pensato per restare un ricordo condiviso al tavolo, non un indizio da decifrare. Se un giocatore chiede esplicitamente "perché proprio noi", Ilyndra non ha una risposta migliore della verità: "Il rifugio non sapeva chi, sapeva solo quanti. Il resto l'avete scritto voi, arrivando."
+
+**Motivazione a restare**: la profezia non è un invito, è un vincolo che il rifugio stesso ha sempre portato -- "dimoreranno finché la verità non sarà riflessa". Ilyndra lo spiega con chiarezza: chiunque sia arrivato con il seme e lo specchio è, da questo momento, parte di quella veglia, non per obbligo imposto ma per lo stesso peso che ha tenuto il rifugio in attesa per generazioni. Restare non è la sola scelta possibile -- ma andarsene significa lasciare un debito aperto con qualcosa di più antico di loro, e il rifugio non farà mai finta che sia altrimenti.
+
+Fine del Capitolo 1.
 
 ## 5. Stato del documento
 

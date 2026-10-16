@@ -6,6 +6,8 @@ Direttive confermate dall'autore · 9 ottobre 2026 (aggiornato 12 ottobre 2026)
 
 CONFERMATO (12/10/2026) — Il tema generale resta fantasy epico e mitologico (Campaign Bible §1), ma il TAGLIO dell'avventura deve essere morale e investigativo: ampio spazio al gioco fuori dal combattimento — indagine, dialogo, intrigo, dilemmi etici — non un'epica puramente militare/eroica. Questo è più specifico di DEC-0020 (pochi scontri, molte scelte/intrighi): ne definisce il *genere* oltre alla *frequenza* dei combattimenti.
 
+**Profondità descrittiva (CONFERMATO 16/10/2026)**: PNG, luoghi e oggetti meritano descrizioni profonde, non funzionali — dettagli di espressione, postura, luce, consistenza materiale, con un tratto artistico vero e proprio, non solo l'informazione minima necessaria a procedere. L'obiettivo è l'immersione, non solo la giocabilità. Questo non sostituisce i vincoli già stabiliti per i box di lettura (sotto le 100 parole/4 frasi, terza persona, mai "voi") -- si applica soprattutto alla prosa GM-facing attorno al box (introduzione di un PNG, descrizione di un luogo prima/dopo la lettura, descrizione di un oggetto trovato), dove non c'è un limite di lunghezza stretto.
+
 ## 1. Combattimenti
 
 Pochi ma importanti e proporzionati al livello del gruppo. Mostri e PNG devono essere potenti, distintivi e motivati, non soltanto statistiche da eliminare. Il livello di difficoltà può superare quello ordinario in assenza di una strategia valida.
