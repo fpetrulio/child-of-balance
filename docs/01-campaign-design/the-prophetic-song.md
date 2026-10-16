@@ -10,6 +10,8 @@ TESTO DI RIFERIMENTO ATTUALE — NON ANCORA APPROVATO COME VERSIONE DEFINITIVA.
 
 Il canto è l'ultima versione profetica prodotta nella conversazione originale; non risulta una conferma esplicita definitiva dell'autore.
 
+**Aggiornamento 16/10/2026**: il meccanismo narrativo è cambiato — non un singolo "canto" che rivela la profezia per intero, ma frammenti profetici distinti sparsi nel corso della campagna (vedi [`frammenti-profetici.md`](./frammenti-profetici.md)). Il primo frammento confermato (Fendrel, Capitolo 1) è un testo diverso e più breve di questo, scritto e approvato dall'autore il 16/10/2026. Questo file resta come archivio storico del tentativo precedente, non più il testo di riferimento attivo.
+
 Le versioni del mito italiano, traduzione inglese, prosa arcaica italiana/inglese e voice-over in due lingue sono segnalate come esistenti, ma i loro testi integrali non sono disponibili nella ricostruzione.
 
 ## Testo integrale — versione riportata

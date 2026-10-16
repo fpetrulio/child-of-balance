@@ -286,7 +286,11 @@ L'anello di pietre muschiate dove vive il resto della comunità druidica: tende,
 
 **Fendrel parla** (dialogo del PNG, non box di lettura: lasciare che i giocatori interrompano con domande — Fendrel risponde quanto può, brevemente, prima che le urla della Zona 5 lo zittiscano):
 
-> «Ascoltatemi, perché non avrò il tempo di ripetermi. Esiste un canto antico, custodito da questo circolo da prima che io nascessi. Parla di un seme che torna a respirare, e di chi lo cercherà per guidarlo, per spegnerlo, per possederlo. Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi.»
+> «Ascoltatemi, perché non avrò il tempo di ripetermi. Esiste un canto antico, custodito da questo circolo da prima che io nascessi:
+>
+> *"Nel dì in cui l'eco del cosmo si tingerà dei colori dell'antitesi, al mondo verrà colui che in sé racchiude le luci e le ombre, e i doni che farà saranno l'impronta del suo essere e del suo auspicio — né nefasto né propizio, ma della stessa natura delle cose."*
+>
+> Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi.»
 
 Nell'istante in cui Fendrel finisce di parlare, le prime urla si alzano dalla Zona 5 — l'assalto comincia (§5.6). Fendrel spinge il neonato fra le braccia del PG più vicino («Andate. ORA.») e si volta a sbarrare il passo a due assalitori, guadagnando ai PG i secondi necessari per orientarsi. Muore lì poco dopo, senza che i PG possano intervenire in tempo — a meno che non scelgano esplicitamente di provarci, pagando un costo tattico reale (§5.7).
 
