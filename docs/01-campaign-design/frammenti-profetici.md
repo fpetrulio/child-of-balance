@@ -4,6 +4,16 @@ Child of Balance · meccanismo narrativo: conoscenza di Eos rivelata per frammen
 
 Stato: CONFERMATO (16/10/2026) come meccanismo — i dettagli dei frammenti futuri (Capitolo 2 in poi) restano DA DEFINIRE fino a quando quei capitoli non vengono scritti.
 
+## Stile e struttura (regola dell'autore, 16/10/2026)
+
+Ogni frammento profetico, compresi quelli che scriverò io in futuro (non solo quelli dettati dall'autore), segue questo registro e questa struttura:
+
+- **Registro**: criptico, leggermente arcaico -- mai prosa esplicativa diretta. Metafore ricorrenti già stabilite da riusare (il Seme = Eos, le nebbie/la coltre = occultamento, l'Assoluto = le fazioni polarizzate, l'Equilibrio = il concetto cardine).
+- **Struttura in due livelli, sempre presente**:
+  1. Un **fatto compiuto** come perno centrale -- qualcosa già accaduto (o che si sta avverando nello stesso istante) nel momento in cui il frammento viene letto o recitato. È quello che convalida la profezia agli occhi di chi l'ascolta: "è già vero, quindi il resto potrebbe esserlo".
+  2. Un **fatto futuro** come indizio -- qualcosa non ancora accaduto, presagito ma non spiegato, che anticipa un evento/tema di un capitolo successivo senza nominarlo esplicitamente.
+- Mai una rivelazione diretta e completa: il lettore/ascoltatore capisce che il perno si è avverato, ma l'indizio resta un presagio aperto, non una spiegazione.
+
 ## Il meccanismo
 
 Nessun singolo testo rivela subito ai giocatori chi sia davvero Eos (coerente con `principi-di-design.md` §8.12, CD commisurate al livello come barriera narrativa — "chi è Eos" non è raggiungibile ai primi livelli). Invece, frammenti profetici distinti appaiono sparsi nel corso della campagna, ciascuno rivelando un pezzo della verità senza mai darla per intero in un colpo solo. Ogni frammento:
