@@ -10,6 +10,10 @@ Le sei Impronte di Eos, prima di essere reliquie, sono oggetti semplici e comuni
 
 Ogni PG scorta uno di questi oggetti fino al Santuario dei Grigi, su commissione (un vero ingaggio, non una scelta spontanea) — diventando quindi parte della scena della nascita non per curiosità personale, ma per lavoro. I sei racconti, confrontati fra loro più avanti nella campagna (dopo il Limbo, Downtime II), formano un quadro coerente: lo stesso uomo, visto da sei angolazioni diverse, non più vecchio in nessuna di esse nonostante il tempo passato fra una visita e l'altra.
 
+**Il Segno Gemello (chicca per i giocatori, CONFERMATO 16/10/2026)**: ogni PG porta, nascosto da qualche parte sulla pelle — una spalla, la nuca, l'interno del polso, la caviglia, a scelta di ciascun giocatore — una voglia di nascita identica nella forma: due mezzelune affrontate, che si fronteggiano senza toccarsi mai, come due mani che non osano stringersi. Allo sguardo distratto è grigio cenere, quasi invisibile; ma chi la osserva da vicino, nella luce giusta, giura di scorgere un'ombra di colore lungo il bordo interno di ciascuna mezzaluna — oro da un lato, violetto dall'altro. Nessun PG sa perché ce l'ha: è un dettaglio da condividere in session zero come fatto di fondo del personaggio, non un segreto da nascondere al tavolo — solo al mondo di gioco.
+
+Ciò che nessun PNG in questa scena spiegherà mai, perché nessuno di loro lo sa davvero: ciascuna delle sei organizzazioni custodi, per una tradizione di reclutamento tramandata da prima della memoria viva di chiunque le guidi oggi, ha sempre favorito — a parità di ogni altra qualità — il messaggero che porta quel segno, quando uno si presenta. Non è una regola scritta in nessun testo: è un istinto così vecchio che nessuno lo mette più in discussione, raramente verbalizzato anche fra loro. È così che, senza che una sola delle sei organizzazioni sospetti il perché, sei persone segnate allo stesso modo convergono la stessa notte nello stesso luogo — non per scelta, non per la profezia di Fendrel (che non ne sa nulla), ma per qualcosa di più antico e più silenzioso di lui. **Origine del segno**: DA DEFINIRE — resta un mistero aperto, da sciogliere (anche solo in parte) in un capitolo futuro, coerente con il meccanismo dei frammenti profetici (`frammenti-profetici.md`).
+
 **Tabella di riferimento rapido — Le Sei Custodie**
 
 | Reliquia futura | Organizzazione | Luogo | PNG | Oggetto (prima della nascita) |
@@ -290,9 +294,13 @@ L'anello di pietre muschiate dove vive il resto della comunità druidica: tende,
 >
 > *"Nel dì in cui l'eco del cosmo si tingerà dei colori dell'antitesi, al mondo verrà colui che in sé racchiude le luci e le ombre, e i doni che farà saranno l'impronta del suo essere e del suo auspicio — né nefasto né propizio, ma della stessa natura delle cose."*
 >
-> Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io. Vi chiedo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare. La profezia dice che sarete voi.»
+> Non vi chiedo di capire cosa significhi — non lo capisco nemmeno io. Vi chiedo solo questo: quando il seme torna, qualcuno deve salvarlo e crescerlo, lontano da chi lo vuole usare.»
 
-Nell'istante in cui Fendrel finisce di parlare, le prime urla si alzano dalla Zona 5 — l'assalto comincia (§5.6). Fendrel spinge il neonato fra le braccia del PG più vicino («Andate. ORA.») e si volta a sbarrare il passo a due assalitori, guadagnando ai PG i secondi necessari per orientarsi. Muore lì poco dopo, senza che i PG possano intervenire in tempo — a meno che non scelgano esplicitamente di provarci, pagando un costo tattico reale (§5.7).
+Fendrel non sa chi debba essere quel "qualcuno" — non lo afferma, non lo decide, non spetta a lui (CONFERMATO 16/10/2026: nessuna rivendicazione di destino da parte sua). È tutto ciò che fa in tempo a dire prima che le prime urla si alzino dalla Zona 5 — l'assalto comincia (§5.6).
+
+Nel caos che segue, sono i druidi più anziani ed esperti del circolo — non Fendrel — a decidere in un istante chi deve scortare lui ed Eos verso la salvezza: i PG, perché sono lì, armati, capaci, e già legati a Fendrel dal filo pratico della consegna dei doni poco prima. «Voi! Siete qui per una ragione — andate con lui, portate il bambino al sicuro!» Uno di questi druidi, nello strattonare un PG verso Fendrel, può cogliere per un solo istante — una manica strappata, un colletto spostato nella fretta — il Segno Gemello sulla sua pelle (vedi §0 sopra). Si blocca, un battito di troppo, gli occhi spalancati come chi riconosce qualcosa che non dovrebbe essere lì; poi il caos lo inghiotte di nuovo e non ne parla più, né ora né mai. Nessun PNG collega mai esplicitamente il segno a Eos: è un dettaglio per il GM da far notare, non da spiegare.
+
+Fendrel avvolge lo Specchio Incrinato — l'unica Impronta già arrivata al Santuario prima della nascita, offerta del Collegio dei Vetrai — nelle stesse coperte in cui stringe Eos: non lo affida a parte, lo lega al bambino stesso, come se da quel momento i due dovessero restare insieme. «Andiamo. ORA» dice, muovendosi per primo verso la Zona 5 — l'unica via che porta fuori dalla radura, anche se è la stessa da cui sono arrivati gli assalitori. Non è un corpo da proteggere: per ora, è ancora lui a guidare la fuga (§5.7).
 
 ### Zona 5 — I Margini del Bosco
 
@@ -306,7 +314,9 @@ Questa è la scena cardine del Capitolo 1: una forza soverchiante, non vincibile
 
 **Lettura**
 
-> *Nello stesso istante in cui Fendrel cade, i "pellegrini" accampati ai Margini del Bosco gettano via i mantelli dorati. Lame nascoste scintillano. In testa al gruppo, una donna dai capelli dorati raccolti e un'armatura bianca e oro istoriata di simboli solari alza una mazza chiodata, il volto calmo più che furioso. Dall'altra parte della radura, urla diverse si levano dall'interno del Circolo di Pietre — volti fidati si rivelano agenti del Velo, già infiltrati da giorni fra i presenti.*
+> *Nello stesso istante in cui le urla si alzano, i "pellegrini" accampati ai Margini del Bosco gettano via i mantelli dorati. Lame nascoste scintillano. In testa al gruppo, una donna dai capelli dorati raccolti e un'armatura bianca e oro istoriata di simboli solari alza una mazza chiodata, il volto calmo più che furioso. Dall'altra parte della radura, urla diverse si levano dall'interno del Circolo di Pietre — volti fidati si rivelano agenti del Velo, già infiltrati da giorni fra i presenti.*
+
+Non sono solo i PG a reagire. I druidi più anziani del circolo — gente che ha vissuto decenni, alcuni capaci di magie che i PG non li vedranno mai lanciare in tempo — si gettano contro gli assalitori per guadagnare ai più giovani anche solo pochi istanti. Non basta: cadono uno dopo l'altro, travolti con la stessa facilità dei novizi, senza che Thessaly e i suoi rallentino nemmeno il passo. È il primo segnale innegabile, per chiunque lo veda, che qui non esiste uno scontro possibile — solo la fuga.
 
 Prova di Percezione o Investigazione CD 10 (facile, serve solo a orientarsi, non a riuscire): un PG che la supera individua rapidamente quali zone del Santuario sono già compromesse e quali offrono ancora un passaggio relativamente libero — informazione utile per la Fase 2, non obbligatoria per procedere.
 
@@ -321,25 +331,31 @@ Ogni deviazione dal percorso di fuga più diretto (Zona 4 → Zona 5 → bosco) 
 | Ovunque, durante la fuga | Il Seme di Tempesta rotola nel sottobosco durante il trambusto. | Percezione o Investigazione CD 12 per notarlo, più un'azione dedicata per recuperarlo — facile da lasciare perduto. |
 | Zona 5 (i Margini del Bosco) | Un assalitore mascherato del Velo strappa il Velo Strappato al corpo di un druido caduto; un druido anziano divide la Radice Incantata in due talee e le affida a due messaggeri che si separano subito; un altro druido fugge in direzione opposta portando il Tamburo Silenzioso. | Tutti e tre sono eventi witnessed, non impediti da una prova — tranne il druido col Tamburo: Atletica o Sopravvivenza CD 13 per raggiungerlo, ma devia dalla rotta di fuga principale (stesso costo della Zona 3). |
 
-Lo Specchio Incrinato non richiede prove: Fendrel (o chi per lui, se è già morto prima di poterlo fare) lo affida deliberatamente a un PG insieme al neonato nella rivelazione di Zona 4 — l'unica reliquia consegnata con intenzione, non presa nel caos.
+Lo Specchio Incrinato non richiede prove: è già avvolto nelle coperte di Eos fin da Zona 4 — l'unica Impronta che non va presa, perché non si è mai separata dal bambino. Qualunque altra Impronta i PG riescano a recuperare in questa fase resta nelle loro mani fino alla Fase 3 — dove torna utile in un modo che nessuno dei PG può ancora immaginare (vedi sotto).
 
 #### Fase 3 — La Corsa ai Margini
 
 Qui la campagna dimostra, meccanicamente e non solo a parole, perché la fuga è l'unica scelta sensata (nota di bilanciamento, §6 sotto). Non uno scontro vincibile di petto: una sequenza di 2-3 prove in rapida successione (Atletica, Acrobazia o Destrezza, CD crescente 12/14/16), rappresentando detriti, un assalitore che taglia la strada, il terreno ineguale della radura devastata. Ogni deviazione presa in Fase 2 aggiunge una prova alla sequenza (il tempo perso si traduce in ostacoli in più, non in un fallimento automatico). Un fallimento non significa morte: un colpo di striscio da un nemico soverchiante (danno minore, coerente con la loro reale potenza) che rende tangibile il pericolo senza trasformare la fuga in un combattimento vero.
 
+Fendrel corre con loro, non davanti a loro come guida intoccabile: incassa colpi, copre varchi, orienta la rotta — ma non è invulnerabile, ed è ormai visibilmente provato. Se un assalitore taglia la strada al gruppo (una delle prove della sequenza, o un'aggiunta estemporanea del GM) mentre i PG portano ancora con sé una o più Impronte oltre allo Specchio, Fendrel può lanciarne una verso il nemico più vicino: vederla a terra basta perché Alba e Velo smettano per un istante di inseguire Eos e si contendano l'oggetto fra loro, incuranti dei PG. **Effetto meccanico**: quella prova della sequenza ha successo automatico, oppure — a scelta del GM, se la scena lo richiede — l'intero gruppo guadagna un turno di vantaggio sugli inseguitori. Il costo è reale e permanente: l'Impronta lanciata è persa per il resto del capitolo, recuperabile solo come gancio per una trama futura, mai per questa fuga.
+
 **Esiti divergenti**: il Capitolo 1 non ha un'unica fuga "corretta". Le scelte dei PG determinano quante persone sopravvivono, quali reliquie restano a portata (nessuna, salvo lo Specchio Incrinato, è obbligatoriamente persa o salvata), e con quale margine lasciano il Santuario. Questo apre naturalmente a conseguenze diverse più avanti (chi altro sopravvive per essere un futuro PNG, quanto rapidamente i culti consolidano la propria reliquia, ecc.) — nessuna di queste va fissata ora, vanno tracciate in base a cosa accade realmente al tavolo.
 
-#### Fase 4 — La Fuga nel Sottobosco (raccordo con la Via Sotterranea)
+#### Fase 4 — L'Ultima Resistenza di Fendrel (raccordo con la Via Sotterranea)
 
 **Lettura**
 
-> *Gli alberi inghiottono la luce del Santuario in fiamme alle loro spalle. Una figura emerge dal sottobosco prima che i PG possano orientarsi — una giovane druida, il viso rigato di terra e lacrime, un pugnale ancora stretto in mano. "Senna," si presenta, a fiato corto. "Fendrel... mi ha detto di aspettarvi qui, se fosse successo il peggio. C'è un'altra via. Seguitemi — in fretta."*
+> *Gli alberi inghiottono la luce del Santuario in fiamme alle loro spalle. Fendrel li guida a un tasso millenario, le radici contorte intorno a un varco appena visibile nella terra — e proprio lì, fra i PG e quel varco, due sagome emergono dal buio a sbarrare il passo, armi già alzate. Fendrel si ferma. Per la prima volta da quando è iniziato tutto, non ha fretta.*
 
-Senna Loreleaf, druida minore del circolo, è la depositaria di riserva del segreto di Aelothir — Fendrel, prevedendo la propria morte, aveva affidato anche a lei (non solo rivelato ai PG in punto di morte) l'esistenza della via nascosta, proprio per non lasciare la fuga dipendente da un unico filo. Guida i PG al sinkhole sotto il tasso millenario (Zona 1 della Parte 1, sotto) senza ulteriori prove richieste — la sua presenza stessa è la chiusura della Fase 3, non un nuovo ostacolo.
+Fendrel non prova più a correre: pianta il bastone di quercia nel terreno e si volta verso i PG, non verso il nemico. «Il varco vi porterà al sicuro — fidatevi, come vi siete fidati finora. Andate. Portatelo via.» Non c'è spazio per discutere: se i PG esitano, insiste una volta sola, poi li spinge fisicamente verso l'apertura. Scende nel sottosuolo solo il necessario per vederli al sicuro oltre il primo tratto — poi si volta a occupare da solo lo stretto passaggio, l'unico punto in cui al massimo due assalitori alla volta possono raggiungerlo.
+
+Quello che i PG vedono, voltandosi per un ultimo istante prima che il buio li inghiotta: Fendrel che pianta il bastone una seconda volta, più in profondità — e le radici del tasso millenario, vive sopra di loro da secoli, rispondono a un comando più antico di qualunque incantesimo che i PG abbiano mai visto, richiudendosi sulla terra come una ferita che si rimargina. L'ultima cosa che sentono non è un grido, ma il suono sordo della terra che frana — e poi silenzio.
+
+Fendrel muore lì, sigillando l'unica via che gli assalitori avrebbero potuto usare per seguirli (§5.7) — senza che i PG possano intervenire in tempo, a meno che non scelgano esplicitamente di tornare indietro per lui, pagando un costo tattico reale e quasi certamente inutile: il varco, una volta richiuso, non si riapre dall'esterno.
 
 ### 5.7 Esito
 
-I PG fuggono dal Santuario devastato con Eos neonato, lo Specchio Incrinato, e il frammento di profezia che Fendrel ha affidato loro — null'altro di certo. Il capitolo non si chiude qui: con Senna come guida, comincia subito il viaggio attraverso le rovine di Aelothir (vedi `capitolo1-rovine-aelothir.md`) verso un rifugio sicuro, DA DEFINIRE in dettaglio per il Downtime I.
+I PG fuggono nel sottosuolo con Eos neonato e lo Specchio Incrinato ancora avvolto nelle sue coperte, il frammento di profezia che Fendrel ha affidato loro, e il peso della sua morte alle spalle — null'altro di certo, e nessuna guida tranne se stessi. Il capitolo non si chiude qui: comincia subito il viaggio attraverso le rovine di Aelothir (vedi `capitolo1-rovine-aelothir.md`) verso un rifugio sicuro, DA DEFINIRE in dettaglio per il Downtime I.
 
 ## 6. Statblock (formato 5e 2014 standard)
 

@@ -6,7 +6,7 @@ Stato: CONFERMATO (13/10/2026, DEC-0059) — promosso per intero in `latex/manua
 
 ## 0. Perché esiste questa sezione
 
-I PG fuggono dal Santuario con Eos neonato, lo Specchio Incrinato e il frammento di profezia — ma la fuga nella wilderness aperta non basta a riempire due livelli di gioco (§8.1 del framework: ~3 sessioni per il 2° livello, ~4 per il 3°), e lasciarli semplicemente "camminare nei boschi" per quel tempo sarebbe narrativamente vuoto. Senna Loreleaf, druida minore sopravvissuta all'assalto (§5.6 Fase 4 del Prologo), li guida a un tratto dimenticato delle vecchie gallerie elfiche sotto la loro parte di foresta — Fendrel, prevedendo la propria morte, le aveva affidato in anticipo l'esistenza della via nascosta, per non lasciare la fuga dipendente da un unico filo. Il circolo la conosce da generazioni — non per averla esplorata, ma per averne sempre evitato l'ingresso, tramandandosi solo "non scendete mai a Aelothir" come monito. Stanotte non hanno scelta.
+I PG fuggono dal Santuario con Eos neonato, lo Specchio Incrinato e il frammento di profezia — ma la fuga nella wilderness aperta non basta a riempire due livelli di gioco (§8.1 del framework: ~3 sessioni per il 2° livello, ~4 per il 3°), e lasciarli semplicemente "camminare nei boschi" per quel tempo sarebbe narrativamente vuoto. Fendrel stesso li ha condotti fin qui, a un tratto dimenticato delle vecchie gallerie elfiche sotto la loro parte di foresta, prima di sigillare l'ingresso alle proprie spalle con l'ultimo atto della sua vita (§5.6 Fase 4 del Prologo) — i PG proseguono soli, senza guida, senza nessuno che conosca già la strada. Il circolo conosce l'esistenza di queste gallerie da generazioni — non per averle esplorate, ma per averne sempre evitato l'ingresso, tramandandosi solo "non scendete mai a Aelothir" come monito. Stanotte non avevano scelta.
 
 La via è sufficientemente protetta da antichi incantamenti da schermare la localizzazione magica (coerente con l'assenza di inseguimento magico stabilita nel Prologo) — ma è pericolosa per conto suo, popolata da occupanti che i druidi non hanno mai sfidato, e porta i PG molto più vicino di quanto vorrebbero a qualcosa che l'882 DR avrebbe dovuto seppellire per sempre.
 
@@ -65,13 +65,13 @@ Otto zone (precedentemente quattro, espanse il 13/10/2026 per rispettare il targ
 
 ### Zona 1 — L'Ingresso Nascosto
 
-Senna Loreleaf guida i PG a un sinkhole dissimulato sotto le radici di un tasso millenario, a circa un'ora di marcia dai Margini del Bosco — abbastanza vicino da poterlo raggiungere ancora nel buio della fuga, abbastanza nascosto da non essere mai stato notato dai culti.
+I PG scendono nel sinkhole dissimulato sotto le radici di un tasso millenario mentre, alle loro spalle, Fendrel compie l'ultimo atto che li metterà in salvo (§5.6 Fase 4 del Prologo) — abbastanza vicino ai Margini del Bosco da poterlo raggiungere ancora nel buio della fuga, abbastanza nascosto da non essere mai stato notato dai culti.
 
 **Lettura**
 
 > *Le radici del grande tasso si aprono come dita contratte su un varco di pietra liscia, troppo regolare per essere naturale. Un filo di aria fredda sale dal buio, portando un odore di muschio antico e metallo. Incise sull'architrave, appena visibili sotto il muschio, corrono linee che non assomigliano a nessuna scrittura comune.*
 
-**Accesso**: il varco è protetto da un sigillo elfico ancora attivo — non una serratura, ma un riconoscimento. Senna permette il passaggio senza prova. Un PG che tenti di forzarlo senza quella chiave tenta una prova di Arcana CD 15: successo, il sigillo lo riconosce comunque come "non ostile" e si apre; fallimento, nessun danno, ma il sigillo resta chiuso finché non interviene chi ha la chiave — un vicolo cieco temporaneo, non una trappola.
+**Accesso**: il varco è protetto da un sigillo elfico ancora attivo — non una serratura, ma un riconoscimento. Si apre da solo quando riconosce chi porta Eos, come se l'antica rete di protezione (vedi prova di Arcana CD 26 sopra) fosse stata costruita anche per questo, non solo per schermare chi vi si rifugia. Un PG che tenti di forzarlo senza Eos con sé tenta una prova di Arcana CD 15: successo, il sigillo lo riconosce comunque come "non ostile" e si apre; fallimento, nessun danno, ma il sigillo resta chiuso finché non interviene chi ha la chiave — un vicolo cieco temporaneo, non una trappola.
 
 **Primo indizio pratico**: chiunque superi una prova di Investigazione CD 10 nota che le linee incise raffigurano file di elfi armati rivolti verso il basso, non verso l'esterno — un primo accenno (senza ancora rivelare il perché) che qui il pericolo veniva da sotto.
 

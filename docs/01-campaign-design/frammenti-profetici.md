@@ -58,6 +58,12 @@ Nessun singolo testo rivela subito ai giocatori chi sia davvero Eos (coerente co
 
 **Formato quando verrà scritto**: coerente con la nota di formato sopra -- presentato come narrazione del master nel momento della scoperta (es. un rituale, un testo trovato e letto ad alta voce, un ricordo/visione), non come semplice lettura di un documento trovato a sé stante.
 
+## Nota collegata — Il Segno Gemello
+
+**Stato**: CONFERMATO (16/10/2026, DEC-0073) come meccanismo e aspetto, ma **non è un frammento profetico** nel senso stretto di questo documento -- non ha un testo recitato, non segue il registro criptico/arcaico. È un dispositivo di fato collegato: ogni PG porta dalla nascita una voglia a forma di due mezzelune affrontate (eco diretta dell'aurora oro-violacea della nascita di Eos, §Zona 3 di `capitolo1-prologo.md`), e questo segno -- mai spiegato in gioco -- è la ragione silenziosa per cui ciascuna delle sei organizzazioni custodi ha scelto proprio quel PG come messaggero. Dettaglio completo in `capitolo1-prologo.md` §1 e in Capitolo1.tex (sidebar "Il Segno Gemello"). Handout di riferimento in Appendice C.
+
+**Perché è qui**: come i frammenti profetici, è un indizio di fato lasciato volutamente irrisolto -- la sua origine resta DA DEFINIRE, da sciogliere eventualmente insieme a un frammento futuro (es. potrebbe rivelarsi legato al primo Eos stesso). Non va confuso con un vero frammento: non aggiungerlo alla sequenza "Frammento N" qui sotto a meno che non venga effettivamente scritto un testo profetico che lo riguardi.
+
 ## Frammenti futuri
 
 Nessun altro frammento scritto finora. Aggiungere qui ogni nuovo frammento (testo, stato, cosa rivela, collocazione) man mano che la campagna procede, per mantenere coerenza fra tutti i pezzi della profezia sparsa.
