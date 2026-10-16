@@ -25,7 +25,20 @@ Nessun singolo testo rivela subito ai giocatori chi sia davvero Eos (coerente co
 
 **Contesto nella scena**: Fendrel lo recita come testo tramandato dal circolo druidico da prima che lui stesso nascesse — lui stesso dichiara di non capirne il significato. Non è presentato come un testo fisico che i PG possono esaminare in quel momento (Fendrel lo recita a memoria durante la rivelazione concitata, pochi istanti prima dell'assalto), ma può naturalmente riapparire più avanti in forma scritta (vedi sotto).
 
-## Frammento 2 (riservato) — Il Mito Primordiale
+## Frammento 2 — la Profezia del Rifugio
+
+**Stato**: CONFERMATO (16/10/2026), testo fornito dall'autore. Destinata alla scena di arrivo al rifugio nelle nebbie, fine Capitolo 1 — scena ancora da scrivere (vedi sotto).
+
+**Testo**:
+> "Verrà il giorno in cui i figli della terra celeranno tra le nebbie il seme della natura e lo specchio della verità. E tra le nebbie dimoreranno finché la verità non sarà riflessa, per vegliare sull'equilibrio, perché benedetti dallo stesso. Solo loro potranno guidarlo oltre la coltre dell'assoluto."
+
+**Cosa rivela**: descrive con precisione l'arrivo stesso dei PG al rifugio — "il seme della natura" è Eos (coerente con la metafora del Seme già stabilita nel Frammento 1 e nel titolo dell'antico canto), "lo specchio della verità" è lo Specchio Incrinato, l'unica Impronta che i PG portano fisicamente con sé in quel momento (Capitolo 1, Zona 4). "I figli della terra" si lega al rifugio druidico. "L'equilibrio" è il concetto cardine della campagna (Registro dell'Equilibrio). "La coltre dell'assoluto" anticipa esplicitamente il nome del Capitolo 2 ("Il Prezzo dell'Assoluto") e il tema del Downtime I/Capitolo 2 (quale Assoluto, superare l'assolutismo). Non rivela: chi siano i genitori di Eos, l'esistenza del mito primordiale, o alcun dettaglio sui culti.
+
+**Funzione narrativa**: dà ai PG/al rifugio una motivazione concreta e sacra per fermarsi e crescere Eos (non solo "perché Fendrel l'ha chiesto") — il rifugio stesso esisteva, secondo la profezia, apposta per questo momento. Risponde direttamente alla richiesta dell'autore di una motivazione forte a rimanere.
+
+**DA FARE**: la scena di arrivo al rifugio (fine Capitolo 1 / apertura Downtime I) non è ancora scritta -- solo l'Esito attuale, due frasi. Questo frammento ne è il contenuto centrale. Resta ancora aperto l'espediente narrativo "mind-blowing" richiesto dall'autore per far sentire i PG personalmente parte della profezia (non solo il rifugio/Eos in astratto) -- questo frammento da solo risponde alla motivazione a restare, non ancora a quella richiesta specifica.
+
+## Frammento 3 (riservato) — Il Mito Primordiale
 
 **Stato**: testo scritto e CONFERMATO come canone (vedi [`mito-primordiale.md`](./mito-primordiale.md), DEC-0069), ma la sua **collocazione nell'avventura resta DA DEFINIRE** fino alla stesura del capitolo che lo conterrà.
 
