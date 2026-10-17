@@ -4,6 +4,29 @@ Child of Balance · Gate F, primo vertical slice giocabile · bozza 13 ottobre 2
 
 Stato: IPOTESI IN SVILUPPO — scritto insieme all'autore, non ancora promosso a canonico definitivo. Vedi [Narrative Roadmap, Gate F](../00-project-management/narrative-roadmap.md#6-gate-f--primo-vertical-slice-giocabile) e [Architettura della Campagna §0](./architettura-campagna.md) per il contesto.
 
+## Box GM — Il capitolo a colpo d'occhio (CONFERMATO 17/10/2026, coerente con `principi-di-design.md` §8.2)
+
+**Sinossi**: i PG, ciascuno scortando un dono per il Santuario dei Grigi, assistono alla nascita di Eos e devono metterlo in salvo quando il Santuario viene assalito da due culti rivali di forze pari — fuggendo poi attraverso le rovine sotterranee di Aelothir fino a un rifugio sicuro.
+
+**Livelli coperti**: 1-3 (DEC-0051). **Durata stimata**: circa 8 sessioni — 1 per il Prologo, 3 per la Via Sotterranea/Parte 1 fino al checkpoint di Livello 2, 4 per la Parte 2 fino al checkpoint di Livello 3 (`principi-di-design.md` §8.1: stima di dimensionamento, non una formula rigida).
+
+**Party assunto**: 4 PG. Tutta la calibrazione degli scontri di questo capitolo (Grulnak, Nyx, i due culti del Santuario) usa questo numero come base.
+
+**Struttura**: Prologo (Santuario dei Grigi, una notte) → Via Sotterranea / Aelothir Parte 1 (ingresso, checkpoint Livello 2) → Aelothir Parte 2 (più in profondità, checkpoint Livello 3) → Esito (arrivo al rifugio nelle nebbie, ponte verso il Downtime I).
+
+**Adattare per gruppi diversi**: gli scontri calibrati (Grulnak, Zona 11 di `capitolo1-rovine-aelothir.md`; Nyx, Zona 17) assumono 4 PG. Con 3 PG o meno, trattare la soglia Difficile come il vero tetto da non superare e saltare il rinforzo dinamico di Grulnak. Con 6 PG o più, il moltiplicatore DMG per singolo mostro (Grulnak) o per due mostri (Nyx + un Agente Ombra) resta lo stesso ma la soglia-per-PG si abbassa proporzionalmente — senza intervenire, lo scontro rischia di risultare più leggero del previsto: valutare di introdurre il rinforzo fin dal primo round invece che come escalation. L'assalto al Santuario e le prove di fuga di Fase 3 non richiedono riadattamento: sono calibrate su CD fisse, non sul numero di PG — così come le tabelle di incontri casuali di Aelothir (`capitolo1-rovine-aelothir.md` §3, §4).
+
+**Chi è chi in questo capitolo**
+
+| PNG | Ruolo | Dove | Esito |
+|---|---|---|---|
+| Fendrel Greyoak | Guida del circolo druidico del Santuario | Prologo, poi Via Sotterranea | Muore in Fase 4, sigillando l'ingresso di Aelothir dietro i PG |
+| Garrick e Wren Alderleaf | Genitori mortali di Eos | Prologo, Zona 3 | Muoiono nell'assalto (Fase 2) — non per un motivo mistico, solo nel posto sbagliato |
+| Thessaly Dawnbreaker | Sunmaster rinnegata, capo operativo dell'Alba Incorrotta | Prologo, Fase 1 | Sopravvive — PNG ricorrente; la vera leadership del culto resta segreta (DEC-0035) |
+| Nyx Kelvorn | Agente ombra, capo operativo del Velo dell'Ultima Quiete | Prologo → Aelothir Zona 17 | Si ritira se lo scontro gli è sfavorevole (tattica stabilita, non un esito scriptato) — PNG ricorrente |
+| Grulnak | Capobranco orchesco rifugiato ad Aelothir | Aelothir, Zona 11 | Negoziabile o sconfiggibile — nessun esito fisso, dipende dalle scelte dei PG |
+| Ilyndra Farwatch | Anziana druidessa, guida del rifugio nelle nebbie | Esito / Downtime I | Sopravvive — PNG ricorrente per il Downtime I |
+
 ## 0. Principio di fondo
 
 Le sei Impronte di Eos, prima di essere reliquie, sono oggetti semplici e comuni — effetti personali che il PRIMO Eos ("il vecchio Eos", vissuto come druido errante per millenni prima di morire nel -339 DR, DEC-0055) lasciò in dono a persone e comunità che incontrò nei suoi lunghi viaggi. Ogni oggetto è oggi custodito da un'organizzazione diversa, ciascuna con un proprio PNG, una propria leggenda su "chi fosse" il vecchio Eos (mai riconosciuto come tale), e un proprio presagio recente che l'ha convinta a restituirlo. Nessuna di queste organizzazioni conosce la Profezia per intero, né la vera natura di Eos (coerente con DEC-0049) — solo un'istruzione tramandata, un'eco, un presagio.

@@ -63,6 +63,17 @@ CONFERMATO in sessione (13/10/2026), applicazione concreta di `principi-di-desig
 
 Otto zone (precedentemente quattro, espanse il 13/10/2026 per rispettare il target di 8-15 scene per level-up, `principi-di-design.md` §8.1) — non riempimento: ogni zona nuova ha una ragione propria, coerente con §3 e §8.8 del framework.
 
+**Tabella Incontri Casuali — Le Radici Cave (CONFERMATO 17/10/2026)**: tira 1d6 ogni volta che il gruppo si sposta fra due zone senza una scena scriptata di mezzo, o al massimo una volta per ora di esplorazione libera — non più di 1-2 volte a sessione. Questi incontri aggiungono testura e imprevedibilità, non sostituiscono le zone: nessuno è pensato per essere uno scontro obbligato o letale.
+
+| d6 | Incontro |
+|----|----|
+| 1 | Un piccolo nugolo di ratti giganti delle caverne (Manuale dei Mostri) — fastidiosi più che pericolosi, si disperdono a un rumore forte o una fonte di luce. |
+| 2 | Una pattuglia di 2 orchi del branco di Grulnak (Zona 11), in perlustrazione. Non cercano scontro (coerente col loro carattere, vedi Zona 11): una prova di Persuasione o Intimidire CD 12, o semplicemente evitarli, basta a passare senza combattere. |
+| 3 | Un tratto di galleria instabile: Destrezza CD 11 per attraversarlo senza incidenti. Fallimento: nessun danno, ma il rumore del cedimento allerta qualunque cosa nei dintorni entro 18 m per un round. |
+| 4 | Un'eco del rito funebre dell'882 DR (vedi Prova di Religione, Zona 8) attraversa la galleria — un coro lontanissimo, in una lingua che nessuno parla più. Nessun effetto meccanico: solo atmosfera, utile per anticipare la Sala della Guarnigione. |
+| 5 | Dense ragnatele bloccano un passaggio: una singola ragna gigante (Manuale dei Mostri), territoriale ma non affamata — si ritira se affrontata con decisione, o il passaggio si aggira con Acrobazia CD 13. |
+| 6 | Silenzio assoluto per il resto del tratto. Nessun incontro: un'occasione per un riposo breve o per far parlare i PG fra loro. |
+
 ### Zona 1 — L'Ingresso Nascosto
 
 I PG scendono nel sinkhole dissimulato sotto le radici di un tasso millenario mentre, alle loro spalle, Fendrel compie l'ultimo atto che li metterà in salvo (§5.6 Fase 4 del Prologo) — abbastanza vicino ai Margini del Bosco da poterlo raggiungere ancora nel buio della fuga, abbastanza nascosto da non essere mai stato notato dai culti.
@@ -167,6 +178,17 @@ Il cuore di Aelothir: una sala ipogea sorretta da colonne a forma di radice, con
 ## 4. Parte 2 — più in profondità (~4 sessioni, checkpoint Livello 3)
 
 Dalla Sala della Guarnigione (Zona 8), la mappa incisa trovata lì (§3, Zona 8) mostra due vie, entrambe passanti per l'Avamposto dei Profughi e il Capo Orco (Zone 9→10→11, sempre attraversate): da lì, una via diretta ma più vicina alla fonte della corruzione residua (Zone 12→13), una più lunga che la aggira quasi del tutto saltando le Zone 12-13 (e l'informazione che vi si trova, vedi sotto) per ricongiungersi direttamente alla Zona 14. Entrambe convergono poi su Zone 14→15→16→17. Una scelta reale, non cosmetica, coerente con `principi-di-design.md` §8.10.
+
+**Tabella Incontri Casuali — Più in profondità (CONFERMATO 17/10/2026)**: stessa frequenza della Parte 1 (§3) — 1d6 fra una zona scriptata e l'altra, non più di 1-2 volte a sessione. Il tono qui è più cupo: più vicini alla corruzione residua dell'882 DR, meno vicini a qualunque aiuto.
+
+| d6 | Incontro |
+|----|----|
+| 1 | Resti della guarnigione dell'882 DR, mai sepolti correttamente, si muovono: 1-2 scheletri (Manuale dei Mostri) senza alcuna intelligenza residua, solo riflessi di un ultimo ordine mai revocato. Facili ma inquietanti — più un momento di orrore che un vero pericolo. |
+| 2 | Un piccolo gruppo di orchi separati dal branco di Grulnak (specialmente dopo la Zona 11) — spaventati, non ostili per primi; Intuizione CD 12 lo rivela prima che la situazione degeneri. |
+| 3 | L'acqua stagnante della Sottocripta Allagata (Zona 9) si è infiltrata anche qui: terreno difficile per l'intero tratto, più un tiro salvezza di Costituzione CD 10 o un livello di indebolimento (freddo, non magico) per chi vi resta immerso troppo a lungo. |
+| 4 | Un filo della corruzione residua (Prova di Arcana CD 30+, §1) si manifesta come una luce fredda e sbagliata in fondo a un corridoio — non si avvicina, non attacca: osserva. Chi la osserva a sua volta (Saggezza CD 15) avverte un disagio profondo, nessun danno. Un presagio, non uno scontro. |
+| 5 | Una melma informe (Manuale dei Mostri) occupa un tratto di galleria — ovvia da individuare ed evitare con una minima cautela, letale solo per chi la tocca senza pensarci. |
+| 6 | Un tremore lontano, troppo profondo per essere un crollo. Nessun effetto immediato — un presagio di qualcosa che questo capitolo non è pensato per rivelare (`architettura-campagna.md`). |
 
 ### Zona 9 — Il Sottocripta Allagato (mini-dungeon)
 
