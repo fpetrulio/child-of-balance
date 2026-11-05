@@ -247,3 +247,19 @@ CL-78 | OUTPUT PRODOTTO — GATE E RISOLTO | Compilata la sinossi di una pagina,
 ## Handoff — fine sessione, 13 ottobre 2026 (Gate E RISOLTO)
 
 Gate E della Narrative Roadmap RISOLTO: tutte le domande della roadmap affrontate (fascia di livelli, downtime non giocati, struttura del recupero reliquie, origine di Eos, diffusione della profezia, geografia canonica con correzione di lore su Thultanthar, cronologia con ancoraggio alla caduta di Netheril, evoluzione dei culti, incontro decisivo) e output finale prodotto (sinossi, timeline, tabella capitoli). Sessione particolarmente densa: 19 nuove decisioni (DEC-0037 a DEC-0057), una correzione di lore propagata al manuale GM, build LaTeX verificata più volte. Prossimo gate secondo la roadmap: Gate F (primo vertical slice giocabile) — da affrontare in una sessione separata per preferenza dell'autore.
+
+## Gate F — primo vertical slice (Capitolo 1) — 13 ottobre 2026 (ricostruzione retroattiva)
+
+> Sezione ricostruita il 5 novembre 2026 a partire dalle voci DEC-0058–0061 della Campaign Bible: `/wrapup` non aveva registrato questa parte della sessione nel changelog. Non è una trascrizione; per il testo completo di ogni decisione fa fede la Campaign Bible.
+
+CL-79 | CONFERMATO (DEC-0058) | Formato di gioco delle 6 Impronte di Eos in Appendice B sul modello degli artefatti DMG: tutte richiedono sintonia, nessun tiro salvezza su Dono o Presa (unica difesa: Benedizione di Eos o contromisure rituali dei culti), indistruttibili per ora (gancio aperto). Economia delle cariche invariata (DEC-0031). Razionale: rinforzare il legame personale/tentazione e impedire l'uso casuale da parte di chi ne ruba una.
+
+CL-80 | CONFERMATO (DEC-0059) | Capitolo 1 completo dal Prologo al checkpoint di Livello 3, promosso in `Capitolo1.tex`: fuga dal Santuario, rovine di un avamposto di Eaerlann (caduto nell'882 DR) in due parti, branco orco di Grulnak e quasit intrappolato come incontri motivati, scontro clou con Nyx Kelvorn e il Velo. Razionale: il Velo legge più chiaramente come minaccia oscura per giocatori orientati al bene, favorendo senza forzature il ramo Bene Assoluto. Framework riutilizzabile formalizzato in `principi-di-design.md` §8.
+
+CL-81 | REVISIONE (DEC-0060) | Ridimensionati i poteri di tre Impronte (Specchio Incrinato, Velo Strappato, Radice Incantata): da effetti ad area/oracolari a effetti su un singolo bersaglio. Razionale: erano "troppo forti nel senso sbagliato", aggiravano la struttura investigativa invece di porre un dilemma morale.
+
+CL-82 | CONFERMATO (DEC-0061) | Target di 8-15 scene distinte per level-up (~3-5 a sessione), verificato su Death House, Descent into Avernus e Rime of the Frostmaiden. Parte 1 di Aelothir espansa da 4 a 8 zone (Crocevia delle Radici, Deposito Nascosto, Posto di Guardia Abbandonato, Cappella Crollata), con rinumerazione a cascata. Razionale: la quantità di contenuto conta più della struttura.
+
+## Handoff — fine sessione, 13 ottobre 2026 (Gate F RISOLTO IN GRAN PARTE)
+
+Capitolo 1 giocabile fino al Livello 3. Restano aperti per il Gate F: mappa del Santuario, scena del rifugio del Downtime I, conversione Foundry/The Forge. Proseguire nei file di changelog datati (`2026-10-14-…` e successivi).

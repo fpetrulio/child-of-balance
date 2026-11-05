@@ -177,11 +177,11 @@ Verificato sull'anatomia reale dei manuali D&D pubblicati (Lost Mine of Phandelv
 
 ### 9.1 Apertura del manuale
 
-Un'avventura pubblicata apre sempre con: **Introduzione** breve (ambientazione, tono, livelli coperti, cosa serve per condurla) e **Sinossi dell'Avventura** — un riassunto ad alto livello del flusso atteso, capitolo per capitolo, anche quando l'avventura non è lineare. Non è decorazione: è lo strumento con cui il GM si orienta prima di leggere tutto il resto. **Gap noto nel nostro manuale**: `Introduzione.tex` ha ancora "Guida all'Avventura / Riassunto dell'Avventura" come TODO letterale (mai riempito), nonostante la sinossi esista già e sia CONFERMATA in `architettura-campagna.md` §0 (prodotta a chiusura del Gate E) -- mai promossa. Stesso tipo di divario già osservato altre volte fra draft e manuale: da colmare.
+Un'avventura pubblicata apre sempre con: **Introduzione** breve (ambientazione, tono, livelli coperti, cosa serve per condurla) e **Sinossi dell'Avventura** — un riassunto ad alto livello del flusso atteso, capitolo per capitolo, anche quando l'avventura non è lineare. Non è decorazione: è lo strumento con cui il GM si orienta prima di leggere tutto il resto. **Gap noto nel nostro manuale**: `Introduzione.tex` ha ancora "Guida all'Avventura / Riassunto dell'Avventura" come TODO letterale (mai riempito), nonostante la sinossi esista già e sia CONFERMATA in `architettura-campagna.md` §0 (prodotta a chiusura del Gate E) -- mai promossa. Stesso tipo di divario già osservato altre volte fra draft e manuale: da colmare. **AGGIORNAMENTO 14/10/2026 (DEC-0063):** gap colmato, sinossi e tabella dei capitoli promosse in `Introduzione.tex`.
 
 ### 9.2 Apertura di capitolo
 
-Ogni capitolo dovrebbe dichiarare, nelle prime righe o in un box GM, livelli coperti, numero di sessioni attese, e una frase di sinossi -- non solo un titolo. Lo facciamo già parzialmente con i box `DndSidebar` "Panoramica per il GM" messi all'inizio di ogni sezione maggiore; va reso sistematico su ogni capitolo futuro, non solo dove capita.
+Ogni capitolo dovrebbe dichiarare, nelle prime righe o in un box GM, livelli coperti, numero di sessioni attese, e una frase di sinossi -- non solo un titolo. Lo facciamo già parzialmente con i box `DndSidebar` "Panoramica per il GM" messi all'inizio di ogni sezione maggiore; va reso sistematico su ogni capitolo futuro, non solo dove capita. **AGGIORNAMENTO 17/10/2026 (DEC-0077):** applicato al Capitolo 1 con il box "Il capitolo a colpo d'occhio"; resta la regola per i capitoli futuri.
 
 ### 9.3 Illustrazioni
 
