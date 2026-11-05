@@ -73,6 +73,16 @@ Stranezze incontrate (`packages.txt` risale al 2019, alcuni nomi sono cambiati s
 - `sttools` (fornisce `stfloats.sty`) è risultato intermittente sul mirror `texlive.info` — se fallisce, riprovare o usare un mirror diverso (`mirror.ctan.org`, `ctan.math.illinois.edu`).
 - Il mirror generico `mirror.ctan.org` a volte risolve verso repliche con catalogo disallineato ("remote database... seems older") — se capita, puntare esplicitamente a `https://texlive.info/CTAN/systems/texlive/tlnet`.
 
+**Compilazione verificata il 05/11/2026 su Linux Debian/Ubuntu (TeX Live 2023 da apt)** — `main.pdf` di 46 pagine, nessun errore. Pacchetti apt necessari oltre a `texlive-latex-extra`, `texlive-fonts-recommended` e `latexmk`:
+
+```sh
+sudo apt-get install texlive-fonts-extra texlive-lang-italian   # Royal/cfr-initials, gillius, kpfonts; babel italiano
+git lfs pull                                                     # dalla root del repo: immagini e footerscroll.pdf sono in Git LFS
+make                                                             # oppure: latexmk -g -pdf main.tex per forzare la ricompilazione
+```
+
+Senza `git lfs pull` la compilazione fallisce con `reading JPEG image failed (no JPEG header found)`: in `img/` ci sono solo i puntatori LFS.
+
 **Risolto (12/10/2026)**: l'avviso `Package pgfkeys Error: I do not know the key '/tcb/\NoValue'` che compariva una volta per ogni box `DndComment` era causato da `\begin{DndComment}{Titolo}` senza l'argomento opzionale `[...]` — il marcatore interno `-NoValue-` di xparse per l'argomento omesso finiva passato al parser di chiavi di `tcolorbox`. Fix: usare sempre `\begin{DndComment}[]{Titolo}` con le quadre esplicite anche se vuote (già applicato in tutti i capitoli/appendici esistenti).
 
 **Risolto (12/10/2026)**: testo giustificato invece di ragged-right — il template ha già un'opzione di classe `justified` (vedi `dndoptions.clo`), basta passarla: `\documentclass[...,justified]{dndbook}` (già impostata in `main.tex`).
